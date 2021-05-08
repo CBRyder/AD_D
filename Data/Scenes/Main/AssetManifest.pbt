@@ -1,4 +1,13 @@
 Assets {
+  Id: 15865742044344703787
+  Name: "Large Round Wood Beam 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_large_beam_round_6m"
+  }
+}
+Assets {
   Id: 6585207450897081622
   Name: "Sphere"
   PlatformAssetType: 1

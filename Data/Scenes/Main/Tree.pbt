@@ -18,9 +18,7 @@ Objects {
   ChildIds: 4939999673464977167
   ChildIds: 17598087537826383623
   ChildIds: 13154402826355461240
-  ChildIds: 10859470025346981682
-  ChildIds: 15376482476663175541
-  ChildIds: 54321753534697649
+  ChildIds: 4335363993470746110
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -36,6 +34,43 @@ Objects {
   }
 }
 Objects {
+  Id: 4335363993470746110
+  Name: "Beach Bals"
+  Transform {
+    Location {
+      X: 710
+      Y: 650
+      Z: 490
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 9252383252800726362
+  ChildIds: 10859470025346981682
+  ChildIds: 54321753534697649
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsGroup: true
+  }
+}
+Objects {
   Id: 54321753534697649
   Name: "Beach Ball"
   Transform {
@@ -45,7 +80,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4335363993470746110
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -74,6 +109,27 @@ Objects {
           Name: "Name"
           String: "Beach Ball"
         }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3764
+            Y: -2115
+            Z: 962
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
       }
     }
     TemplateAsset {
@@ -82,87 +138,13 @@ Objects {
   }
 }
 Objects {
-  Id: 15376482476663175541
-  Name: "Stick"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 1875930084647868528
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -4.12585449
-            Y: -1.24731445
-            Z: 23.5570831
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12340407816829970893
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.3
-            Y: 0.900000036
-            Z: 0.1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 369
-            Y: 502
-            Z: -544
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12457494203675564034
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Stick"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -12431
-            Y: -16740
-            Z: 4124
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17619809400484584502
-    }
-  }
-}
-Objects {
   Id: 10859470025346981682
   Name: "ClientContext"
   Transform {
     Location {
-      X: -12081
-      Y: -16200
-      Z: 3588
+      X: -15845
+      Y: -18310
+      Z: 4550
     }
     Rotation {
     }
@@ -172,7 +154,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4781671109827199097
+  ParentId: 4335363993470746110
   ChildIds: 5805226872695984328
   WantsNetworking: true
   Collidable_v2 {
@@ -1635,6 +1617,95 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+}
+Objects {
+  Id: 9252383252800726362
+  Name: "Stick"
+  Transform {
+    Location {
+      X: -16215
+      Y: -18855
+      Z: 5086
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4335363993470746110
+  ChildIds: 9783813949039219861
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 9252383252800726362
+    SubobjectId: 12457494203675564034
+    InstanceId: 15376482476663175541
+    TemplateId: 17619809400484584502
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 9783813949039219861
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: 369
+      Y: 502
+      Z: -544
+    }
+    Rotation {
+      Pitch: 90
+    }
+    Scale {
+      X: 0.3
+      Y: 0.900000036
+      Z: 0.1
+    }
+  }
+  ParentId: 9252383252800726362
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15865742044344703787
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 9783813949039219861
+    SubobjectId: 12340407816829970893
+    InstanceId: 15376482476663175541
+    TemplateId: 17619809400484584502
   }
 }
 Objects {
