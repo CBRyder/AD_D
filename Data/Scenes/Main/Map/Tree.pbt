@@ -94584,9 +94584,16 @@ Objects {
   }
 }
 Objects {
-  Id: 6141030331794947743
+  Id: 1650162534093572893
   Name: "Well"
   Transform {
+    Location {
+      X: -16678.8633
+      Y: -1460.73633
+      Z: -349.584473
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -94594,59 +94601,27 @@ Objects {
     }
   }
   ParentId: 17598087537826383623
+  UnregisteredParameters {
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6743750354107943897
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 35.734375
-            Y: -11.7109375
-            Z: 150.393799
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 14947430170866686353
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Well"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -16678.8633
-            Y: -1460.73633
-            Z: -349.584473
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16776349808097718721
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Well"
+  }
+  InstanceHistory {
+    SelfId: 1650162534093572893
+    SubobjectId: 14947430170866686353
+    InstanceId: 6141030331794947743
+    TemplateId: 16776349808097718721
+    WasRoot: true
   }
 }
 Objects {
