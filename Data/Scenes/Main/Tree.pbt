@@ -24,13 +24,8 @@ Objects {
   ChildIds: 7464504980837326911
   ChildIds: 188959036692674960
   ChildIds: 6141030331794947743
-  ChildIds: 16859381618024020383
-  ChildIds: 11739192479874178016
-  ChildIds: 16235898198560417577
-  ChildIds: 1460983465989325629
   ChildIds: 2474520912395056021
-  ChildIds: 3604396190050084465
-  ChildIds: 1737182718020703386
+  ChildIds: 7801414869256636661
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -46,16 +41,14 @@ Objects {
   }
 }
 Objects {
-  Id: 1737182718020703386
-  Name: "Fantasy Lamppost"
+  Id: 7801414869256636661
+  Name: "street lamps"
   Transform {
     Location {
-      X: -11721.8164
-      Y: -16329.8945
-      Z: 3609.63574
+      X: -7814.54443
+      Y: -10886.5967
     }
     Rotation {
-      Yaw: 117.651123
     }
     Scale {
       X: 1
@@ -70,87 +63,15 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17086162731873739801
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fantasy Lamppost"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -13303.0479
-            Y: -17639.3223
-            Z: 4234.29688
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 117.651123
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 12202530240674457076
-    }
-  }
-}
-Objects {
-  Id: 3604396190050084465
-  Name: "Fantasy Lamppost"
-  Transform {
-    Location {
-      X: -11721.8164
-      Y: -16329.8945
-      Z: 3609.63574
-    }
-    Rotation {
-      Yaw: 117.651123
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
+  CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17086162731873739801
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fantasy Lamppost"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -12942.0215
-            Y: -15933.8467
-            Z: 3834.73291
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -53.0731812
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9100914480408757584
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "street lamps"
   }
 }
 Objects {
@@ -198,230 +119,6 @@ Objects {
         LinearDamping: 0.01
       }
       BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 1460983465989325629
-  Name: "Lantern Lit"
-  Transform {
-    Location {
-      X: -12913.3213
-      Y: -17057.6211
-      Z: 4788.36133
-    }
-    Rotation {
-      Yaw: 74.0404
-    }
-    Scale {
-      X: 0.169769302
-      Y: 0.169769302
-      Z: 0.169769302
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 9205894741221638436
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lantern Lit"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -13683.1533
-            Y: -18724.4883
-            Z: 5208.51025
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.169769302
-            Y: 0.169769302
-            Z: 0.169769302
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 16.9607773
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9930990183457893379
-    }
-  }
-}
-Objects {
-  Id: 16235898198560417577
-  Name: "Lantern Lit"
-  Transform {
-    Location {
-      X: -12219.7051
-      Y: -18157.125
-      Z: 4569.37646
-    }
-    Rotation {
-      Yaw: -27.513813
-    }
-    Scale {
-      X: 0.169769302
-      Y: 0.169769302
-      Z: 0.169769302
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 9205894741221638436
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lantern Lit"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -12913.3213
-            Y: -17057.6211
-            Z: 4788.36133
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.169769302
-            Y: 0.169769302
-            Z: 0.169769302
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 74.0404129
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9930990183457893379
-    }
-  }
-}
-Objects {
-  Id: 11739192479874178016
-  Name: "Lantern Lit"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 9205894741221638436
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Lantern Lit"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -12218.0371
-            Y: -18153.9238
-            Z: 4569.37646
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.169769302
-            Y: 0.169769302
-            Z: 0.169769302
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -27.5138245
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9930990183457893379
-    }
-  }
-}
-Objects {
-  Id: 16859381618024020383
-  Name: "Fantasy Lamppost"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17086162731873739801
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fantasy Lamppost"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -11721.8164
-            Y: -16329.8945
-            Z: 3609.63574
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 117.651123
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 12202530240674457076
     }
   }
 }
@@ -1589,8 +1286,6 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  ChildIds: 2908567303738216678
-  ChildIds: 14347308088196896297
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceon"
   }
@@ -1856,104 +1551,6 @@ Objects {
         Min: -102400
         Max: 102400
       }
-    }
-  }
-}
-Objects {
-  Id: 14347308088196896297
-  Name: "Tree Oak Bare 01"
-  Transform {
-    Location {
-      X: -14287.9863
-      Y: -14489.4688
-      Z: 3001.12915
-    }
-    Rotation {
-      Roll: 12.0488949
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13154402826355461240
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5421896985462527051
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 2908567303738216678
-  Name: "Tree Oak Bare 01"
-  Transform {
-    Location {
-      X: -13525.7959
-      Y: -18251.3516
-      Z: 4266.72412
-    }
-    Rotation {
-      Pitch: -24.4511127
-      Yaw: 11.9057369
-      Roll: 0.0168067254
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13154402826355461240
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 5421896985462527051
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
     }
   }
 }

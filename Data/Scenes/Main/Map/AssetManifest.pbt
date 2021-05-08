@@ -350,6 +350,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5421896985462527051
+  Name: "Tree Oak Bare 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_tree_oak_002"
+  }
+}
+Assets {
   Id: 5233917102952999329
   Name: "Humanoid 2 Trooper Armor"
   PlatformAssetType: 26
