@@ -17887,8 +17887,8 @@ Objects {
   Transform {
     Location {
       X: -7540
-      Y: -11045
-      Z: -4850
+      Y: -9700.54297
+      Z: -4836.48145
     }
     Rotation {
       Yaw: 89.9999924
@@ -18572,11 +18572,14 @@ Objects {
   Name: "Water Cube"
   Transform {
     Location {
-      X: -9035
-      Y: -2715
-      Z: -5030
+      X: -9380.14941
+      Y: -2629.92578
+      Z: -4570.43066
     }
     Rotation {
+      Pitch: 2.78517342
+      Yaw: -92.0929871
+      Roll: -92.1002197
     }
     Scale {
       X: 82.25
