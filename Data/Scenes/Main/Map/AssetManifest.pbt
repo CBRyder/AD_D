@@ -44,15 +44,6 @@ Assets {
   }
 }
 Assets {
-  Id: 17820449802669664459
-  Name: "Tree Oak Stump 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_oak_stump_001"
-  }
-}
-Assets {
   Id: 16965777294932964901
   Name: "Cube - Chamfered Large Polished"
   PlatformAssetType: 1
@@ -86,15 +77,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_weap_modern_sight_002"
-  }
-}
-Assets {
-  Id: 15946795211297078556
-  Name: "Branches Cluster Small"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_gen_branches_small_001"
   }
 }
 Assets {
@@ -152,15 +134,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14434207069068240217
-  Name: "Tree Birch 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_birch_001"
-  }
-}
-Assets {
   Id: 14152593999982373796
   Name: "Whitebox Wall 01 Half"
   PlatformAssetType: 1
@@ -170,30 +143,12 @@ Assets {
   }
 }
 Assets {
-  Id: 14128622363963921351
-  Name: "Clover Patch 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_foliage_gen_clover_patch_001"
-  }
-}
-Assets {
   Id: 13972313843919452688
   Name: "Craftsman Coffee Table"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_coffee_table_001"
-  }
-}
-Assets {
-  Id: 13707100838682291746
-  Name: "Wood Raw"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_wood_raw_001_uv"
   }
 }
 Assets {
@@ -224,39 +179,21 @@ Assets {
   }
 }
 Assets {
-  Id: 12988223822026641316
-  Name: "Bark Redwood 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_bark_redwood_001_uv"
-  }
-}
-Assets {
-  Id: 12604883795427073721
-  Name: "Bush 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bush_generic_001"
-  }
-}
-Assets {
-  Id: 12203375713281195042
-  Name: "Bush 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bush_generic_002"
-  }
-}
-Assets {
   Id: 12056825294615652422
   Name: "Simple Crate 150cm"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_crate_simple_150cm_001"
+  }
+}
+Assets {
+  Id: 11957486440208403105
+  Name: "Bone Human Skull Pile 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bones_human_skull_pile_02_ref"
   }
 }
 Assets {
@@ -314,39 +251,12 @@ Assets {
   }
 }
 Assets {
-  Id: 9881960943131130572
-  Name: "Underwater Post Process"
-  PlatformAssetType: 20
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_post_process_water"
-  }
-}
-Assets {
   Id: 9117384065423546074
   Name: "Modern Weapon - Sight Rear 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_weap_modern_sight_rear_002"
-  }
-}
-Assets {
-  Id: 8692377265272117992
-  Name: "Leafy Patch 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_foliage_gen_leafy_groundcover_001"
-  }
-}
-Assets {
-  Id: 8658570311836347699
-  Name: "Tree Oak 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_oak_001"
   }
 }
 Assets {
@@ -365,15 +275,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_urb_sub_craftsman_wall_int_001_corner"
-  }
-}
-Assets {
-  Id: 8004107732864132691
-  Name: "Tree Redwood Small"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_redwood_005"
   }
 }
 Assets {
@@ -431,24 +332,6 @@ Assets {
   }
 }
 Assets {
-  Id: 6606778287839315504
-  Name: "Generic Water - No Distortion"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "fxma_parameter_driven_water_nodistortion"
-  }
-}
-Assets {
-  Id: 6556306039504242639
-  Name: "Grass Tall"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_grass_generic_001"
-  }
-}
-Assets {
   Id: 6485771761840313257
   Name: "Craftsman Dining Chair"
   PlatformAssetType: 1
@@ -464,15 +347,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_curtain_02"
-  }
-}
-Assets {
-  Id: 5828623172553434551
-  Name: "Prism - 8-Sided"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_prism_octagon_001"
   }
 }
 Assets {
@@ -500,33 +374,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_carpet_tile_001"
-  }
-}
-Assets {
-  Id: 4071677151270185109
-  Name: "Grass Tall"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_grass_generic_001"
-  }
-}
-Assets {
-  Id: 3387996853437396521
-  Name: "Pipe - 8-Sided Thin"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_eightsided_001"
-  }
-}
-Assets {
-  Id: 3377721323622766709
-  Name: "Rock Pile 002"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rocks_small_002"
   }
 }
 Assets {
@@ -584,15 +431,6 @@ Assets {
   }
 }
 Assets {
-  Id: 2452176330392954221
-  Name: "Grass Short"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_grass_generic_002"
-  }
-}
-Assets {
   Id: 2436979131935544357
   Name: "Wood Planks Dark"
   PlatformAssetType: 2
@@ -620,15 +458,6 @@ Assets {
   }
 }
 Assets {
-  Id: 1859144387509612805
-  Name: "Decals Wood Chips 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_strand_board_001_ref"
-  }
-}
-Assets {
   Id: 831638702062843835
   Name: "Whitebox Wall 01 Doorway 01"
   PlatformAssetType: 1
@@ -653,15 +482,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_gen_whitebox_wall_001"
-  }
-}
-Assets {
-  Id: 195175135524914926
-  Name: "Cube"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_002"
   }
 }
 Assets {

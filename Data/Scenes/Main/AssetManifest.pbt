@@ -1,64 +1,37 @@
 Assets {
-  Id: 18227535234090332185
-  Name: "Pipe"
+  Id: 18244274405329183209
+  Name: "Rock 03"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_001"
+    AssetId: "sm_rock_generic_003"
   }
 }
 Assets {
-  Id: 17984746574507509586
-  Name: "Plastic Shiny"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "plastic_shiny_001"
-  }
-}
-Assets {
-  Id: 15865742044344703787
-  Name: "Large Round Wood Beam 8m"
+  Id: 14329033965125600965
+  Name: "Cylinder"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_large_beam_round_6m"
+    AssetId: "sm_cylinder_002"
   }
 }
 Assets {
-  Id: 14598548355882126978
-  Name: "Urban Damaged Rebar - Single 4m"
+  Id: 12467523517518383990
+  Name: "Rock 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_urb_dest_rebar_005_ref"
+    AssetId: "sm_rock_generic_002_sm_rock_generic_002_LOD0"
   }
 }
 Assets {
-  Id: 12695405141639534807
+  Id: 11022989200584673337
   Name: "Stone Basic"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "stone_001"
-  }
-}
-Assets {
-  Id: 12615062631074786204
-  Name: "Bone Human Skull 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_bones_human_skull_01_ref"
-  }
-}
-Assets {
-  Id: 9580245829600554801
-  Name: "Sphere - Half Slice"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_hemisphere_wedge_001"
   }
 }
 Assets {
@@ -71,30 +44,21 @@ Assets {
   }
 }
 Assets {
+  Id: 8016666928831348780
+  Name: "Emissive Glow Opaque"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_opaque_emissive"
+  }
+}
+Assets {
   Id: 6634264318091857504
   Name: "Humanoid 1 Aparna"
   PlatformAssetType: 26
   PrimaryAsset {
     AssetType: "SkinnedMeshAssetRef"
     AssetId: "npc_human_gal_head_basic_008_ref"
-  }
-}
-Assets {
-  Id: 6585207450897081622
-  Name: "Sphere"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_sphere_002"
-  }
-}
-Assets {
-  Id: 6234814280462007355
-  Name: "Urban Damaged Rebar - Lattice 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_urb_dest_rebar_002_ref"
   }
 }
 Assets {
@@ -116,24 +80,6 @@ Assets {
   }
 }
 Assets {
-  Id: 5251119395865291253
-  Name: "Sphere"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_sphere_002"
-  }
-}
-Assets {
-  Id: 4192593587451384061
-  Name: "Urban Damaged Rebar - Twisted Ends 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_urb_dest_rebar_003_ref"
-  }
-}
-Assets {
   Id: 3741725541922471867
   Name: "Humanoid 1 Rig"
   PlatformAssetType: 25
@@ -143,21 +89,30 @@ Assets {
   }
 }
 Assets {
-  Id: 2901223154460841353
-  Name: "Sphere - Half Slice"
+  Id: 2820645339768812079
+  Name: "Bench Full"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_hemisphere_wedge_001"
+    AssetId: "sm_bench_001"
   }
 }
 Assets {
-  Id: 643713811288060970
-  Name: "Plastic Shiny"
+  Id: 2438189571499279596
+  Name: "Metal Iron Rusted 02"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "plastic_shiny_001"
+    AssetId: "mi_metal_iron_003"
+  }
+}
+Assets {
+  Id: 1587931893452456642
+  Name: "Pipe"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_001"
   }
 }
 Assets {
