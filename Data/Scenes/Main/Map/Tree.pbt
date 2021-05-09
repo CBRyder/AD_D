@@ -1,6 +1,60 @@
 Name: "Map"
 RootId: 17598087537826383623
 Objects {
+  Id: 5428416196644649910
+  Name: "Water wheel"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17598087537826383623
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18305423218014883322
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Water wheel"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -6179.26953
+            Y: -7815.08203
+            Z: 131.286621
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 155.866241
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1006876564969275773
+    }
+  }
+}
+Objects {
   Id: 13304369310856348649
   Name: "MedievalBuildings"
   Transform {
