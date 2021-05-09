@@ -10,5 +10,9 @@ Tags: "RPG"
 Tags: "OpenWorld"
 Tags: "Medieval"
 ScreenshotPaths: "C:/Users/Ryder/OneDrive/Documents/My Games/Core/Saved/Maps/IDK yet/Screenshots/Screenshot0001.png"
+ScreenshotPaths: "C:/Users/Ryder/OneDrive/Documents/My Games/Core/Saved/Maps/IDK yet/Screenshots/Screenshot0002.png"
+ScreenshotPaths: "C:/Users/Ryder/OneDrive/Documents/My Games/Core/Saved/Maps/IDK yet/Screenshots/Screenshot0003.png"
+ReleaseNotes: "-Added dungeon"
 OwnerId: "1fbcc8954dfd48659225491a61f91f80"
 SerializationVersion: 1
+PublishedState: Public
