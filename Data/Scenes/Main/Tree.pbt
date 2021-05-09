@@ -22,6 +22,7 @@ Objects {
   ChildIds: 12182823396834100723
   ChildIds: 2159349401422016126
   ChildIds: 16005043000430789486
+  ChildIds: 9039215583829235114
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34,6 +35,39 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 9039215583829235114
+  Name: "Boss Slayer above bar"
+  Transform {
+    Location {
+      X: -16070
+      Y: -17500
+      Z: 5211
+    }
+    Rotation {
+      Yaw: -28.9118042
+    }
+    Scale {
+      X: 1.30000019
+      Y: 1.30000019
+      Z: 1.30000019
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Boss Slayer above bar_2"
   }
 }
 Objects {
