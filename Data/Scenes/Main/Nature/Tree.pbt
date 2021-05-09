@@ -5,8 +5,8 @@ Objects {
   Name: "Tree Oak 01"
   Transform {
     Location {
-      X: 12592.8203
-      Y: 16498.8555
+      X: 12592.8193
+      Y: 16498.8535
       Z: -11674.7012
     }
     Rotation {
@@ -15,8 +15,8 @@ Objects {
       Roll: 19.0085831
     }
     Scale {
-      X: 2
-      Y: 2
+      X: 2.4189992
+      Y: 1.99998331
       Z: 2
     }
   }
@@ -365,18 +365,18 @@ Objects {
   Name: "Tree Redwood Small"
   Transform {
     Location {
-      X: 13104.999
-      Y: 6101.55713
-      Z: -3661.96924
+      X: 13104.9971
+      Y: 6101.55664
+      Z: -3661.96826
     }
     Rotation {
       Pitch: 31.3213062
-      Yaw: -60.3490143
+      Yaw: -60.349
       Roll: 16.4845924
     }
     Scale {
-      X: 2.5
-      Y: 2.5
+      X: 3.02374935
+      Y: 2.49997973
       Z: 2.5
     }
   }

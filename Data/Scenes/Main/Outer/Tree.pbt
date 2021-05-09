@@ -1,6 +1,69 @@
 Name: "Outer"
 RootId: 18157780585503435187
 Objects {
+  Id: 1842553798473627655
+  Name: "Cube - Bottom-Aligned"
+  Transform {
+    Location {
+      X: 665.077
+      Y: 551.149536
+      Z: -476.04834
+    }
+    Rotation {
+      Yaw: 2.04905664e-05
+    }
+    Scale {
+      X: 0.108212888
+      Y: 0.2
+      Z: 3
+    }
+  }
+  ParentId: 18157780585503435187
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 6549362186481614472
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:smart"
+      Bool: false
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 14176234275809442376
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 10080057096226350037
+    SubobjectId: 14705114493184187516
+    InstanceId: 13513965103144272189
+    TemplateId: 9587311956131380779
+  }
+}
+Objects {
   Id: 11519368607989741520
   Name: "Cube - Bottom-Aligned"
   Transform {

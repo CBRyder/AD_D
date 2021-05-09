@@ -21,8 +21,12 @@ Objects {
   ChildIds: 2957126796642060185
   ChildIds: 12182823396834100723
   ChildIds: 2159349401422016126
-  ChildIds: 16005043000430789486
   ChildIds: 9039215583829235114
+  ChildIds: 5428416196644649910
+  ChildIds: 16590287192581071566
+  ChildIds: 12721095366636724302
+  ChildIds: 4872958365335747169
+  ChildIds: 14612948979141555324
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,6 +39,461 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 14612948979141555324
+  Name: "Sky Sci-fi 01"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 12743596547252287504
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Sky Sci-fi 01"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -11079
+            Y: -30647
+            Z: 3542
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4004602083051924743
+    }
+  }
+}
+Objects {
+  Id: 4872958365335747169
+  Name: "cave stairs 1"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1388408148991526291
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3429850095745509441
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3944069646100642619
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5065352998281645920
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5310765840912864501
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6179566862879776951
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7525671974914274818
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8780883191131973482
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9102621575664796824
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10063504687966755660
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13609583367844350951
+      value {
+        Overrides {
+          Name: "Name"
+          String: "cave stairs 1"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -16036.79
+            Y: -28486.4043
+            Z: 3613.96655
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -24.0044861
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14420523018064730615
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15709628564227390020
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16627236470563731770
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16638243962430150357
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17228698165888808443
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17401683920904655121
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17647537217129068276
+      value {
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 11992712439183206992
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18333693225787324965
+    }
+  }
+}
+Objects {
+  Id: 12721095366636724302
+  Name: "bridge - moss"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8667996679011283594
+      value {
+        Overrides {
+          Name: "Name"
+          String: "bridge - moss"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -13654.3867
+            Y: -29495.0059
+            Z: 3754.66284
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -23.052063
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2.27360463
+            Y: 1.87977409
+            Z: 1.87978947
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 14141046849664819172
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1021.84479
+            Y: 532.982361
+            Z: -141.900436
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.14715374
+            Y: 1.22474575
+            Z: 0.850647
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17188044684675462942
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 833.954712
+            Y: -29.2563496
+            Z: -23.098732
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.33924592
+            Y: 1.2924577
+            Z: 0.885546744
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10269486067552239164
+    }
+  }
+}
+Objects {
+  Id: 16590287192581071566
+  Name: "KCs_LushGrass_HQ"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4954585853130349306
+      value {
+        Overrides {
+          Name: "Name"
+          String: "KCs_LushGrass_HQ"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -16292.1621
+            Y: -20523.5645
+            Z: 4463.99512
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2325847121946411316
+    }
+  }
+}
+Objects {
+  Id: 5428416196644649910
+  Name: "Water wheel"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18305423218014883322
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Water wheel"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -7654.26953
+            Y: -24705.082
+            Z: 3371.28662
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 155.866226
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1006876564969275773
+    }
   }
 }
 Objects {
@@ -68,57 +527,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Boss Slayer above bar_2"
-  }
-}
-Objects {
-  Id: 16005043000430789486
-  Name: "World Text"
-  Transform {
-    Location {
-      X: -16161.9688
-      Y: -17280.4941
-      Z: 5580.80957
-    }
-    Rotation {
-      Yaw: 63.0715828
-    }
-    Scale {
-      X: 6.02421474
-      Y: 6.02421474
-      Z: 6.02421474
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Text {
-    Text: "HELLO WORLD"
-    FontAsset {
-    }
-    Color {
-      R: 1
-      G: 1
-      B: 1
-      A: 1
-    }
-    HorizontalSize: 1
-    VerticalSize: 1
-    HorizontalAlignment {
-      Value: "mc:ecoretexthorizontalalign:left"
-    }
-    VerticalAlignment {
-      Value: "mc:ecoretextverticalalign:center"
-    }
   }
 }
 Objects {
@@ -446,7 +854,7 @@ Objects {
       Asset {
         Id: 5433414281192383425
       }
-      DistanceBetweenInstances: 2000
+      DistanceBetweenInstances: 630
       SpawnDistance: 25600
       CullDistance {
         Min: 10000
@@ -494,7 +902,7 @@ Objects {
       Asset {
         Id: 545967023871026834
       }
-      DistanceBetweenInstances: 2000
+      DistanceBetweenInstances: 1600
       SpawnDistance: 102400
       CullDistance {
         Min: 10000

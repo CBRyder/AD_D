@@ -15,7 +15,7 @@ Assets {
       Overrides {
         Name: "cmp:Material2_Sides"
         AssetReference {
-          Id: 10129307753152655719
+          Id: 925419259062370831
         }
       }
       Overrides {
@@ -27,7 +27,34 @@ Assets {
       Overrides {
         Name: "cmp:Material3_Sides"
         AssetReference {
-          Id: 18108824454017373211
+          Id: 925419259062370831
+        }
+      }
+      Overrides {
+        Name: "cmp:Material1"
+        AssetReference {
+          Id: 925419259062370831
+        }
+      }
+      Overrides {
+        Name: "cmp:Material1_Sides"
+        AssetReference {
+          Id: 11022989200584673337
+        }
+      }
+      Overrides {
+        Name: "cmpc:Material1"
+        Color {
+          R: 0.589006543
+          G: 1
+          B: 0.420000017
+          A: 1
+        }
+      }
+      Overrides {
+        Name: "cmp:Material4"
+        AssetReference {
+          Id: 15003015612476989428
         }
       }
     }
@@ -50,12 +77,12 @@ Assets {
       }
     }
     Assets {
-      Id: 10129307753152655719
-      Name: "Grass and Soil"
+      Id: 925419259062370831
+      Name: "Forest Floor 02"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_grass_003_uv"
+        AssetId: "forest-floor_002"
       }
     }
     Assets {
@@ -68,12 +95,39 @@ Assets {
       }
     }
     Assets {
-      Id: 18108824454017373211
-      Name: "Grass Basic"
+      Id: 925419259062370831
+      Name: "Forest Floor 02"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_grass_001_uv"
+        AssetId: "forest-floor_002"
+      }
+    }
+    Assets {
+      Id: 925419259062370831
+      Name: "Forest Floor 02"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "forest-floor_002"
+      }
+    }
+    Assets {
+      Id: 11022989200584673337
+      Name: "Stone Basic"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "stone_001"
+      }
+    }
+    Assets {
+      Id: 15003015612476989428
+      Name: "Sand 01"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_sand_001_uv"
       }
     }
   }
