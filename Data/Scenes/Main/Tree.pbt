@@ -15,12 +15,13 @@ Objects {
     }
   }
   ChildIds: 15397577125275652185
-  ChildIds: 4939999673464977167
   ChildIds: 17598087537826383623
   ChildIds: 13154402826355461240
   ChildIds: 3233398254772925059
   ChildIds: 2957126796642060185
+  ChildIds: 12182823396834100723
   ChildIds: 2159349401422016126
+  ChildIds: 16005043000430789486
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33,6 +34,57 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 16005043000430789486
+  Name: "World Text"
+  Transform {
+    Location {
+      X: -16161.9688
+      Y: -17280.4941
+      Z: 5580.80957
+    }
+    Rotation {
+      Yaw: 63.0715828
+    }
+    Scale {
+      X: 6.02421474
+      Y: 6.02421474
+      Z: 6.02421474
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Text {
+    Text: "HELLO WORLD"
+    FontAsset {
+    }
+    Color {
+      R: 1
+      G: 1
+      B: 1
+      A: 1
+    }
+    HorizontalSize: 1
+    VerticalSize: 1
+    HorizontalAlignment {
+      Value: "mc:ecoretexthorizontalalign:left"
+    }
+    VerticalAlignment {
+      Value: "mc:ecoretextverticalalign:center"
+    }
   }
 }
 Objects {
@@ -80,8 +132,84 @@ Objects {
         }
       }
     }
+    ParameterOverrideMap {
+      key: 18158561925558083759
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "ride bucket down into sewers"
+        }
+      }
+    }
     TemplateAsset {
       Id: 5970552360970853349
+    }
+  }
+}
+Objects {
+  Id: 12182823396834100723
+  Name: "Game Portal"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11616642636109728948
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Game Portal"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -15580.5078
+            Y: -17750.9336
+            Z: 4534.5415
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -23.8565063
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "cs:DestinationGame"
+          String: "d7ead5/boss-slayers"
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11636998240556499652
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Enter Slayers Bar "
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14084314730209034646
     }
   }
 }
@@ -512,35 +640,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Map"
-  }
-}
-Objects {
-  Id: 4939999673464977167
-  Name: "UI"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "UI"
   }
 }
 Objects {

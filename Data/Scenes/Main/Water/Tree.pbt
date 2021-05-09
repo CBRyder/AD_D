@@ -1,67 +1,7 @@
 Name: "Water"
-RootId: 17135731893516143817
+RootId: 16849084262655184538
 Objects {
-  Id: 8436705129415234703
-  Name: "Water"
-  Transform {
-    Location {
-      X: -2583.84766
-      Y: -10601.7383
-      Z: 6771.71875
-    }
-    Rotation {
-      Pitch: 18.4035072
-      Yaw: -24.1291199
-      Roll: 36.5821533
-    }
-    Scale {
-      X: 90.0000076
-      Y: -368.000031
-      Z: -15.000001
-    }
-  }
-  ParentId: 17135731893516143817
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 8936651358564300703
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 8867757033054246407
-    SubobjectId: 2772815986875176542
-    InstanceId: 3500282456704786299
-    TemplateId: 7332288574855276288
-  }
-}
-Objects {
-  Id: 476735103385461225
+  Id: 10929927134934049184
   Name: "Underwater Post Process"
   Transform {
     Location {
@@ -80,7 +20,7 @@ Objects {
       Z: -15.000001
     }
   }
-  ParentId: 17135731893516143817
+  ParentId: 16849084262655184538
   UnregisteredParameters {
     Overrides {
       Name: "bp:Scene Tint"
@@ -128,7 +68,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8867757033054246407
+  Id: 5460674707393385982
   Name: "Water"
   Transform {
     Location {
@@ -147,7 +87,7 @@ Objects {
       Z: -15.0000496
     }
   }
-  ParentId: 17135731893516143817
+  ParentId: 16849084262655184538
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

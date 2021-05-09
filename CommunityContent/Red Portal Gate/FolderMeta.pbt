@@ -1,0 +1,75 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "f9ea659c016e48ac8edb3fd8440909f8"
+  OwnerAccountId: "c078c42a742146bd99404099e4781e88"
+  OwnerName: "Scav"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 2135388463870456159
+  value: 16163985851040326609
+}
+AssetIdsOriginalToNew {
+  key: 2397756718399008351
+  value: 12977926775471179299
+}
+AssetIdsOriginalToNew {
+  key: 2443029411175187247
+  value: 7001500551022161333
+}
+AssetIdsOriginalToNew {
+  key: 3700395651764015483
+  value: 17902760932452851083
+}
+AssetIdsOriginalToNew {
+  key: 3772771305652744289
+  value: 5259214521104081886
+}
+AssetIdsOriginalToNew {
+  key: 4149965831236966834
+  value: 1081923025043799927
+}
+AssetIdsOriginalToNew {
+  key: 5535200659373152820
+  value: 8076368175457747625
+}
+AssetIdsOriginalToNew {
+  key: 5950181878492717476
+  value: 11014822730685143228
+}
+AssetIdsOriginalToNew {
+  key: 6960014140309447366
+  value: 6774426925772156319
+}
+AssetIdsOriginalToNew {
+  key: 8345067322844717464
+  value: 6804426331133213825
+}
+AssetIdsOriginalToNew {
+  key: 9232918721721040566
+  value: 8390651233280655095
+}
+AssetIdsOriginalToNew {
+  key: 10421701432497496016
+  value: 9491619610519396223
+}
+AssetIdsOriginalToNew {
+  key: 10758243798438109191
+  value: 16601759181220327091
+}
+AssetIdsOriginalToNew {
+  key: 13059134354549368821
+  value: 17154878081782788777
+}
+AssetIdsOriginalToNew {
+  key: 13875089104034929130
+  value: 3111852747733452120
+}
+AssetIdsOriginalToNew {
+  key: 14432270224169639220
+  value: 16620817935848027328
+}
+AssetIdsOriginalToNew {
+  key: 18124283027475504450
+  value: 16201747287327228980
+}
