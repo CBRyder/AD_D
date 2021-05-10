@@ -1,22 +1,4 @@
 Assets {
-  Id: 18244274405329183209
-  Name: "Rock 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rock_generic_003"
-  }
-}
-Assets {
-  Id: 15444532782005529096
-  Name: "Underwater Post Process"
-  PlatformAssetType: 20
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_post_process_water"
-  }
-}
-Assets {
   Id: 14176234275809442376
   Name: "Cube - Bottom-Aligned"
   PlatformAssetType: 1

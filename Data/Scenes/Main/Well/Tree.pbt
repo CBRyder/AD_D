@@ -1,6 +1,73 @@
 Name: "Well"
 RootId: 1650162534093572893
 Objects {
+  Id: 2159349401422016126
+  Name: "Game Portal"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1650162534093572893
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3563399331275127479
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Game Portal"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9.46875
+            Y: -11.4707031
+            Z: 1579.58447
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -79.4164734
+          }
+        }
+        Overrides {
+          Name: "cs:DestinationGame"
+          String: "13879a/sewer-dungeon"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 18158561925558083759
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "ride bucket down into sewers"
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5970552360970853349
+    }
+  }
+}
+Objects {
   Id: 7180332387630179354
   Name: "Grating"
   Transform {

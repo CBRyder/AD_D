@@ -16,13 +16,13 @@ Objects {
   }
   ChildIds: 15397577125275652185
   ChildIds: 17598087537826383623
-  ChildIds: 13154402826355461240
   ChildIds: 2957126796642060185
   ChildIds: 16018081001734330103
   ChildIds: 5365204715626945116
   ChildIds: 4872958365335747169
-  ChildIds: 14612948979141555324
+  ChildIds: 14878184485971978172
   ChildIds: 4609731691398216693
+  ChildIds: 11876389117872336258
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,6 +35,43 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 11876389117872336258
+  Name: "Terrain"
+  Transform {
+    Location {
+      Z: 1820
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Terrain {
+    Material {
+      Id: 13435446020245750735
+    }
+    VoxelSize: 200
+    OctreeDepth: 5
+    GeneratorID: "DEPRECATED"
   }
 }
 Objects {
@@ -73,9 +110,14 @@ Objects {
   }
 }
 Objects {
-  Id: 14612948979141555324
+  Id: 14878184485971978172
   Name: "Sky Sci-fi 01"
   Transform {
+    Location {
+      X: -11079
+      Y: -30647
+      Z: 3542
+    }
     Scale {
       X: 1
       Y: 1
@@ -83,33 +125,565 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
+  ChildIds: 1073062562098113177
+  ChildIds: 3714875805838133959
+  ChildIds: 16807654684073684997
+  ChildIds: 2630452990474803423
+  ChildIds: 6957924922794726083
+  ChildIds: 280806452779117799
+  ChildIds: 17324643487971576849
+  UnregisteredParameters {
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12743596547252287504
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sky Sci-fi 01"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -11079
-            Y: -30647
-            Z: 3542
-          }
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 14878184485971978172
+    SubobjectId: 12743596547252287504
+    InstanceId: 14612948979141555324
+    TemplateId: 4004602083051924743
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 17324643487971576849
+  Name: "Moon"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Pitch: -33.9227905
+      Yaw: 143.455612
+      Roll: -14.8456116
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14878184485971978172
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Brightness"
+      Float: 5
+    }
+    Overrides {
+      Name: "bp:Moon Appearance"
+      Int: 0
+    }
+    Overrides {
+      Name: "bp:Dark Side Lights Appearance"
+      Int: 0
+    }
+    Overrides {
+      Name: "bp:Dark Side Lights Tint"
+      Color {
+        R: 1
+        G: 4.76837158e-07
+        A: 1
       }
     }
-    TemplateAsset {
-      Id: 4004602083051924743
+    Overrides {
+      Name: "bp:Dark Side Lights"
+      Bool: true
     }
+    Overrides {
+      Name: "bp:Scale"
+      Float: 2.77704763
+    }
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 0.321
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Moon Rotation"
+      Vector {
+        Y: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Dark Side Lights Transition Offset"
+      Float: 0.3
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1353607577508895962
+    }
+  }
+  InstanceHistory {
+    SelfId: 17324643487971576849
+    SubobjectId: 10290385445252436925
+    InstanceId: 14612948979141555324
+    TemplateId: 4004602083051924743
+  }
+}
+Objects {
+  Id: 280806452779117799
+  Name: "Moon"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Pitch: -22.8434448
+      Yaw: -76.015625
+      Roll: 4.72481697e-05
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14878184485971978172
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Brightness"
+      Float: 5
+    }
+    Overrides {
+      Name: "bp:Moon Appearance"
+      Int: 0
+    }
+    Overrides {
+      Name: "bp:Dark Side Lights Appearance"
+      Int: 1
+    }
+    Overrides {
+      Name: "bp:Dark Side Lights Tint"
+      Color {
+        R: 3
+        G: 2
+        B: 1.12634695
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Dark Side Lights"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Scale"
+      Float: 1.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 1353607577508895962
+    }
+  }
+  InstanceHistory {
+    SelfId: 280806452779117799
+    SubobjectId: 9026950365928682315
+    InstanceId: 14612948979141555324
+    TemplateId: 4004602083051924743
+  }
+}
+Objects {
+  Id: 6957924922794726083
+  Name: "Planet"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Pitch: -25.303009
+      Yaw: -62.5814514
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14878184485971978172
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Planet Appearance"
+      Enum {
+        Value: "mc:eplanetaryappearance:1"
+      }
+    }
+    Overrides {
+      Name: "bp:Brightness"
+      Float: 6
+    }
+    Overrides {
+      Name: "bp:Cloud Appearance"
+      Enum {
+        Value: "mc:eplanetcloudappearance:1"
+      }
+    }
+    Overrides {
+      Name: "bp:Dark Side Lights"
+      Bool: true
+    }
+    Overrides {
+      Name: "bp:Cloud Scale"
+      Vector {
+        X: 1
+        Y: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Cloud Color"
+      Color {
+        R: 1
+        G: 0.539205313
+        B: 0.51
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 18441810659176357459
+    }
+  }
+  InstanceHistory {
+    SelfId: 6957924922794726083
+    SubobjectId: 2174173908629966191
+    InstanceId: 14612948979141555324
+    TemplateId: 4004602083051924743
+  }
+}
+Objects {
+  Id: 2630452990474803423
+  Name: "Nebula"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Pitch: 64.9999237
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14878184485971978172
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Size"
+      Vector {
+        X: 10
+        Y: 10
+        Z: 10
+      }
+    }
+    Overrides {
+      Name: "bp:Nebula"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:Color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 2617361319805279588
+    }
+  }
+  InstanceHistory {
+    SelfId: 2630452990474803423
+    SubobjectId: 6494906934722217843
+    InstanceId: 14612948979141555324
+    TemplateId: 4004602083051924743
+  }
+}
+Objects {
+  Id: 16807654684073684997
+  Name: "Star Dome"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14878184485971978172
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Star Brightness"
+      Float: 0.95
+    }
+    Overrides {
+      Name: "bp:Twinkle Mask Speed"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Twinkle Mask"
+      Int: 0
+    }
+    Overrides {
+      Name: "bp:Star Appearance"
+      Int: 0
+    }
+    Overrides {
+      Name: "bp:Star Tiling Density"
+      Float: 6
+    }
+    Overrides {
+      Name: "bp:Color Gradient"
+      Enum {
+        Value: "mc:ecolorgradients:11"
+      }
+    }
+    Overrides {
+      Name: "bp:Star Color Cycle"
+      Float: 0
+    }
+    Overrides {
+      Name: "bp:Real Stars"
+      Bool: true
+    }
+    Overrides {
+      Name: "bp:Star Visibility"
+      Float: 0.7
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 12344193518355455075
+    }
+  }
+  InstanceHistory {
+    SelfId: 16807654684073684997
+    SubobjectId: 10944728540396908457
+    InstanceId: 14612948979141555324
+    TemplateId: 4004602083051924743
+  }
+}
+Objects {
+  Id: 3714875805838133959
+  Name: "Skylight"
+  Transform {
+    Location {
+      X: 250
+      Y: 300
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14878184485971978172
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Index"
+      Int: 12
+    }
+    Overrides {
+      Name: "bp:Ambient Image"
+      Enum {
+        Value: "mc:eambientcubemapssmall:9"
+      }
+    }
+    Overrides {
+      Name: "bp:Blend Target Image"
+      Enum {
+        Value: "mc:eambientcubemapssmall:1"
+      }
+    }
+    Overrides {
+      Name: "bp:Blend Amount"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Tint Color"
+      Color {
+        R: 0.600165844
+        G: 0.34375
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Intensity"
+      Float: 1.5
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 11515840070784317904
+    }
+  }
+  InstanceHistory {
+    SelfId: 3714875805838133959
+    SubobjectId: 5561478935585707371
+    InstanceId: 14612948979141555324
+    TemplateId: 4004602083051924743
+  }
+}
+Objects {
+  Id: 1073062562098113177
+  Name: "Sun Light"
+  Transform {
+    Location {
+      X: -50
+      Z: 300
+    }
+    Rotation {
+      Pitch: -38.9736328
+      Yaw: 8.81244946
+      Roll: 11.689105
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14878184485971978172
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Intensity"
+      Float: 3.60844254
+    }
+    Overrides {
+      Name: "bp:Light Shaft Bloom"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Light Shaft Bloom Scale"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Light Shaft Bloom Threshold"
+      Float: 0.5
+    }
+    Overrides {
+      Name: "bp:Light Shaft Bloom Tint"
+      Color {
+        R: 1
+        G: 0.779602647
+        B: 0.480000019
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Use Temperature"
+      Bool: false
+    }
+    Overrides {
+      Name: "bp:Size"
+      Float: 10
+    }
+    Overrides {
+      Name: "bp:Shape"
+      Enum {
+        Value: "mc:esundiscshapes:3"
+      }
+    }
+    Overrides {
+      Name: "bp:Sun Disc Color"
+      Color {
+        R: 0.950000048
+        G: 4.52995323e-07
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 16910278292812118833
+    }
+  }
+  InstanceHistory {
+    SelfId: 1073062562098113177
+    SubobjectId: 8090713207782208821
+    InstanceId: 14612948979141555324
+    TemplateId: 4004602083051924743
   }
 }
 Objects {
@@ -4116,290 +4690,6 @@ Objects {
     MinPitch: -89
     MaxPitch: 89
     DoesPositionOffsetSpring: true
-  }
-}
-Objects {
-  Id: 13154402826355461240
-  Name: "Terrain"
-  Transform {
-    Location {
-      Y: -23.5517578
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Terrain {
-    Material {
-      Id: 4703121689269018469
-    }
-    VoxelSize: 100
-    OctreeDepth: 5
-    GeneratorID: "DEPRECATED"
-    Foliage {
-      Asset {
-        Id: 545967023871026834
-      }
-      DistanceBetweenInstances: 200
-      MaterialChannel: 1
-      SpawnDistance: 25600
-      CullDistance {
-        Min: 10000
-        Max: 20000
-      }
-      CastShadow: true
-      ReceivesDecals: true
-      GroundSlopeAngle {
-        Max: 90
-      }
-      Scaling {
-        ScaleX {
-          Min: 1
-          Max: 1
-        }
-        ScaleY {
-          Min: 1
-          Max: 1
-        }
-        ScaleZ {
-          Min: 1
-          Max: 1
-        }
-      }
-      RotationAlignment: AlignToWorldUp
-      RandomYaw: true
-      RandomPitchAngle: 6
-      Materials {
-        key: "Nature_Grass"
-        value {
-          Id: 841534158063459245
-        }
-      }
-      LocalPositionOffset {
-      }
-      LocalRotationOffset {
-      }
-      GlobalPositionOffset {
-      }
-      Height {
-        Min: -102400
-        Max: 102400
-      }
-    }
-    Foliage {
-      Asset {
-        Id: 5433414281192383425
-      }
-      DistanceBetweenInstances: 630
-      SpawnDistance: 25600
-      CullDistance {
-        Min: 10000
-        Max: 20000
-      }
-      ReceivesDecals: true
-      GroundSlopeAngle {
-        Max: 90
-      }
-      Scaling {
-        ScaleX {
-          Min: 1
-          Max: 1
-        }
-        ScaleY {
-          Min: 1
-          Max: 1
-        }
-        ScaleZ {
-          Min: 1
-          Max: 1
-        }
-      }
-      RotationAlignment: AlignToWorldUp
-      RandomYaw: true
-      RandomPitchAngle: 6
-      Materials {
-        key: "Nature_Grass"
-        value {
-          Id: 841534158063459245
-        }
-      }
-      LocalPositionOffset {
-      }
-      LocalRotationOffset {
-      }
-      GlobalPositionOffset {
-      }
-      Height {
-        Min: -102400
-        Max: 102400
-      }
-    }
-    Foliage {
-      Asset {
-        Id: 545967023871026834
-      }
-      DistanceBetweenInstances: 1600
-      SpawnDistance: 102400
-      CullDistance {
-        Min: 10000
-        Max: 20000
-      }
-      ReceivesDecals: true
-      GroundSlopeAngle {
-        Max: 90
-      }
-      Scaling {
-        ScaleX {
-          Min: 1
-          Max: 1
-        }
-        ScaleY {
-          Min: 1
-          Max: 1
-        }
-        ScaleZ {
-          Min: 1
-          Max: 1
-        }
-      }
-      RotationAlignment: AlignToWorldUp
-      RandomYaw: true
-      RandomPitchAngle: 6
-      Materials {
-        key: "Nature_Grass"
-        value {
-          Id: 841534158063459245
-        }
-      }
-      LocalPositionOffset {
-      }
-      LocalRotationOffset {
-      }
-      GlobalPositionOffset {
-      }
-      Height {
-        Min: -102400
-        Max: 102400
-      }
-    }
-    Foliage {
-      Asset {
-        Id: 5421896985462527051
-      }
-      DistanceBetweenInstances: 6400
-      SpawnDistance: 25600
-      EnableCollision: true
-      CullDistance {
-        Min: 10000
-        Max: 20000
-      }
-      ReceivesDecals: true
-      GroundSlopeAngle {
-        Max: 90
-      }
-      Scaling {
-        ScaleX {
-          Min: 1
-          Max: 1
-        }
-        ScaleY {
-          Min: 1
-          Max: 1
-        }
-        ScaleZ {
-          Min: 1
-          Max: 1
-        }
-      }
-      RotationAlignment: AlignToWorldUp
-      RandomYaw: true
-      RandomPitchAngle: 6
-      Materials {
-        key: "Nature_Trunk"
-        value {
-          Id: 841534158063459245
-        }
-      }
-      LocalPositionOffset {
-      }
-      LocalRotationOffset {
-      }
-      GlobalPositionOffset {
-      }
-      Height {
-        Min: -102400
-        Max: 102400
-      }
-    }
-    Foliage {
-      Asset {
-        Id: 8658570311836347699
-      }
-      DistanceBetweenInstances: 6400
-      SpawnDistance: 76800
-      EnableCollision: true
-      CullDistance {
-        Min: 10000
-        Max: 20000
-      }
-      ReceivesDecals: true
-      GroundSlopeAngle {
-        Max: 90
-      }
-      Scaling {
-        ScaleX {
-          Min: 1
-          Max: 1
-        }
-        ScaleY {
-          Min: 1
-          Max: 1
-        }
-        ScaleZ {
-          Min: 1
-          Max: 1
-        }
-      }
-      RotationAlignment: AlignToWorldUp
-      RandomYaw: true
-      RandomPitchAngle: 6
-      Materials {
-        key: "Nature_Leaves"
-        value {
-          Id: 841534158063459245
-        }
-      }
-      Materials {
-        key: "Nature_Trunk"
-        value {
-          Id: 841534158063459245
-        }
-      }
-      LocalPositionOffset {
-      }
-      LocalRotationOffset {
-      }
-      GlobalPositionOffset {
-      }
-      Height {
-        Min: -102400
-        Max: 102400
-      }
-    }
   }
 }
 Objects {

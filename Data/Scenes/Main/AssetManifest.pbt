@@ -1,4 +1,13 @@
 Assets {
+  Id: 18441810659176357459
+  Name: "Planet"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Planet"
+  }
+}
+Assets {
   Id: 17960854575226149279
   Name: "Boss Slayer"
   PlatformAssetType: 23
@@ -9,6 +18,15 @@ Assets {
         Value: "mc:enetreferencetype:sharedpersistence"
       }
     }
+  }
+}
+Assets {
+  Id: 16910278292812118833
+  Name: "Sun Light"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_SunLight"
   }
 }
 Assets {
@@ -39,6 +57,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12344193518355455075
+  Name: "Star Dome"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_StarDome"
+  }
+}
+Assets {
   Id: 12111995526375112913
   Name: "Terrain - Moss"
   PlatformAssetType: 2
@@ -48,21 +75,21 @@ Assets {
   }
 }
 Assets {
+  Id: 11515840070784317904
+  Name: "Skylight"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Skylight"
+  }
+}
+Assets {
   Id: 9686022029476961003
   Name: "Rock 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rock_generic_001"
-  }
-}
-Assets {
-  Id: 8658570311836347699
-  Name: "Tree Oak 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_oak_001"
   }
 }
 Assets {
@@ -88,29 +115,20 @@ Assets {
   }
 }
 Assets {
-  Id: 5433414281192383425
-  Name: "Grass Short"
-  PlatformAssetType: 1
+  Id: 2617361319805279588
+  Name: "Nebula"
+  PlatformAssetType: 6
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_grass_generic_002"
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Nebula"
   }
 }
 Assets {
-  Id: 5421896985462527051
-  Name: "Tree Oak Bare 01"
-  PlatformAssetType: 1
+  Id: 1353607577508895962
+  Name: "Moon"
+  PlatformAssetType: 6
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_tree_oak_002"
-  }
-}
-Assets {
-  Id: 545967023871026834
-  Name: "Grass Tall"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_grass_generic_001"
+    AssetType: "BlueprintAssetRef"
+    AssetId: "CORESKY_Moon"
   }
 }

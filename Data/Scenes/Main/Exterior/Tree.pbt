@@ -622,8 +622,6 @@ Objects {
   ChildIds: 5721397571467333458
   ChildIds: 1244973239404833816
   ChildIds: 7641664154171216324
-  ChildIds: 433044284092603677
-  ChildIds: 12521744116740473267
   ChildIds: 12453506048839327599
   ChildIds: 16221456606186210107
   ChildIds: 4658059208837354009
@@ -900,133 +898,6 @@ Objects {
   }
 }
 Objects {
-  Id: 12521744116740473267
-  Name: "Rock 03"
-  Transform {
-    Location {
-      X: -2690.83594
-      Y: -4925.30469
-      Z: -1557.49976
-    }
-    Rotation {
-      Pitch: -50.2845459
-      Yaw: 19.1483
-      Roll: -125.039124
-    }
-    Scale {
-      X: 8.4665
-      Y: 6.99994421
-      Z: 7.00000048
-    }
-  }
-  ParentId: 15155202784704666754
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 10567754460365095176
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 18244274405329183209
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 11648660126322428473
-    SubobjectId: 18213618823115246176
-    InstanceId: 3500282456704786299
-    TemplateId: 7332288574855276288
-  }
-}
-Objects {
-  Id: 433044284092603677
-  Name: "Underwater Post Process"
-  Transform {
-    Location {
-      X: -11087.9492
-      Y: -7222.54492
-      Z: -1894.36914
-    }
-    Rotation {
-      Pitch: 0.200609475
-      Yaw: -85.8045654
-      Roll: 1.4324702
-    }
-    Scale {
-      X: 45.0000038
-      Y: -184.000015
-      Z: -7.50000048
-    }
-  }
-  ParentId: 15155202784704666754
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Scene Tint"
-      Color {
-        R: 0.49
-        G: 0.939205229
-        B: 1
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Depth Desaturation"
-      Float: 0.497895956
-    }
-    Overrides {
-      Name: "bp:Distortion Amount"
-      Float: 0.500285804
-    }
-    Overrides {
-      Name: "bp:Fog Density"
-      Float: 0.207055435
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 15444532782005529096
-    }
-    TeamSettings {
-    }
-  }
-  InstanceHistory {
-    SelfId: 476735103385461225
-    SubobjectId: 6626531695206883760
-    InstanceId: 3500282456704786299
-    TemplateId: 7332288574855276288
-  }
-}
-Objects {
   Id: 7641664154171216324
   Name: "Water"
   Transform {
@@ -1276,14 +1147,14 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: 429.150391
-      Y: -2314.55615
-      Z: -394.221191
+      X: 55.4832153
+      Y: -1572.53345
+      Z: -171.403809
     }
     Rotation {
-      Pitch: -24.4511108
-      Yaw: -51.365387
-      Roll: 0.0168078952
+      Pitch: -7.78204346
+      Yaw: -52.3450623
+      Roll: 3.50698948
     }
     Scale {
       X: 1

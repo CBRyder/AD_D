@@ -36,15 +36,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5488.50342
-            Y: -6752.72559
-            Z: 4234.29688
+            X: -14105.4551
+            Y: -2563.40332
+            Z: 1970
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 117.651123
+            Yaw: 148.651
           }
         }
         Overrides {
@@ -98,15 +98,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -5127.47705
-            Y: -5047.25
-            Z: 3834.73291
+            X: -15890.4551
+            Y: -3108.40332
+            Z: 1970
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -53.0731888
+            Yaw: -31.0733032
           }
         }
         Overrides {
@@ -152,15 +152,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -3907.27197
-            Y: -5443.29785
-            Z: 3609.63574
+            X: -14885.4551
+            Y: -4098.40332
+            Z: 1980
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: 117.651123
+            Yaw: 152.651108
           }
         }
         Overrides {

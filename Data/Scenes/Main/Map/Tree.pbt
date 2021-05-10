@@ -1,60 +1,6 @@
 Name: "Map"
 RootId: 17598087537826383623
 Objects {
-  Id: 5428416196644649910
-  Name: "Water wheel"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17598087537826383623
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 18305423218014883322
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Water wheel"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -6179.26953
-            Y: -7815.08203
-            Z: 131.286621
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 155.866241
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1006876564969275773
-    }
-  }
-}
-Objects {
   Id: 13304369310856348649
   Name: "MedievalBuildings"
   Transform {
@@ -94638,164 +94584,6 @@ Objects {
   }
 }
 Objects {
-  Id: 1650162534093572893
-  Name: "Well"
-  Transform {
-    Location {
-      X: -16678.8633
-      Y: -1460.73633
-      Z: -349.584473
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17598087537826383623
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Well"
-  }
-  InstanceHistory {
-    SelfId: 1650162534093572893
-    SubobjectId: 14947430170866686353
-    InstanceId: 6141030331794947743
-    TemplateId: 16776349808097718721
-    WasRoot: true
-  }
-}
-Objects {
-  Id: 188959036692674960
-  Name: "cloged sewer"
-  Transform {
-    Location {
-      X: -11574.0049
-      Y: -1907.53906
-      Z: 554.954346
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.642527401
-      Y: 0.642527401
-      Z: 0.642527401
-    }
-  }
-  ParentId: 17598087537826383623
-  ChildIds: 6373274083408353440
-  ChildIds: 9061503243489184546
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12467523517518383990
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-}
-Objects {
-  Id: 9061503243489184546
-  Name: "skullls in sewer"
-  Transform {
-    Location {
-      X: 280.020569
-      Y: -94.1350861
-      Z: -778.038208
-    }
-    Rotation {
-      Pitch: -24.8545113
-    }
-    Scale {
-      X: 2.71717405
-      Y: 2.71717405
-      Z: 2.71717405
-    }
-  }
-  ParentId: 188959036692674960
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "skullls in sewer"
-  }
-}
-Objects {
-  Id: 6373274083408353440
-  Name: "sewers"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 188959036692674960
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "sewers"
-  }
-}
-Objects {
   Id: 7464504980837326911
   Name: "Updated River Template"
   Transform {
@@ -94826,6 +94614,8 @@ Objects {
   ChildIds: 16134823208573792545
   ChildIds: 14068194195858058338
   ChildIds: 16849084262655184538
+  ChildIds: 12521744116740473267
+  ChildIds: 5270133034218115991
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -94844,6 +94634,126 @@ Objects {
     InstanceId: 3500282456704786299
     TemplateId: 7332288574855276288
     WasRoot: true
+  }
+}
+Objects {
+  Id: 5270133034218115991
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 20482.9375
+      Y: 14149.2305
+      Z: -11116.9912
+    }
+    Rotation {
+      Pitch: -25.2364483
+      Yaw: -123.289009
+      Roll: -154.277893
+    }
+    Scale {
+      X: 16.933
+      Y: 13.9998884
+      Z: 14.000001
+    }
+  }
+  ParentId: 7464504980837326911
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 10567754460365095176
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18244274405329183209
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 11648660126322428473
+    SubobjectId: 18213618823115246176
+    InstanceId: 3500282456704786299
+    TemplateId: 7332288574855276288
+  }
+}
+Objects {
+  Id: 12521744116740473267
+  Name: "Rock 03"
+  Transform {
+    Location {
+      X: 21328.9727
+      Y: 16009.1357
+      Z: -12345.8545
+    }
+    Rotation {
+      Pitch: -78.7998047
+      Yaw: 26.9998055
+      Roll: -73.818985
+    }
+    Scale {
+      X: 16.933
+      Y: 13.9998884
+      Z: 14.000001
+    }
+  }
+  ParentId: 7464504980837326911
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 10567754460365095176
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18244274405329183209
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 11648660126322428473
+    SubobjectId: 18213618823115246176
+    InstanceId: 3500282456704786299
+    TemplateId: 7332288574855276288
   }
 }
 Objects {
@@ -95255,10 +95165,10 @@ Objects {
 }
 Objects {
   Id: 13104496788401309607
-  Name: "Sewer Pipe Exit"
+  Name: "Cloged sewer"
   Transform {
     Location {
-      X: -11170
+      X: -19365
       Y: -2023
       Z: 249
     }
@@ -95279,6 +95189,7 @@ Objects {
   ChildIds: 1901932924496338866
   ChildIds: 5845830952006395480
   ChildIds: 5601937385193765114
+  ChildIds: 188959036692674960
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -95291,6 +95202,124 @@ Objects {
     InstanceId: 15186747076089688056
     TemplateId: 7965569776630424769
     WasRoot: true
+  }
+}
+Objects {
+  Id: 188959036692674960
+  Name: "cloged sewer"
+  Transform {
+    Location {
+      X: -25.4175816
+      Y: -87.9800262
+      Z: 87.4155121
+    }
+    Rotation {
+      Yaw: 95
+    }
+    Scale {
+      X: 0.183579221
+      Y: 0.183579221
+      Z: 0.183579221
+    }
+  }
+  ParentId: 13104496788401309607
+  ChildIds: 6373274083408353440
+  ChildIds: 9061503243489184546
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12467523517518383990
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
+  Id: 9061503243489184546
+  Name: "skullls in sewer"
+  Transform {
+    Location {
+      X: 280.020569
+      Y: -94.1350861
+      Z: -778.038208
+    }
+    Rotation {
+      Pitch: -24.8545113
+    }
+    Scale {
+      X: 2.71717405
+      Y: 2.71717405
+      Z: 2.71717405
+    }
+  }
+  ParentId: 188959036692674960
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "skullls in sewer"
+  }
+}
+Objects {
+  Id: 6373274083408353440
+  Name: "sewers"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 188959036692674960
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "sewers"
   }
 }
 Objects {
@@ -95713,9 +95742,9 @@ Objects {
   Name: "Medieval Tavern"
   Transform {
     Location {
-      X: -14234.3398
-      Y: -1181.86914
-      Z: 1253.58789
+      X: -22513.832
+      Y: 279.064453
+      Z: -1400.95361
     }
     Rotation {
       Yaw: -116.728897
@@ -95753,7 +95782,7 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -12812.9863
+      X: -17940
       Y: 2376.97949
       Z: -238.87085
     }
@@ -95801,7 +95830,7 @@ Objects {
   Name: "Tree Oak Bare 01"
   Transform {
     Location {
-      X: -12050.7959
+      X: -17245
       Y: -1435.63086
       Z: 1026.72412
     }

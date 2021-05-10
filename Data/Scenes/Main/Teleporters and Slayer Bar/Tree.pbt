@@ -5,12 +5,12 @@ Objects {
   Name: "Boss Slayer above bar"
   Transform {
     Location {
-      X: -10715
-      Y: -11665
-      Z: 5211
+      X: -18994.4922
+      Y: -10204.0664
+      Z: 2556.4585
     }
     Rotation {
-      Yaw: -28.9118
+      Yaw: -28.9118042
     }
     Scale {
       X: 1.30000019
@@ -34,9 +34,16 @@ Objects {
   }
 }
 Objects {
-  Id: 2159349401422016126
-  Name: "Game Portal"
+  Id: 1650162534093572893
+  Name: "Well"
   Transform {
+    Location {
+      X: -19735
+      Y: -9320
+      Z: 280
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -44,60 +51,27 @@ Objects {
     }
   }
   ParentId: 16018081001734330103
+  UnregisteredParameters {
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3563399331275127479
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Game Portal"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -12789.3945
-            Y: -12527.207
-            Z: 4530.94629
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -79.4165192
-          }
-        }
-        Overrides {
-          Name: "cs:DestinationGame"
-          String: "13879a/sewer-dungeon"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 18158561925558083759
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "ride bucket down into sewers"
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 5970552360970853349
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Well"
+  }
+  InstanceHistory {
+    SelfId: 1650162534093572893
+    SubobjectId: 14947430170866686353
+    InstanceId: 6141030331794947743
+    TemplateId: 16776349808097718721
+    WasRoot: true
   }
 }
 Objects {
@@ -128,15 +102,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -10225.5078
-            Y: -11915.9336
-            Z: 4534.5415
+            X: -18505
+            Y: -10455
+            Z: 1880
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -23.8564873
+            Yaw: -23.8564758
           }
         }
         Overrides {
