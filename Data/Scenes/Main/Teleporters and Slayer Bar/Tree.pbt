@@ -75,17 +75,9 @@ Objects {
   }
 }
 Objects {
-  Id: 11577592585533282785
+  Id: 12182823396834100723
   Name: "Game Portal"
   Transform {
-    Location {
-      X: -18505
-      Y: -10455
-      Z: 1880
-    }
-    Rotation {
-      Yaw: -23.8564758
-    }
     Scale {
       X: 1
       Y: 1
@@ -93,199 +85,59 @@ Objects {
     }
   }
   ParentId: 16018081001734330103
-  ChildIds: 11593296564338382737
-  ChildIds: 11732314220341847091
-  ChildIds: 14972655588839134600
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:DestinationGame"
-      String: "d7ead5/boss-slayers"
-    }
-    Overrides {
-      Name: "cs:DestinationGame:tooltip"
-      String: "The id of the game that this will portal players to. Example: The game ID for the URL https://www.coregames.com/games/577d80/core-royale is 577d80/core-royale."
-    }
-  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 11577592585533282785
-    SubobjectId: 11616642636109728948
-    InstanceId: 12182823396834100723
-    TemplateId: 14084314730209034646
-    WasRoot: true
-  }
-}
-Objects {
-  Id: 14972655588839134600
-  Name: "Geo"
-  Transform {
-    Location {
-      Z: 150
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11577592585533282785
-  ChildIds: 16424067656657088852
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 14972655588839134600
-    SubobjectId: 14867731601111122141
-    InstanceId: 12182823396834100723
-    TemplateId: 14084314730209034646
-  }
-}
-Objects {
-  Id: 16424067656657088852
-  Name: "ClientContext"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14972655588839134600
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  NetworkContext {
-  }
-  InstanceHistory {
-    SelfId: 16424067656657088852
-    SubobjectId: 16317464422380807169
-    InstanceId: 12182823396834100723
-    TemplateId: 14084314730209034646
-  }
-}
-Objects {
-  Id: 11732314220341847091
-  Name: "GamePortalServer"
-  Transform {
-    Location {
-      Z: -200
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11577592585533282785
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:ComponentRoot"
-      ObjectReference {
-        SelfId: 11577592585533282785
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11616642636109728948
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Game Portal"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18505
+            Y: -10455
+            Z: 1880
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -23.8564758
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "cs:DestinationGame"
+          String: "d7ead5/boss-slayers"
+        }
       }
     }
-    Overrides {
-      Name: "cs:Trigger"
-      ObjectReference {
-        SelfId: 11593296564338382737
+    ParameterOverrideMap {
+      key: 11636998240556499652
+      value {
+        Overrides {
+          Name: "InteractionLabel"
+          String: "Enter Slayers Bar "
+        }
       }
     }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 9596668081132783173
+    TemplateAsset {
+      Id: 14084314730209034646
     }
-  }
-  InstanceHistory {
-    SelfId: 11732314220341847091
-    SubobjectId: 11767000296112222566
-    InstanceId: 12182823396834100723
-    TemplateId: 14084314730209034646
-  }
-}
-Objects {
-  Id: 11593296564338382737
-  Name: "Trigger"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 3.00000024
-      Y: 0.5
-      Z: 3
-    }
-  }
-  ParentId: 11577592585533282785
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Trigger {
-    Interactable: true
-    InteractionLabel: "Enter Slayers Bar "
-    TeamSettings {
-      TeamInt: 17
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-  }
-  InstanceHistory {
-    SelfId: 11593296564338382737
-    SubobjectId: 11636998240556499652
-    InstanceId: 12182823396834100723
-    TemplateId: 14084314730209034646
   }
 }
