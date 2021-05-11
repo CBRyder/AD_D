@@ -8,6 +8,15 @@ Assets {
   }
 }
 Assets {
+  Id: 18397581890339777015
+  Name: "Concrete Rough"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_gen_concrete_rough_001"
+  }
+}
+Assets {
   Id: 18287765217740807165
   Name: "Fantasy Castle Wall 03 - Window 02"
   PlatformAssetType: 1
@@ -35,6 +44,24 @@ Assets {
   }
 }
 Assets {
+  Id: 18069199511688525892
+  Name: "Plane Circle - One Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_circle_001"
+  }
+}
+Assets {
+  Id: 18061901364613080155
+  Name: "Bricks Stone Block 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_bricks_stone_block_001"
+  }
+}
+Assets {
   Id: 18044128746290206539
   Name: "Whitebox Window Insert - Arch Top"
   PlatformAssetType: 1
@@ -50,6 +77,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_wood_planks_dark_001_uv"
+  }
+}
+Assets {
+  Id: 17947335160094918060
+  Name: "Pyramid - 4-Sided Truncated Hollow"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pyramid_4_sided_truncated_hollow_001"
   }
 }
 Assets {
@@ -86,6 +122,33 @@ Assets {
   PrimaryAsset {
     AssetType: "VfxBlueprintAssetRef"
     AssetId: "fxbp_steam_volume_vfx"
+  }
+}
+Assets {
+  Id: 17204959236334566362
+  Name: "Stone Block Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_block_02"
+  }
+}
+Assets {
+  Id: 17165822728415595302
+  Name: "Arch"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_arch_001"
+  }
+}
+Assets {
+  Id: 17111392705484802571
+  Name: "Smoke Puff Radial VFX"
+  PlatformAssetType: 8
+  PrimaryAsset {
+    AssetType: "VfxBlueprintAssetRef"
+    AssetId: "fxbp_smoke_puff_radial"
   }
 }
 Assets {
@@ -143,6 +206,24 @@ Assets {
   }
 }
 Assets {
+  Id: 15493852565469425768
+  Name: "Pipe - 4-Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_4_sided_001"
+  }
+}
+Assets {
+  Id: 15352110096391382453
+  Name: "Basic Sparks"
+  PlatformAssetType: 8
+  PrimaryAsset {
+    AssetType: "VfxBlueprintAssetRef"
+    AssetId: "fxbp_basic_sparks"
+  }
+}
+Assets {
   Id: 15323934987652877270
   Name: "Scorch Mark Decal"
   PlatformAssetType: 14
@@ -197,6 +278,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14314259545381307747
+  Name: "Cube - Bottom-Aligned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_001"
+  }
+}
+Assets {
   Id: 14167894031540219039
   Name: "Whitebox Wall 01 Triangle Top"
   PlatformAssetType: 1
@@ -248,6 +338,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_pipe_4_sided_thick_001"
+  }
+}
+Assets {
+  Id: 13306596631172887897
+  Name: "Wood Floor Weave Light"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_floor_weave_light_001_uv"
   }
 }
 Assets {
@@ -314,6 +413,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12228419174055218817
+  Name: "Candle Flame VFX"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "fxsm_candleflame"
+  }
+}
+Assets {
   Id: 12158998524499380101
   Name: "Fantasy Sack Open"
   PlatformAssetType: 1
@@ -368,6 +476,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11296147333297412169
+  Name: "Stone Block Long"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_block_03"
+  }
+}
+Assets {
   Id: 11285278799348334020
   Name: "Sphere - Half Thin"
   PlatformAssetType: 1
@@ -413,6 +530,24 @@ Assets {
   }
 }
 Assets {
+  Id: 10458300173321956916
+  Name: "Wall End Fancy 6m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wall_end_fancy_6m_001"
+  }
+}
+Assets {
+  Id: 10236629153817967588
+  Name: "Cylinder"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_002"
+  }
+}
+Assets {
   Id: 10130379721391062371
   Name: "Bricks Rough Stone Floor 02"
   PlatformAssetType: 2
@@ -431,12 +566,39 @@ Assets {
   }
 }
 Assets {
+  Id: 9895693764718199554
+  Name: "Wood Planks"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_planks_001_uv"
+  }
+}
+Assets {
   Id: 9842143421296066252
   Name: "Fantasy Castle Stairs 01 - 150cm"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_stairs_001_150cm"
+  }
+}
+Assets {
+  Id: 9797280797836808229
+  Name: "Arch Fancy 3m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_arch_fancy_3m_001"
+  }
+}
+Assets {
+  Id: 9783350548468195021
+  Name: "Frosted Glass"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_frosted_glass"
   }
 }
 Assets {
@@ -509,6 +671,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_prop_fantasy_candle_004"
+  }
+}
+Assets {
+  Id: 8872714420929949739
+  Name: "Pipe"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_001"
   }
 }
 Assets {
@@ -608,6 +779,24 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_gen_concrete_rough_001"
+  }
+}
+Assets {
+  Id: 6708804920406224397
+  Name: "Wedge - Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_hq_001"
+  }
+}
+Assets {
+  Id: 6582767569606509547
+  Name: "Wedge - Concave"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_curved_concave_001"
   }
 }
 Assets {
@@ -827,6 +1016,15 @@ Assets {
   }
 }
 Assets {
+  Id: 2597439218769207415
+  Name: "Wedge - Corner Complex"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_corelogo_shape_001"
+  }
+}
+Assets {
   Id: 2414526822853866972
   Name: "Door, Rounded Top"
   PlatformAssetType: 1
@@ -845,6 +1043,15 @@ Assets {
   }
 }
 Assets {
+  Id: 1104198953447072835
+  Name: "Object Domestic Doors & Creaks Set 01 SFX"
+  PlatformAssetType: 10
+  PrimaryAsset {
+    AssetType: "AudioBlueprintAssetRef"
+    AssetId: "sfxabp_object_domestic_door_ref"
+  }
+}
+Assets {
   Id: 809745481730031501
   Name: "Pipe"
   PlatformAssetType: 1
@@ -860,6 +1067,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_stone-arch_6m_002"
+  }
+}
+Assets {
+  Id: 509362329395391912
+  Name: "Pipe - Half"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_half-pipe_001"
   }
 }
 Assets {

@@ -7,7 +7,7 @@ Assets {
       RootId: 12743596547252287504
       Objects {
         Id: 12743596547252287504
-        Name: "Sky SciFi 01"
+        Name: "Sky Sci-fi 01"
         Transform {
           Scale {
             X: 1
@@ -15,8 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
-        ChildIds: 16595930964934683120
+        ParentId: 17598087537826383623
         ChildIds: 8090713207782208821
         ChildIds: 5561478935585707371
         ChildIds: 10944728540396908457
@@ -40,140 +39,18 @@ Assets {
         }
       }
       Objects {
-        Id: 16595930964934683120
-        Name: "Sky Dome"
-        Transform {
-          Location {
-            X: -200
-            Y: -300
-            Z: 100
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12743596547252287504
-        UnregisteredParameters {
-          Overrides {
-            Name: "bp:Cloud Shape"
-            Int: 3
-          }
-          Overrides {
-            Name: "bp:Horizon Color"
-            Color {
-              G: 0.0281456392
-              B: 0.169999957
-              A: 0.378000021
-            }
-          }
-          Overrides {
-            Name: "bp:Zenith Color"
-            Color {
-              R: 0.0188741647
-              B: 0.0299999714
-              A: 0.6
-            }
-          }
-          Overrides {
-            Name: "bp:Cloud Color"
-            Color {
-              R: 0.9
-              G: 0.196688741
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Cloud Wisp Color"
-            Color {
-              R: 0.830000043
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Use Sun Color for Cloud Color"
-            Bool: false
-          }
-          Overrides {
-            Name: "bp:Cloud Rim Brightness"
-            Float: 4
-          }
-          Overrides {
-            Name: "bp:Cloud Detail Brightness"
-            Float: 2
-          }
-          Overrides {
-            Name: "bp:Background Clouds"
-            Bool: false
-          }
-          Overrides {
-            Name: "bp:Cloud Opacity"
-            Float: 0.1
-          }
-          Overrides {
-            Name: "bp:Haze Color"
-            Color {
-              G: 0.120000005
-              B: 0.103311256
-              A: 0.708
-            }
-          }
-          Overrides {
-            Name: "bp:Cloud Ambient Color"
-            Color {
-              R: 0.53125
-              B: 0.422185481
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Sky Influence On Clouds"
-            Float: 5
-          }
-          Overrides {
-            Name: "bp:High Cloud Color"
-            Color {
-              R: 1
-              G: 0.29967767
-              B: 0.565227509
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "bp:Brightness"
-            Float: 2
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Blueprint {
-          BlueprintAsset {
-            Id: 7887238662729938253
-          }
-        }
-      }
-      Objects {
         Id: 8090713207782208821
         Name: "Sun Light"
         Transform {
           Location {
-            X: -50
-            Z: 300
+            X: -596
+            Y: 12577
+            Z: 2043
           }
           Rotation {
-            Pitch: -38.9736328
-            Yaw: 8.81244946
-            Roll: 11.689105
+            Pitch: -81.1090088
+            Yaw: 50.4098701
+            Roll: -32.8110352
           }
           Scale {
             X: 1
@@ -185,16 +62,7 @@ Assets {
         UnregisteredParameters {
           Overrides {
             Name: "bp:Intensity"
-            Float: 1
-          }
-          Overrides {
-            Name: "bp:Light Color"
-            Color {
-              R: 1
-              G: 0.36
-              B: 0.716026306
-              A: 1
-            }
+            Float: 3.60844254
           }
           Overrides {
             Name: "bp:Light Shaft Bloom"
@@ -222,21 +90,31 @@ Assets {
             Bool: false
           }
           Overrides {
+            Name: "bp:Size"
+            Float: 10
+          }
+          Overrides {
+            Name: "bp:Shape"
+            Enum {
+              Value: "mc:esundiscshapes:3"
+            }
+          }
+          Overrides {
             Name: "bp:Sun Disc Color"
             Color {
-              R: 50
-              G: 1
-              B: 2.00000095
+              R: 0.950000048
+              G: 4.52995323e-07
               A: 1
             }
           }
           Overrides {
-            Name: "bp:Size"
-            Float: 3
-          }
-          Overrides {
-            Name: "bp:Shape"
-            Int: 0
+            Name: "bp:Light Color"
+            Color {
+              R: 1
+              G: 0.440000236
+              B: 0.44
+              A: 1
+            }
           }
         }
         Collidable_v2 {
@@ -259,8 +137,8 @@ Assets {
         Name: "Skylight"
         Transform {
           Location {
-            X: 250
-            Y: 300
+            X: 284
+            Y: 312
           }
           Rotation {
           }
@@ -613,9 +491,8 @@ Assets {
           Overrides {
             Name: "bp:Dark Side Lights Tint"
             Color {
-              R: 3
-              G: 2
-              B: 1.12634695
+              R: 1
+              G: 4.76837158e-07
               A: 1
             }
           }
@@ -625,14 +502,13 @@ Assets {
           }
           Overrides {
             Name: "bp:Scale"
-            Float: 3
+            Float: 2.77704763
           }
           Overrides {
             Name: "bp:Color"
             Color {
-              R: 1
-              G: 0.414569497
-              B: 0.32
+              R: 0.321
+              B: 1
               A: 1
             }
           }
@@ -661,15 +537,6 @@ Assets {
             Id: 1353607577508895962
           }
         }
-      }
-    }
-    Assets {
-      Id: 7887238662729938253
-      Name: "Sky Dome"
-      PlatformAssetType: 6
-      PrimaryAsset {
-        AssetType: "BlueprintAssetRef"
-        AssetId: "CORESKY_Sky"
       }
     }
     Assets {

@@ -17,8 +17,8 @@ Objects {
   ChildIds: 15397577125275652185
   ChildIds: 17598087537826383623
   ChildIds: 4609731691398216693
+  ChildIds: 13462680805344793706
   ChildIds: 11876389117872336258
-  ChildIds: 17868983809930576532
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31,51 +31,6 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
-  }
-}
-Objects {
-  Id: 17868983809930576532
-  Name: "Speedometer"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7830733643546660218
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Speedometer"
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11161776627540920799
-      value {
-        Overrides {
-          Name: "UIX"
-          Float: 720
-        }
-        Overrides {
-          Name: "UIY"
-          Float: -940
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16764067809420057606
-    }
   }
 }
 Objects {
@@ -209,6 +164,40 @@ Objects {
         Max: 102400
       }
     }
+  }
+}
+Objects {
+  Id: 13462680805344793706
+  Name: "LeaderBoard"
+  Transform {
+    Location {
+      X: -24175
+      Y: -7965
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "LeaderBoard"
   }
 }
 Objects {

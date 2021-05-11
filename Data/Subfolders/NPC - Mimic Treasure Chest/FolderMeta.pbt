@@ -1,0 +1,91 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "ad0cd8d1cf4342debbcf279dd0c5c9f1"
+  OwnerAccountId: "ae760112444d4911920145e902e5ec74"
+  OwnerName: "DreadwoodGames"
+  Version: "1.4.0"
+}
+AssetIdsOriginalToNew {
+  key: 944973206458505671
+  value: 5084518248105504927
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 17502389484140915462
+}
+AssetIdsOriginalToNew {
+  key: 1515853368098842355
+  value: 10754367529847088091
+}
+AssetIdsOriginalToNew {
+  key: 1583226035276894740
+  value: 3973297166474558577
+}
+AssetIdsOriginalToNew {
+  key: 4828630106005547914
+  value: 10851537344279378486
+}
+AssetIdsOriginalToNew {
+  key: 5174372417370106694
+  value: 14272035672140008014
+}
+AssetIdsOriginalToNew {
+  key: 5878194158176070237
+  value: 8195078396331613967
+}
+AssetIdsOriginalToNew {
+  key: 6438512053645462559
+  value: 17363844305709211437
+}
+AssetIdsOriginalToNew {
+  key: 6544263138387382217
+  value: 1586657836601874611
+}
+AssetIdsOriginalToNew {
+  key: 6579964783895625807
+  value: 11115337518798160955
+}
+AssetIdsOriginalToNew {
+  key: 6855500067471853765
+  value: 7148122235328347018
+}
+AssetIdsOriginalToNew {
+  key: 7285404279635533362
+  value: 2423276292874675422
+}
+AssetIdsOriginalToNew {
+  key: 7513724076507678210
+  value: 4754143333030276614
+}
+AssetIdsOriginalToNew {
+  key: 9173788725853632151
+  value: 13826794446555150726
+}
+AssetIdsOriginalToNew {
+  key: 13464592805115399461
+  value: 11764201152110217293
+}
+AssetIdsOriginalToNew {
+  key: 14322467177085527410
+  value: 18425489888581953287
+}
+AssetIdsOriginalToNew {
+  key: 15021943554396979670
+  value: 9521023054592044021
+}
+AssetIdsOriginalToNew {
+  key: 16086579207183892604
+  value: 4924082592656388950
+}
+AssetIdsOriginalToNew {
+  key: 16583926991835636081
+  value: 17517658464578090683
+}
+AssetIdsOriginalToNew {
+  key: 17212542324053040903
+  value: 17128296431876487164
+}
+AssetIdsOriginalToNew {
+  key: 18384064466233727869
+  value: 3110040465617986327
+}

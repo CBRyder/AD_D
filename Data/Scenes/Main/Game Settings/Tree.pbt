@@ -1,6 +1,59 @@
 Name: "Game Settings"
 RootId: 15397577125275652185
 Objects {
+  Id: 13277550747049926692
+  Name: "MiningSystem"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15397577125275652185
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16243201084122659118
+      value {
+        Overrides {
+          Name: "Name"
+          String: "MiningSystem"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -17405
+            Y: -8275
+            Z: 1095
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14162444874053094672
+    }
+  }
+}
+Objects {
   Id: 8494566499606392736
   Name: "Fall Damage"
   Transform {
@@ -235,11 +288,12 @@ Objects {
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -21205
-      Y: -12045
+      X: -22605
+      Y: -13660
       Z: 1240
     }
     Rotation {
+      Yaw: -135
     }
     Scale {
       X: 1
@@ -312,6 +366,46 @@ Objects {
     }
     TemplateAsset {
       Id: 9786227016040145163
+    }
+  }
+}
+Objects {
+  Id: 15012920672992470017
+  Name: "Disable Mounting"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15397577125275652185
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 11048488434432271458
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Disable Mounting"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9296707556080720338
     }
   }
 }

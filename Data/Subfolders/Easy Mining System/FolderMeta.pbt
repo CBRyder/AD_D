@@ -1,0 +1,107 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "deae1e7e09da4497ab7efbe88cebae0f"
+  OwnerAccountId: "fcdadacda4814cf4b243dda51b61217e"
+  OwnerName: "FleshyOverlord"
+  Version: "1.1.0"
+}
+AssetIdsOriginalToNew {
+  key: 322599861410623674
+  value: 15469599152992673924
+}
+AssetIdsOriginalToNew {
+  key: 999104415417822257
+  value: 1478400998691130458
+}
+AssetIdsOriginalToNew {
+  key: 2037930150790459485
+  value: 844226147385253288
+}
+AssetIdsOriginalToNew {
+  key: 2901596358578149269
+  value: 5456257765609125321
+}
+AssetIdsOriginalToNew {
+  key: 3039106373729981046
+  value: 14128073308083356423
+}
+AssetIdsOriginalToNew {
+  key: 4455230239743675437
+  value: 15154327590663225953
+}
+AssetIdsOriginalToNew {
+  key: 5740427091814040439
+  value: 3784469878061199580
+}
+AssetIdsOriginalToNew {
+  key: 5776568245439739476
+  value: 13152608418568412860
+}
+AssetIdsOriginalToNew {
+  key: 5928489888217437683
+  value: 10317346599217503349
+}
+AssetIdsOriginalToNew {
+  key: 6334577986707481496
+  value: 17512654037057583085
+}
+AssetIdsOriginalToNew {
+  key: 7714832255689093689
+  value: 8831807802799839100
+}
+AssetIdsOriginalToNew {
+  key: 9006231784163038690
+  value: 11392597985027961301
+}
+AssetIdsOriginalToNew {
+  key: 9684589861056486962
+  value: 16063717172370155172
+}
+AssetIdsOriginalToNew {
+  key: 11080905911751678339
+  value: 771664874966080884
+}
+AssetIdsOriginalToNew {
+  key: 11324604434539440511
+  value: 2423034131426948871
+}
+AssetIdsOriginalToNew {
+  key: 11326565074170684464
+  value: 1696759072368224874
+}
+AssetIdsOriginalToNew {
+  key: 11365099465267760310
+  value: 10554234096370328726
+}
+AssetIdsOriginalToNew {
+  key: 11678824889087195340
+  value: 12730559160814281294
+}
+AssetIdsOriginalToNew {
+  key: 11964831397701485696
+  value: 14162444874053094672
+}
+AssetIdsOriginalToNew {
+  key: 12228166852379095667
+  value: 12869670087081134043
+}
+AssetIdsOriginalToNew {
+  key: 13665744350463419128
+  value: 17108314171437657057
+}
+AssetIdsOriginalToNew {
+  key: 15360415843565671877
+  value: 6867774586473338588
+}
+AssetIdsOriginalToNew {
+  key: 16342456782497123004
+  value: 13882257083118759837
+}
+AssetIdsOriginalToNew {
+  key: 17470282676304692534
+  value: 13835676679431615504
+}
+AssetIdsOriginalToNew {
+  key: 17997154189605987634
+  value: 15488909351862733803
+}

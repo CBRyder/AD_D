@@ -56,9 +56,17 @@ Objects {
   }
 }
 Objects {
-  Id: 2159349401422016126
+  Id: 3514376377307706976
   Name: "Game Portal"
   Transform {
+    Location {
+      X: 9.46875
+      Y: -11.4707031
+      Z: 1579.58447
+    }
+    Rotation {
+      Yaw: -79.4164734
+    }
     Scale {
       X: 1
       Y: 1
@@ -66,60 +74,132 @@ Objects {
     }
   }
   ParentId: 1650162534093572893
+  ChildIds: 18281805934611475576
+  ChildIds: 4532198085087067714
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:DestinationGame"
+      String: "13879a/sewer-dungeon"
+    }
+    Overrides {
+      Name: "cs:DestinationGame:tooltip"
+      String: "The id of the game that this will portal players to. Example: The game ID for the URL https://www.coregames.com/games/577d80/core-royale is 577d80/core-royale."
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3563399331275127479
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Game Portal"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 9.46875
-            Y: -11.4707031
-            Z: 1579.58447
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -79.4164734
-          }
-        }
-        Overrides {
-          Name: "cs:DestinationGame"
-          String: "13879a/sewer-dungeon"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 3514376377307706976
+    SubobjectId: 3563399331275127479
+    InstanceId: 2159349401422016126
+    TemplateId: 5970552360970853349
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 4532198085087067714
+  Name: "GamePortalServer"
+  Transform {
+    Location {
+      Z: -200
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 3514376377307706976
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:ComponentRoot"
+      ObjectReference {
+        SelfId: 3514376377307706976
       }
     }
-    ParameterOverrideMap {
-      key: 18158561925558083759
-      value {
-        Overrides {
-          Name: "InteractionLabel"
-          String: "ride bucket down into sewers"
-        }
+    Overrides {
+      Name: "cs:Trigger"
+      ObjectReference {
+        SelfId: 18281805934611475576
       }
     }
-    TemplateAsset {
-      Id: 5970552360970853349
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 9097637882889565073
     }
+  }
+  InstanceHistory {
+    SelfId: 4532198085087067714
+    SubobjectId: 4563189151677444757
+    InstanceId: 2159349401422016126
+    TemplateId: 5970552360970853349
+  }
+}
+Objects {
+  Id: 18281805934611475576
+  Name: "Trigger"
+  Transform {
+    Location {
+      X: 2.85260582
+      Y: 15.2670345
+      Z: 195.415527
+    }
+    Rotation {
+    }
+    Scale {
+      X: 3
+      Y: 2.25
+      Z: 2.5
+    }
+  }
+  ParentId: 3514376377307706976
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Trigger {
+    Interactable: true
+    InteractionLabel: "Ride Bucket To Sewers"
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+  }
+  InstanceHistory {
+    SelfId: 18281805934611475576
+    SubobjectId: 18158561925558083759
+    InstanceId: 2159349401422016126
+    TemplateId: 5970552360970853349
   }
 }
 Objects {

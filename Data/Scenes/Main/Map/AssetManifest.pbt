@@ -1,28 +1,10 @@
 Assets {
-  Id: 18441810659176357459
-  Name: "Planet"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_Planet"
-  }
-}
-Assets {
   Id: 18244274405329183209
   Name: "Rock 03"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rock_generic_003"
-  }
-}
-Assets {
-  Id: 16910278292812118833
-  Name: "Sun Light"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_SunLight"
   }
 }
 Assets {
@@ -41,24 +23,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rock_generic_002_sm_rock_generic_002_LOD0"
-  }
-}
-Assets {
-  Id: 12344193518355455075
-  Name: "Star Dome"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_StarDome"
-  }
-}
-Assets {
-  Id: 11515840070784317904
-  Name: "Skylight"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_Skylight"
   }
 }
 Assets {
@@ -89,15 +53,6 @@ Assets {
   }
 }
 Assets {
-  Id: 2617361319805279588
-  Name: "Nebula"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_Nebula"
-  }
-}
-Assets {
   Id: 2438189571499279596
   Name: "Metal Iron Rusted 02"
   PlatformAssetType: 2
@@ -113,14 +68,5 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_pipe_001"
-  }
-}
-Assets {
-  Id: 1353607577508895962
-  Name: "Moon"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "CORESKY_Moon"
   }
 }

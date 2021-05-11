@@ -1,0 +1,52 @@
+-- thanks for using my script! :D
+-- hope you find it helpful 
+--
+-- if you are having trouble using this contact me via discord: HAndLol#6848
+--
+-- feedback is really appreciated! (write me a review *wink* *wink*)
+-- 
+--
+-- changelog:
+--	1.2.2
+--		updated the popup text to be more satisfying to spam :p
+--	1.2.1
+--		we reached 100 downloads! :D
+--		added the names of the first 3 to write reviews at the end of the ReadMe file
+--	1.2.0
+--		added a settings file to edit values like the popup's text and color
+--		the ability to disable popup text (from the settings file)
+--		the ability to change the text of the popup message (from the settings file)
+--		the ability to change the color of the popup message (from the settings file)
+--		better thumbnail
+--		some code optimization
+--		small changes to the popup text
+--	1.1.0
+--		added pop-up text
+--		added changelog (the thing you are reading now lol)
+--		added credits/thanks (at the very bottom of this "ReadMe" file)
+--		better thumbnail
+--		moved the "ReadMe" file out of ServerContext
+--	1.0.0
+--		the release!
+--
+--
+-- _____________
+-- |           |
+-- |  made by  |
+-- |  HAndLol  |
+-- |___________|
+--      ||
+--      ||
+--      ||/   (Y)
+--      \\     |
+--       \\   \|/   /
+--  /     \\       
+--    xxxxxxxxxxxxx
+--     xXXXXXXXXX/Xx
+--    / xxxxxxxxxxxxx /
+--
+-- special thanks to WaveParadigm for making great scripts, i learned a lot from his scripts :)
+--
+-- first three users to write reviews: mariante, Lipatant, AwkwardGameDev
+-- thank you guys!
+--

@@ -1530,10 +1530,11 @@ Objects {
   }
 }
 Objects {
-  Id: 18017193256737204616
+  Id: 18280921221040728915
   Name: "EquipmentPersisterStarterServer"
   Transform {
     Location {
+      Z: 725
     }
     Rotation {
     }
@@ -1548,7 +1549,7 @@ Objects {
     Overrides {
       Name: "cs:DefaultEquipment"
       AssetReference {
-        Id: 6953703993836257642
+        Id: 3563354738290705900
       }
     }
     Overrides {
@@ -1571,9 +1572,9 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 18017193256737204616
+    SelfId: 18280921221040728915
     SubobjectId: 3417047860227911801
-    InstanceId: 8937070143253653282
+    InstanceId: 14586274270118750738
     TemplateId: 13764440583750434346
   }
 }

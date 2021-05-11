@@ -1,12 +1,12 @@
 Name: "NPC\'s"
 RootId: 4609731691398216693
 Objects {
-  Id: 9927317768321700808
+  Id: 9911861251438641304
   Name: "Enemy"
   Transform {
     Location {
-      X: 26565
-      Y: 84060
+      X: 24825
+      Y: 15725
       Z: -1074.99988
     }
     Rotation {
