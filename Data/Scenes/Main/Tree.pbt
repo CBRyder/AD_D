@@ -14,13 +14,11 @@ Objects {
       Z: 1
     }
   }
-  ChildIds: 11356746253921187886
   ChildIds: 15397577125275652185
   ChildIds: 17598087537826383623
   ChildIds: 4609731691398216693
   ChildIds: 13462680805344793706
   ChildIds: 11876389117872336258
-  ChildIds: 8992563683907574620
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33,60 +31,6 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
-  }
-}
-Objects {
-  Id: 8992563683907574620
-  Name: "Vendor"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11635451259468679917
-      value {
-        Overrides {
-          Name: "UIX"
-          Float: -180
-        }
-        Overrides {
-          Name: "UIY"
-          Float: -480
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 14246643208936957805
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Vendor"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3950
-            Y: -16560
-            Z: 1820
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17433323204345484620
-    }
   }
 }
 Objects {
@@ -351,40 +295,5 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Game Settings"
-  }
-}
-Objects {
-  Id: 11356746253921187886
-  Name: "Bar spawn point"
-  Transform {
-    Location {
-      X: -23578
-      Y: -15793
-      Z: 1965
-    }
-    Rotation {
-      Yaw: 66
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  PlayerSpawnPoint {
-    TeamInt: 17
-    PlayerScaleMultiplier: 1
   }
 }

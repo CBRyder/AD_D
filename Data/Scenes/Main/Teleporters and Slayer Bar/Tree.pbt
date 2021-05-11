@@ -134,10 +134,6 @@ Objects {
           Name: "InteractionLabel"
           String: "Enter Slayers Bar "
         }
-        Overrides {
-          Name: "TeamsTeam"
-          Int: 17
-        }
       }
     }
     TemplateAsset {
