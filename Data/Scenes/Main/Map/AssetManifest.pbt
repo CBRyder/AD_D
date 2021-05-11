@@ -26,6 +26,24 @@ Assets {
   }
 }
 Assets {
+  Id: 12326337623525127805
+  Name: "Rocks River Bed 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "puddle_river_bed_001"
+  }
+}
+Assets {
+  Id: 12095835209017042614
+  Name: "Cube"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_002"
+  }
+}
+Assets {
   Id: 11022989200584673337
   Name: "Stone Basic"
   PlatformAssetType: 2

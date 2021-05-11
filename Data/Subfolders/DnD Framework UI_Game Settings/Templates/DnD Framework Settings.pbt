@@ -15,6 +15,7 @@ Assets {
             Z: 1
           }
         }
+        ParentId: 15397577125275652185
         ChildIds: 12062423968789810929
         ChildIds: 13164895723067287431
         ChildIds: 3570008371678359653
@@ -131,11 +132,8 @@ Assets {
           }
         }
         ParentId: 6986371075870101033
-        ChildIds: 3043205080567935381
-        ChildIds: 11299383093702301342
-        ChildIds: 17073443615453806881
         ChildIds: 17477422205969018574
-        ChildIds: 3417047860227911801
+        ChildIds: 2941070304498070178
         ChildIds: 3122633942669663122
         ChildIds: 15471386267323694171
         ChildIds: 15749510378997075072
@@ -151,148 +149,7 @@ Assets {
         }
         Folder {
           IsFilePartition: true
-          FilePartitionName: "Game Settings"
-        }
-      }
-      Objects {
-        Id: 3043205080567935381
-        Name: "Game Settings"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13164895723067287431
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Settings {
-          IsDefault: true
-          GameSettings {
-            RagdollOnDeath: true
-            EnablePlayerStorage: true
-            ChatMode {
-              Value: "mc:echatmode:allonly"
-            }
-            ChatSettings {
-              ChatMode {
-              }
-              ChatPosition {
-                X: 40
-              }
-              ChatSize {
-                X: 450
-                Y: 400
-              }
-              ChatHorizontalAlignment {
-                Value: "mc:ecorehorizontalalign:left"
-              }
-              ChatVerticalAlignment {
-                Value: "mc:ecorehorizontalalign:center"
-              }
-            }
-            PhysicsSettings {
-              MinContactOffset: 2
-              MaxContactOffset: 8
-            }
-            RelevanceSettings {
-              key: "decal"
-              value {
-                LowDistance: 4500
-                MediumDistance: 7000
-                HighDistance: 9000
-              }
-            }
-            RelevanceSettings {
-              key: "vfx"
-              value {
-                LowDistance: 4500
-                MediumDistance: 7000
-                HighDistance: 9000
-              }
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 11299383093702301342
-        Name: "Team Settings"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13164895723067287431
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Settings {
-          TeamSettings {
-            TeamMode_v2 {
-              Value: "mc:eteammode:teamsvs"
-            }
-          }
-        }
-      }
-      Objects {
-        Id: 17073443615453806881
-        Name: "Respawn Settings"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13164895723067287431
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Settings {
-          RespawnSettings {
-            RespawnDelay: 2
-            RespawnMode_v2 {
-              Value: "mc:erespawnmode:roundrobin"
-            }
-          }
+          FilePartitionName: "Game Settings_1"
         }
       }
       Objects {
@@ -326,10 +183,11 @@ Assets {
         }
       }
       Objects {
-        Id: 3417047860227911801
+        Id: 2941070304498070178
         Name: "EquipmentPersisterStarterServer"
         Transform {
           Location {
+            Z: 725
           }
           Rotation {
           }
@@ -344,7 +202,7 @@ Assets {
           Overrides {
             Name: "cs:DefaultEquipment"
             AssetReference {
-              Id: 6953703993836257642
+              Id: 3563354738290705900
             }
           }
           Overrides {
@@ -1048,7 +906,6 @@ Assets {
           }
         }
         ParentId: 15471386267323694171
-        ChildIds: 15576670493267782149
         ChildIds: 2181058579307256519
         ChildIds: 5906727736264490608
         Collidable_v2 {
@@ -1062,36 +919,6 @@ Assets {
         }
         Folder {
           IsGroup: true
-        }
-      }
-      Objects {
-        Id: 15576670493267782149
-        Name: "Nothing"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13657851890915578225
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 14849098834712950395
-          }
         }
       }
       Objects {

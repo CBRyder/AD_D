@@ -1,59 +1,6 @@
 Name: "Game Settings"
 RootId: 15397577125275652185
 Objects {
-  Id: 13277550747049926692
-  Name: "MiningSystem"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15397577125275652185
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 16243201084122659118
-      value {
-        Overrides {
-          Name: "Name"
-          String: "MiningSystem"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -17405
-            Y: -8275
-            Z: 1095
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 14162444874053094672
-    }
-  }
-}
-Objects {
   Id: 8494566499606392736
   Name: "Fall Damage"
   Transform {
@@ -94,14 +41,9 @@ Objects {
   }
 }
 Objects {
-  Id: 13084844057862854616
+  Id: 8937070143253653282
   Name: "DnD Framework Settings"
   Transform {
-    Location {
-      Z: -725
-    }
-    Rotation {
-    }
     Scale {
       X: 1
       Y: 1
@@ -109,126 +51,34 @@ Objects {
     }
   }
   ParentId: 15397577125275652185
-  ChildIds: 8215816495630456576
-  ChildIds: 7192598020540268150
-  ChildIds: 16494733327241701780
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 13084844057862854616
-    SubobjectId: 6986371075870101033
-    InstanceId: 8937070143253653282
-    TemplateId: 13764440583750434346
-    WasRoot: true
-  }
-}
-Objects {
-  Id: 16494733327241701780
-  Name: "UI Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13084844057862854616
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "UI Settings"
-  }
-  InstanceHistory {
-    SelfId: 16494733327241701780
-    SubobjectId: 3570008371678359653
-    InstanceId: 8937070143253653282
-    TemplateId: 13764440583750434346
-  }
-}
-Objects {
-  Id: 7192598020540268150
-  Name: "Game Settings"
-  Transform {
-    Location {
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6986371075870101033
+      value {
+        Overrides {
+          Name: "Name"
+          String: "DnD Framework Settings"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -725
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
     }
-    Rotation {
+    TemplateAsset {
+      Id: 13764440583750434346
     }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13084844057862854616
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Game Settings_1"
-  }
-  InstanceHistory {
-    SelfId: 7192598020540268150
-    SubobjectId: 13164895723067287431
-    InstanceId: 8937070143253653282
-    TemplateId: 13764440583750434346
-  }
-}
-Objects {
-  Id: 8215816495630456576
-  Name: "Framework Documentation"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13084844057862854616
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Framework Documentation"
-  }
-  InstanceHistory {
-    SelfId: 8215816495630456576
-    SubobjectId: 12062423968789810929
-    InstanceId: 8937070143253653282
-    TemplateId: 13764440583750434346
   }
 }
 Objects {
@@ -288,8 +138,8 @@ Objects {
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -22605
-      Y: -13660
+      X: -22790
+      Y: -13985
       Z: 1240
     }
     Rotation {

@@ -1,6 +1,45 @@
 Name: "Map"
 RootId: 17598087537826383623
 Objects {
+  Id: 7746462326772007568
+  Name: "Portal"
+  Transform {
+    Location {
+      X: 5565
+      Y: 510
+      Z: -1420
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 17598087537826383623
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Portal"
+  }
+  InstanceHistory {
+    SelfId: 7746462326772007568
+    SubobjectId: 10728259689870811471
+    InstanceId: 8490802486190446889
+    TemplateId: 17947273544227921791
+    WasRoot: true
+  }
+}
+Objects {
   Id: 8494237154993829906
   Name: "Medieval Cart"
   Transform {
@@ -409,6 +448,95 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 2174173908629966191
+      value {
+        Overrides {
+          Name: "bp:Color"
+          Color {
+            R: 0.00999999
+            G: 1
+            B: 0.291920662
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "bp:Dark Side Lights Tint"
+          Color {
+            R: 0.559999943
+            G: 2.67028781e-07
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5561478935585707371
+      value {
+        Overrides {
+          Name: "bp:Tint Color"
+          Color {
+            R: 0.840000033
+            G: 4.00543229e-07
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8090713207782208821
+      value {
+        Overrides {
+          Name: "bp:Light Color"
+          Color {
+            R: 1
+            G: 0.44
+            B: 0.484503269
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "bp:Shape"
+          Enum {
+            Value: "mc:esundiscshapes:3"
+          }
+        }
+        Overrides {
+          Name: "bp:Size"
+          Float: 10
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10290385445252436925
+      value {
+        Overrides {
+          Name: "bp:Color"
+          Color {
+            R: 0.909999967
+            B: 0.741258204
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "bp:Dark Side Lights Appearance"
+          Enum {
+            Value: "mc:edarksidelights:3"
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10944728540396908457
+      value {
+        Overrides {
+          Name: "bp:Space Tint"
+          Color {
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 12743596547252287504
       value {
         Overrides {
@@ -669,6 +797,7 @@ Objects {
   ChildIds: 16849084262655184538
   ChildIds: 12521744116740473267
   ChildIds: 5270133034218115991
+  ChildIds: 6511948053043085908
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -687,6 +816,64 @@ Objects {
     InstanceId: 3500282456704786299
     TemplateId: 7332288574855276288
     WasRoot: true
+  }
+}
+Objects {
+  Id: 6511948053043085908
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 19784.7422
+      Y: 19018.5664
+      Z: -18224.0879
+    }
+    Rotation {
+      Pitch: 15.2585669
+      Yaw: -20.7776
+      Roll: 4.21181154
+    }
+    Scale {
+      X: 106.500015
+      Y: 2
+      Z: 46
+    }
+  }
+  ParentId: 7464504980837326911
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 12326337623525127805
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
   }
 }
 Objects {

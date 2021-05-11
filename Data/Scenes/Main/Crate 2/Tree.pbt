@@ -5,14 +5,13 @@ Objects {
   Name: "Small Open Crate"
   Transform {
     Location {
-      X: 2.66601563
-      Y: -6.38671875
+      X: 2.66601801
+      Y: -6.3867178
       Z: 0.305175781
     }
     Rotation {
-      Pitch: 4.09811328e-05
-      Yaw: 59.5996666
-      Roll: 8.5205
+      Yaw: 54.5996552
+      Roll: 8.52051067
     }
     Scale {
       X: 1

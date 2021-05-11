@@ -49,12 +49,14 @@ Objects {
   Name: "Crate 1"
   Transform {
     Location {
-      X: 124.999886
-      Y: -229.999985
-      Z: 65
+      X: 369.984894
+      Y: -235.000076
+      Z: 140
     }
     Rotation {
-      Yaw: 179.999969
+      Pitch: 2.11088347
+      Yaw: -145.083557
+      Roll: -4.53363037
     }
     Scale {
       X: 1
@@ -85,12 +87,12 @@ Objects {
   Name: "Crate 2"
   Transform {
     Location {
-      X: 159.999802
-      Y: -374.999939
+      X: 369.996613
+      Y: -235.000076
       Z: 75
     }
     Rotation {
-      Yaw: 179.999969
+      Yaw: -135
     }
     Scale {
       X: 1

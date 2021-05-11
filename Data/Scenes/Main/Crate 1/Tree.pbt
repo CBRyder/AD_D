@@ -5,14 +5,14 @@ Objects {
   Name: "Small Crate Lid"
   Transform {
     Location {
-      X: -2.87304688
-      Y: 5.62109375
+      X: -2.87304878
+      Y: 5.6210928
       Z: 60.5478516
     }
     Rotation {
-      Pitch: -1.94091427
-      Yaw: 65.1526
-      Roll: 8.56553268
+      Pitch: -1.86743164
+      Yaw: 55.1616325
+      Roll: 9.43339252
     }
     Scale {
       X: 1

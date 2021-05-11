@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "b6c319ce2f8a4c81b53530fb0698f6a3"
+  OwnerAccountId: "98451989bc5a4a04ab3046bb57c3bda3"
+  OwnerName: "XRStudio"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 162151367198570398
+  value: 7232169050615825837
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 16984367672511093612
+}
+AssetIdsOriginalToNew {
+  key: 1328464424770808511
+  value: 9629353499354261978
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 18258666528835319787
+}
+AssetIdsOriginalToNew {
+  key: 2003752736780784297
+  value: 2042138578932511688
+}
+AssetIdsOriginalToNew {
+  key: 2038077216541919415
+  value: 12222744948051953740
+}
+AssetIdsOriginalToNew {
+  key: 5927220524009298293
+  value: 7428890381287939952
+}
+AssetIdsOriginalToNew {
+  key: 6875009610134579617
+  value: 13227370410010927886
+}
+AssetIdsOriginalToNew {
+  key: 7502134511358725775
+  value: 7175831224001066351
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 7492907464752523685
+}
+AssetIdsOriginalToNew {
+  key: 8678518303339898065
+  value: 4288856604476455931
+}
+AssetIdsOriginalToNew {
+  key: 8849773590821764357
+  value: 3240353563298660306
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 1376740204395630188
+}
+AssetIdsOriginalToNew {
+  key: 10862837515260375752
+  value: 11157853887518847583
+}
+AssetIdsOriginalToNew {
+  key: 11271269196469755384
+  value: 7488543789992266489
+}
+AssetIdsOriginalToNew {
+  key: 13645484765276120961
+  value: 11257105383952682284
+}
+AssetIdsOriginalToNew {
+  key: 14363941363690452509
+  value: 5944941268256725838
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 4071785742762390087
+}
+AssetIdsOriginalToNew {
+  key: 15345760362089961606
+  value: 13953745665666024908
+}
+AssetIdsOriginalToNew {
+  key: 15636749404113921442
+  value: 1728393834851036120
+}
+AssetIdsOriginalToNew {
+  key: 17367449922255341506
+  value: 1352289316190848959
+}
+AssetIdsOriginalToNew {
+  key: 17876034834621974685
+  value: 11938278545762639053
+}
