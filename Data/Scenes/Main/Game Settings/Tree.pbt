@@ -1,6 +1,41 @@
 Name: "Game Settings"
 RootId: 15397577125275652185
 Objects {
+  Id: 3145800654485608836
+  Name: "Spawn Point"
+  Transform {
+    Location {
+      X: -23572
+      Y: -15843
+      Z: 1240
+    }
+    Rotation {
+      Yaw: 66
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15397577125275652185
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  PlayerSpawnPoint {
+    TeamInt: 17
+    PlayerScaleMultiplier: 1
+  }
+}
+Objects {
   Id: 8494566499606392736
   Name: "Fall Damage"
   Transform {
