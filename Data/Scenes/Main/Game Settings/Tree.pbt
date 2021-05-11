@@ -1,7 +1,7 @@
 Name: "Game Settings"
 RootId: 15397577125275652185
 Objects {
-  Id: 15517809673252963186
+  Id: 8494566499606392736
   Name: "Fall Damage"
   Transform {
     Scale {
@@ -41,13 +41,203 @@ Objects {
   }
 }
 Objects {
+  Id: 13084844057862854616
+  Name: "DnD Framework Settings"
+  Transform {
+    Location {
+      Z: -725
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15397577125275652185
+  ChildIds: 8215816495630456576
+  ChildIds: 7192598020540268150
+  ChildIds: 16494733327241701780
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13084844057862854616
+    SubobjectId: 6986371075870101033
+    InstanceId: 8937070143253653282
+    TemplateId: 13764440583750434346
+    WasRoot: true
+  }
+}
+Objects {
+  Id: 16494733327241701780
+  Name: "UI Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13084844057862854616
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "UI Settings"
+  }
+  InstanceHistory {
+    SelfId: 16494733327241701780
+    SubobjectId: 3570008371678359653
+    InstanceId: 8937070143253653282
+    TemplateId: 13764440583750434346
+  }
+}
+Objects {
+  Id: 7192598020540268150
+  Name: "Game Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13084844057862854616
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Game Settings_1"
+  }
+  InstanceHistory {
+    SelfId: 7192598020540268150
+    SubobjectId: 13164895723067287431
+    InstanceId: 8937070143253653282
+    TemplateId: 13764440583750434346
+  }
+}
+Objects {
+  Id: 8215816495630456576
+  Name: "Framework Documentation"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13084844057862854616
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Framework Documentation"
+  }
+  InstanceHistory {
+    SelfId: 8215816495630456576
+    SubobjectId: 12062423968789810929
+    InstanceId: 8937070143253653282
+    TemplateId: 13764440583750434346
+  }
+}
+Objects {
+  Id: 2957126796642060185
+  Name: "Camera"
+  Transform {
+    Location {
+      X: -475
+      Y: -2220
+      Z: 73705
+    }
+    Rotation {
+      Pitch: -90
+      Roll: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15397577125275652185
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:alwaysvisible"
+  }
+  Camera {
+    UseAsDefault: true
+    AttachToLocalPlayer: true
+    InitialDistance: 400
+    MinDistance: 300
+    MaxDistance: 600
+    PositionOffset {
+    }
+    RotationOffset {
+    }
+    FieldOfView: 90
+    ViewWidth: 1200
+    RotationMode {
+      Value: "mc:erotationmode:lookangle"
+    }
+    MinPitch: -89
+    MaxPitch: 89
+    DoesPositionOffsetSpring: true
+  }
+}
+Objects {
   Id: 16813558807825262224
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -9055
-      Y: -15470
-      Z: 2805
+      X: -21205
+      Y: -12045
+      Z: 1240
     }
     Rotation {
     }
@@ -126,46 +316,6 @@ Objects {
   }
 }
 Objects {
-  Id: 3814619218849271138
-  Name: "Third/First Person Camera Settings"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15397577125275652185
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5143080259878556731
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Third/First Person Camera Settings"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16716497466643576655
-    }
-  }
-}
-Objects {
   Id: 7367735074338159388
   Name: "Game Settings"
   Transform {
@@ -193,6 +343,7 @@ Objects {
     IsDefault: true
     GameSettings {
       RagdollOnDeath: true
+      EnablePlayerStorage: true
       ChatMode {
         Value: "mc:echatmode:teamandall"
       }

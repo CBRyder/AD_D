@@ -8,14 +8,11 @@ Assets {
     ParameterOverrides {
       Overrides {
         Name: "roughness"
-        Float: 0.6
+        Float: 0
       }
       Overrides {
         Name: "color"
         Color {
-          R: 0.0930589661
-          G: 0.0930589661
-          B: 0.0930589661
           A: 1
         }
       }

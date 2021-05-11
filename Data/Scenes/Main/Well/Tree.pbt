@@ -1,6 +1,61 @@
 Name: "Well"
 RootId: 1650162534093572893
 Objects {
+  Id: 18351652949067589940
+  Name: "Plane Circle - One Sided"
+  Transform {
+    Location {
+      X: 35
+      Y: -5
+      Z: 1540
+    }
+    Rotation {
+    }
+    Scale {
+      X: 4.25
+      Y: 4.25
+      Z: 1
+    }
+  }
+  ParentId: 1650162534093572893
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 11382660850390938365
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18069199511688525892
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+}
+Objects {
   Id: 2159349401422016126
   Name: "Game Portal"
   Transform {
