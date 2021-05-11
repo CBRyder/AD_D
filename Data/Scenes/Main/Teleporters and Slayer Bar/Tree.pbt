@@ -94,7 +94,6 @@ Objects {
   }
   ParentId: 16018081001734330103
   ChildIds: 11593296564338382737
-  ChildIds: 16476134587008071502
   ChildIds: 11732314220341847091
   ChildIds: 14972655588839134600
   UnregisteredParameters {
@@ -245,41 +244,6 @@ Objects {
     SubobjectId: 11767000296112222566
     InstanceId: 12182823396834100723
     TemplateId: 14084314730209034646
-  }
-}
-Objects {
-  Id: 16476134587008071502
-  Name: "Spawn Point"
-  Transform {
-    Location {
-      X: 32.4544754
-      Y: 638.695313
-      Z: 85
-    }
-    Rotation {
-      Yaw: 89.8565
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11577592585533282785
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  PlayerSpawnPoint {
-    TeamInt: 17
-    PlayerScaleMultiplier: 1
   }
 }
 Objects {
