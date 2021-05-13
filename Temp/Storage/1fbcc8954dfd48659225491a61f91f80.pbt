@@ -87,7 +87,7 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Res5"
+          StringVar: "Res2"
         }
         SimpleValue {
           IntVar: 100
@@ -127,7 +127,7 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Res2"
+          StringVar: "Res5"
         }
         SimpleValue {
           IntVar: 100
@@ -151,18 +151,18 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Res10"
-        }
-        SimpleValue {
-          IntVar: 27
-        }
-      }
-      Entries {
-        Key {
           StringVar: "Res4"
         }
         SimpleValue {
           IntVar: 100
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Res10"
+        }
+        SimpleValue {
+          IntVar: 27
         }
       }
       Entries {
