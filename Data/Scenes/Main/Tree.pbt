@@ -20,7 +20,6 @@ Objects {
   ChildIds: 13462680805344793706
   ChildIds: 11876389117872336258
   ChildIds: 140809781045263113
-  ChildIds: 12907994444742443244
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33,46 +32,6 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
-  }
-}
-Objects {
-  Id: 12907994444742443244
-  Name: "Ambush Camp Example"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11087910991482916188
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Ambush Camp Example"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -16831
-            Y: -11361
-            Z: 1820.00098
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 15978283171887047975
-    }
   }
 }
 Objects {
