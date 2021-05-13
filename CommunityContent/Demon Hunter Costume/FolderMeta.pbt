@@ -1,0 +1,79 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "00272461e022466892ac76b19fa2462d"
+  OwnerAccountId: "7643e906555c41fcb6dfcff77396b0ce"
+  OwnerName: "BryceLovesGaming"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 171090409284182791
+  value: 3354251125870976759
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 6335599106065712775
+}
+AssetIdsOriginalToNew {
+  key: 440168262593430639
+  value: 16813229814303154698
+}
+AssetIdsOriginalToNew {
+  key: 1427829216143793458
+  value: 17980742626153914104
+}
+AssetIdsOriginalToNew {
+  key: 1970105428586059764
+  value: 5638112795349043736
+}
+AssetIdsOriginalToNew {
+  key: 4020958367257585299
+  value: 275309026531453281
+}
+AssetIdsOriginalToNew {
+  key: 5082628058110625875
+  value: 1686073932350763063
+}
+AssetIdsOriginalToNew {
+  key: 5810110168261790592
+  value: 8295384862806846558
+}
+AssetIdsOriginalToNew {
+  key: 8459825612529451237
+  value: 5092880147194588823
+}
+AssetIdsOriginalToNew {
+  key: 8552465076849524506
+  value: 17226507945496768178
+}
+AssetIdsOriginalToNew {
+  key: 8897932466865836825
+  value: 9071619128738411454
+}
+AssetIdsOriginalToNew {
+  key: 10260850673420696671
+  value: 3606980282334821303
+}
+AssetIdsOriginalToNew {
+  key: 10492571486995943805
+  value: 2661207632586388438
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 14899485534855702386
+}
+AssetIdsOriginalToNew {
+  key: 12971704803185333098
+  value: 15749032269179401224
+}
+AssetIdsOriginalToNew {
+  key: 13580711295702259351
+  value: 16926402407319319558
+}
+AssetIdsOriginalToNew {
+  key: 13976213896680682194
+  value: 12658538745982497063
+}
+AssetIdsOriginalToNew {
+  key: 16295727305339310641
+  value: 5976101443355823681
+}

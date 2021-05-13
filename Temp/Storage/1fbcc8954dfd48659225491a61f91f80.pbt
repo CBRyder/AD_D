@@ -1,9 +1,26 @@
 Entries {
   Key {
-    StringVar: "basic_rifle"
+    StringVar: "ToolSkills"
   }
   SimpleValue {
-    IntVar: 1
+    Table {
+      Entries {
+        Key {
+          StringVar: "Axe"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Pickaxe"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+    }
   }
 }
 Entries {
@@ -19,15 +36,40 @@ Entries {
     StringVar: "score"
   }
   SimpleValue {
-    IntVar: 200
+    IntVar: 210
   }
 }
 Entries {
   Key {
-    StringVar: "Coins"
+    StringVar: "Resources"
   }
   SimpleValue {
-    IntVar: 150
+    Table {
+      Entries {
+        Key {
+          StringVar: "Copper"
+        }
+        SimpleValue {
+          IntVar: 60
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Wood"
+        }
+        SimpleValue {
+          IntVar: 50
+        }
+      }
+    }
+  }
+}
+Entries {
+  Key {
+    StringVar: "basic_rifle"
+  }
+  SimpleValue {
+    IntVar: 1
   }
 }
 Entries {
@@ -38,10 +80,10 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "Res1"
+          StringVar: "currency"
         }
         SimpleValue {
-          IntVar: 5
+          IntVar: 1560
         }
       }
       Entries {
@@ -54,39 +96,23 @@ Entries {
       }
       Entries {
         Key {
+          StringVar: "Level"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Wood"
+        }
+        SimpleValue {
+          IntVar: 50
+        }
+      }
+      Entries {
+        Key {
           StringVar: "Res5"
-        }
-        SimpleValue {
-          IntVar: 100
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Res12"
-        }
-        SimpleValue {
-          IntVar: 14
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Res3"
-        }
-        SimpleValue {
-          IntVar: 86
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Res2"
-        }
-        SimpleValue {
-          IntVar: 100
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Res4"
         }
         SimpleValue {
           IntVar: 100
@@ -102,18 +128,10 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Res11"
+          StringVar: "Res4"
         }
         SimpleValue {
-          IntVar: 17
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Level"
-        }
-        SimpleValue {
-          IntVar: 1
+          IntVar: 100
         }
       }
       Entries {
@@ -126,10 +144,66 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "currency"
+          StringVar: "Copper"
         }
         SimpleValue {
-          IntVar: 1560
+          IntVar: 60
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Res1"
+        }
+        SimpleValue {
+          IntVar: 5
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Res2"
+        }
+        SimpleValue {
+          IntVar: 100
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "ItemSystems_Level"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Res12"
+        }
+        SimpleValue {
+          IntVar: 14
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Res11"
+        }
+        SimpleValue {
+          IntVar: 17
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "ItemSystems_XP"
+        }
+        SimpleValue {
+          IntVar: 0
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Res3"
+        }
+        SimpleValue {
+          IntVar: 86
         }
       }
     }
@@ -137,27 +211,10 @@ Entries {
 }
 Entries {
   Key {
-    StringVar: "Resources"
+    StringVar: "ammo_556"
   }
   SimpleValue {
-    Table {
-      Entries {
-        Key {
-          StringVar: "Copper"
-        }
-        SimpleValue {
-          IntVar: 0
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Wood"
-        }
-        SimpleValue {
-          IntVar: 0
-        }
-      }
-    }
+    IntVar: 30
   }
 }
 Entries {
@@ -179,32 +236,24 @@ Entries {
 }
 Entries {
   Key {
-    StringVar: "ammo_556"
+    StringVar: "Coins"
   }
   SimpleValue {
-    IntVar: 30
+    IntVar: 150
   }
 }
 Entries {
   Key {
-    StringVar: "ToolSkills"
+    StringVar: "STATS"
   }
   SimpleValue {
     Table {
       Entries {
         Key {
-          StringVar: "Axe"
+          StringVar: "experience"
         }
         SimpleValue {
-          IntVar: 1
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "Pickaxe"
-        }
-        SimpleValue {
-          IntVar: 1
+          IntVar: 0
         }
       }
     }

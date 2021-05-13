@@ -7,7 +7,7 @@ Objects {
     Location {
       X: 35
       Y: -5
-      Z: 1540
+      Z: 1569
     }
     Rotation {
     }
@@ -207,9 +207,9 @@ Objects {
   Name: "Grating"
   Transform {
     Location {
-      X: -10.3232422
-      Y: -228.390137
-      Z: 1662.93958
+      X: -10.3242188
+      Y: -228.390625
+      Z: 1572
     }
     Rotation {
       Pitch: -90
@@ -270,9 +270,9 @@ Objects {
   Name: "Well Top"
   Transform {
     Location {
-      X: -126.116211
-      Y: 38.9116211
-      Z: 1476.62671
+      X: -126.117188
+      Y: 38.9121094
+      Z: 1394
     }
     Rotation {
     }

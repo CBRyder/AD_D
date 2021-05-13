@@ -1549,7 +1549,7 @@ Objects {
     Overrides {
       Name: "cs:DefaultEquipment"
       AssetReference {
-        Id: 3563354738290705900
+        Id: 9432803935635446158
       }
     }
     Overrides {

@@ -1,7 +1,7 @@
 Name: "Top_1"
-RootId: 2817089343452388877
+RootId: 1730292413749258095
 Objects {
-  Id: 13064130225394633344
+  Id: 12259617653541844713
   Name: "Cube"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 0.0223696977
     }
   }
-  ParentId: 2817089343452388877
+  ParentId: 1730292413749258095
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -55,14 +55,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 13064130225394633344
-    SubobjectId: 17491308071247181097
+    SelfId: 12259617653541844713
+    SubobjectId: 17136874364540750144
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 2513116235299513103
+  Id: 6189117810693269141
   Name: "Cube"
   Transform {
     Location {
@@ -76,7 +76,7 @@ Objects {
       Z: 0.0223696977
     }
   }
-  ParentId: 2817089343452388877
+  ParentId: 1730292413749258095
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -115,8 +115,8 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 2513116235299513103
-    SubobjectId: 7282567829193252006
+    SelfId: 6189117810693269141
+    SubobjectId: 1302851898967152956
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

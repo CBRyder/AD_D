@@ -1,9 +1,14 @@
 Name: "Game Settings"
 RootId: 15397577125275652185
 Objects {
-  Id: 8494566499606392736
-  Name: "Fall Damage"
+  Id: 13722193756060795563
+  Name: "ItemSystems"
   Transform {
+    Location {
+      Z: -725
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -11,33 +16,27 @@ Objects {
     }
   }
   ParentId: 15397577125275652185
+  UnregisteredParameters {
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7840478093453456171
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Fall Damage"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 2490707837718926031
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "ItemSystems"
+  }
+  InstanceHistory {
+    SelfId: 13722193756060795563
+    SubobjectId: 12698535283932223295
+    InstanceId: 1125079207552304139
+    TemplateId: 1747534502635212348
+    WasRoot: true
   }
 }
 Objects {
@@ -231,46 +230,12 @@ Objects {
   }
 }
 Objects {
-  Id: 16813558807825262224
-  Name: "Spawn Point"
-  Transform {
-    Location {
-      X: -22790
-      Y: -13985
-      Z: 1240
-    }
-    Rotation {
-      Yaw: -135
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15397577125275652185
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  PlayerSpawnPoint {
-    PlayerScaleMultiplier: 1
-  }
-}
-Objects {
   Id: 3109438634772498239
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -23582
-      Y: -15849
+      X: -23765
+      Y: -16125
       Z: 1230
     }
     Rotation {
@@ -304,11 +269,10 @@ Objects {
   }
 }
 Objects {
-  Id: 6784592491658009476
-  Name: "Spawn from Boss slayer"
+  Id: 6114666619339516844
+  Name: "Game Settings"
   Transform {
     Location {
-      Z: -725
     }
     Rotation {
     }
@@ -319,20 +283,6 @@ Objects {
     }
   }
   ParentId: 15397577125275652185
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:SpawnPoint_1"
-      ObjectReference {
-        SelfId: 3109438634772498239
-      }
-    }
-    Overrides {
-      Name: "cs:SpawnPoint"
-      ObjectReference {
-        SelfId: 16813558807825262224
-      }
-    }
-  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -345,102 +295,9 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  Script {
-    ScriptAsset {
-      Id: 8241040136652015974
-    }
-  }
-}
-Objects {
-  Id: 10496278028927237681
-  Name: "Shift to Sprint"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15397577125275652185
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 9282214366166580901
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Shift to Sprint"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 205
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999985
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9786227016040145163
-    }
-  }
-}
-Objects {
-  Id: 15012920672992470017
-  Name: "Disable Mounting"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 15397577125275652185
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11048488434432271458
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Disable Mounting"
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 9296707556080720338
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Game Settings_2"
   }
 }
 Objects {

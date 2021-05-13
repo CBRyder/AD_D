@@ -102,7 +102,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Top_6"
+    FilePartitionName: "Top_7"
   }
   InstanceHistory {
     SelfId: 3990886414639787110

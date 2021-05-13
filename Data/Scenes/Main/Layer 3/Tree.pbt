@@ -5,9 +5,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: -62.7007828
-      Y: -273.573761
-      Z: 60.4072266
+      X: -62.7006912
+      Y: -273.573822
+      Z: -15.7210693
     }
     Rotation {
       Yaw: 163.216675
@@ -57,9 +57,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: 83.954361
-      Y: -272.895752
-      Z: 60.4072266
+      X: 83.9535522
+      Y: -272.895325
+      Z: -18.7210693
     }
     Rotation {
       Yaw: -154.337112
@@ -109,9 +109,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: 199.851089
-      Y: -196.968292
-      Z: 60.4072266
+      X: 199.850067
+      Y: -196.968277
+      Z: -23.7210693
     }
     Rotation {
       Yaw: -118.416046
@@ -161,9 +161,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: 252.027481
-      Y: -48.1901779
-      Z: 60.4072266
+      X: 252.027496
+      Y: -48.190094
+      Z: -10.7210693
     }
     Rotation {
       Yaw: -97.1279
@@ -213,9 +213,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: 218.227158
-      Y: 85.5491257
-      Z: 60.4072266
+      X: 218.226944
+      Y: 85.5487518
+      Z: -15.7210693
     }
     Rotation {
       Yaw: -58.465271
@@ -265,9 +265,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: -195.183151
-      Y: -172.831528
-      Z: 47.6171875
+      X: -195.182449
+      Y: -172.831329
+      Z: -7.72106934
     }
     Rotation {
       Yaw: 31.9464703
@@ -317,9 +317,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: -55.4314117
-      Y: 219.300369
-      Z: 47.6171875
+      X: -55.4310265
+      Y: 219.300156
+      Z: 9.27893066
     }
     Rotation {
       Yaw: 22.7109222
@@ -369,9 +369,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: -218.967438
-      Y: 85.995
-      Z: 45.659668
+      X: -218.967743
+      Y: 85.9955673
+      Z: 3.27893066
     }
     Rotation {
       Yaw: -21.4532471
@@ -421,9 +421,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: -146.138504
-      Y: 176.068954
-      Z: 47.6171875
+      X: -146.138565
+      Y: 176.068909
+      Z: 12.2789307
     }
     Rotation {
       Yaw: -52.9818726
@@ -473,9 +473,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: -226.493317
-      Y: -38.374115
-      Z: 47.6171875
+      X: -226.492859
+      Y: -38.3743782
+      Z: 0.278930664
     }
     Rotation {
     }
@@ -524,9 +524,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: 146.756485
-      Y: 185.331848
-      Z: 60.4072266
+      X: 146.756241
+      Y: 185.331451
+      Z: -19.7210693
     }
     Rotation {
       Yaw: -29.2910156
@@ -576,9 +576,9 @@ Objects {
   Name: "Rock Block 01"
   Transform {
     Location {
-      X: 4.09968567
-      Y: 250.597214
-      Z: 47.6171875
+      X: 4.10070086
+      Y: 250.59726
+      Z: 5.27893066
     }
     Rotation {
     }

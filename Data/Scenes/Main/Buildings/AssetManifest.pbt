@@ -287,6 +287,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14299001924079497417
+  Name: "Humanoid 2 Peasant Shirt"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_guy_upper_fantasy_000_ref_temp"
+  }
+}
+Assets {
   Id: 14167894031540219039
   Name: "Whitebox Wall 01 Triangle Top"
   PlatformAssetType: 1
@@ -836,6 +845,15 @@ Assets {
   }
 }
 Assets {
+  Id: 6144129807424298596
+  Name: "Humanoid 2 Peasant Pants"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_guy_lower_fantasy_000_ref"
+  }
+}
+Assets {
   Id: 6098802614440491105
   Name: "Decal Moss Patch"
   PlatformAssetType: 14
@@ -953,6 +971,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3221654669710226491
+  Name: "Humanoid 2 Rig"
+  PlatformAssetType: 25
+  PrimaryAsset {
+    AssetType: "SkeletonAssetRef"
+    AssetId: "npc_guy_wireframe_001_ref"
+  }
+}
+Assets {
   Id: 3118236854839068231
   Name: "Trim - Curve 90\302\260 - 02m Radius"
   PlatformAssetType: 1
@@ -968,6 +995,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_rope_001"
+  }
+}
+Assets {
+  Id: 2995112338658475657
+  Name: "Humanoid 2 Drahkzen"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_guy_head_fantasy_004_ref"
   }
 }
 Assets {
