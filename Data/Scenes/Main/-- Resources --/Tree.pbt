@@ -63,7 +63,7 @@ Objects {
     }
     Overrides {
       Name: "cs:MaxStackableSize"
-      Int: 999
+      Int: 1000
     }
     Overrides {
       Name: "cs:ItemType"
@@ -71,11 +71,7 @@ Objects {
     }
     Overrides {
       Name: "cs:Rarity"
-      String: "Epic"
-    }
-    Overrides {
-      Name: "cs:Description"
-      String: "Used for enhancing Equipment"
+      String: "Legendary"
     }
     Overrides {
       Name: "cs:DropRotation"
@@ -107,10 +103,6 @@ Objects {
     Overrides {
       Name: "cs:Rarity:tooltip"
       String: "This is the rarity of the item. This is used for color coding the item in the inventory. This must be assigned an existing value from the ItemRarities folder inside ItemRegistry."
-    }
-    Overrides {
-      Name: "cs:Description:tooltip"
-      String: "This is the description of the item that will be displayed when hovering over it in the inventory."
     }
     Overrides {
       Name: "cs:DropRotation:tooltip"
@@ -168,7 +160,7 @@ Objects {
     }
     Overrides {
       Name: "cs:MaxStackableSize"
-      Int: 999
+      Int: 1000
     }
     Overrides {
       Name: "cs:ItemType"
@@ -273,7 +265,7 @@ Objects {
     }
     Overrides {
       Name: "cs:MaxStackableSize"
-      Int: 20
+      Int: 100
     }
     Overrides {
       Name: "cs:ItemType"
@@ -378,7 +370,7 @@ Objects {
     }
     Overrides {
       Name: "cs:MaxStackableSize"
-      Int: 8
+      Int: 100
     }
     Overrides {
       Name: "cs:ItemType"

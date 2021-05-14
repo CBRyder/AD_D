@@ -1,6 +1,133 @@
 Name: "NPC"
 RootId: 1413916443376582455
 Objects {
+  Id: 11772530565951838126
+  Name: "Humanoid 2 Rig"
+  Transform {
+    Location {
+      X: 28210
+      Y: -1198
+      Z: 73.0001221
+    }
+    Rotation {
+      Yaw: -135
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 1413916443376582455
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:1:Shared_BaseMaterial:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:1:Shared_Detail1:color"
+      Color {
+        R: 0.47300002
+        G: 0.227113038
+        B: 0.0392589755
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:1:Shared_Detail2:color"
+      Color {
+        R: 0.473531485
+        G: 0.226965874
+        B: 0.0395462364
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:1:Shared_Detail3:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:2:Shared_BaseMaterial:color"
+      Color {
+        R: 0.00972121675
+        G: 0.00972121675
+        B: 0.00972121675
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:2:Shared_Detail2:color"
+      Color {
+        R: 0.01
+        G: 0.01
+        B: 0.01
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:2:Shared_Detail1:color"
+      Color {
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "ma:2:Shared_Detail3:color"
+      Color {
+        R: 0.00972121675
+        G: 0.00972121675
+        B: 0.00972121675
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3221654669710226491
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    AnimatedMesh {
+      AnimationStance: "unarmed_idle_relaxed"
+      AnimationStancePlaybackRate: 1
+      AnimationStanceShouldLoop: true
+      AnimationPlaybackRateMultiplier: 1
+      PlayOnStartAnimation {
+        PlaybackRate: 1
+      }
+      SkinnedMeshes {
+        Id: 2366727397500226361
+      }
+      SkinnedMeshes {
+        Id: 14299001924079497417
+      }
+      SkinnedMeshes {
+        Id: 6144129807424298596
+      }
+      SkinnedMeshes {
+        Id: 841534158063459245
+      }
+    }
+  }
+}
+Objects {
   Id: 4834863412388635351
   Name: "Humanoid 2 Rig"
   Transform {

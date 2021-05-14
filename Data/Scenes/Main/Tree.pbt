@@ -22,6 +22,7 @@ Objects {
   ChildIds: 140809781045263113
   ChildIds: 13819972639892425532
   ChildIds: 7774602414469388131
+  ChildIds: 3244572846690291390
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34,6 +35,43 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 3244572846690291390
+  Name: "MiningSystem"
+  Transform {
+    Location {
+      X: -12139
+      Y: -25070
+      Z: 1734
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "MiningSystem"
+  }
+  InstanceHistory {
+    SelfId: 3244572846690291390
+    SubobjectId: 16243201084122659118
+    InstanceId: 3207890667127470211
+    TemplateId: 14162444874053094672
+    WasRoot: true
   }
 }
 Objects {
