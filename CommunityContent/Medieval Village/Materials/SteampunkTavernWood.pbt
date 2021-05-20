@@ -2,7 +2,7 @@ Assets {
   Id: 2509379289077285773
   Name: "SteampunkTavernWood"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 18033297229984528543
     ParameterOverrides {

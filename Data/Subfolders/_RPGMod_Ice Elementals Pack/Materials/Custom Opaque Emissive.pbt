@@ -2,7 +2,7 @@ Assets {
   Id: 1853980965214212255
   Name: "Custom Opaque Emissive"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 5351428073291024820
     ParameterOverrides {

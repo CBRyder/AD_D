@@ -2,7 +2,7 @@ Assets {
   Id: 4414701859977652586
   Name: "MedievalRoofRed"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 4343960957447186036
     ParameterOverrides {

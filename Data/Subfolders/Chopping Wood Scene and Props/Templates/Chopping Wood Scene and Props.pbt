@@ -43,5 +43,5 @@ Assets {
     Version: "1.1.0"
     Description: "Titled - Honest Day\'s Work. \r\nThis scene includes the Wooden Handle Axe (prop only), Whole Log Sections, Half Log Sections, Triangle Log Chopped and a Prism Log Chopped. \r\nArranged into a scene to showcase the beauty of the simplistic builds. \r\n\r\nLiving in the desert, I miss days spent in the woods. Was thinking about, just chopping wood - started missing home. \r\n\r\nHope someone can find some use for this in their future game. \r\n\r\nEnjoy,\r\nNDG"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

@@ -125226,6 +125226,6 @@ Assets {
   Marketplace {
     Description: "A group of medieval buildings to empower you to create your own fantasy/medieval game or environment.\r\n\r\nIt contains:\r\n- Medieval Barn\r\n- Medvieval Bakery\r\n- Medieval Windmill\r\n- 2 Medieval Homes\r\n\r\nThey all fit perfect to my \"Magic Tavern\" in case you already use it or need more beatiful buildings. Its also published on CC!"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

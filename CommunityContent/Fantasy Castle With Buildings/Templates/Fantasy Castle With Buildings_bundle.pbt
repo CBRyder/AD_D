@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A prebuild castle with buildings ie Tavern, Quarry, Woodshop, Blacksmith, Barrex and Keep"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

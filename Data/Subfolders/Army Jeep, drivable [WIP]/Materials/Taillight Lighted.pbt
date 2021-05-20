@@ -2,7 +2,7 @@ Assets {
   Id: 15914209600221589971
   Name: "Taillight Lighted"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 3702191406046426907
     ParameterOverrides {

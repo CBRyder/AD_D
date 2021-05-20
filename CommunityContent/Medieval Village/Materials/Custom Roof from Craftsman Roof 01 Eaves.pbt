@@ -2,7 +2,7 @@ Assets {
   Id: 16266956051213500542
   Name: "Custom Roof from Craftsman Roof 01 Eaves"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 5639912258307476140
     ParameterOverrides {

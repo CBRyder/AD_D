@@ -43,5 +43,5 @@ Assets {
     Version: "1.3.0"
     Description: "Update: 10-10-2020\r\n- Fixed an issue that would only let you trigger the well once (LeCornyx)\r\n\r\nUpdate: 02-10-2020\r\n\r\nFixed an issue with multiple actions before animation is done\r\n\r\n- Added trigger to make the well interactable\r\n- Added animation to the bucket, the roller and the rope\r\n\r\n\r\n*** Updated ***\r\n- Fixed the center point of the object\r\n- High quality well, with good details"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

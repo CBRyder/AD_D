@@ -23,6 +23,7 @@ Objects {
   ChildIds: 13819972639892425532
   ChildIds: 7774602414469388131
   ChildIds: 3244572846690291390
+  ChildIds: 13124090468971234193
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,6 +36,55 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 13124090468971234193
+  Name: "PlayerNameplates (PlayerTitles)"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 5332119631449535659
+      value {
+        Overrides {
+          Name: "Name"
+          String: "PlayerNameplates (PlayerTitles)"
+        }
+        Overrides {
+          Name: "cs:FriendlyHealthColor"
+          Color {
+            R: 0.0794700682
+            G: 0.6
+            A: 1
+          }
+        }
+        Overrides {
+          Name: "cs:NeutralHealthColor"
+          Color {
+            R: 1
+            G: 1
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2210881581489882578
+    }
   }
 }
 Objects {

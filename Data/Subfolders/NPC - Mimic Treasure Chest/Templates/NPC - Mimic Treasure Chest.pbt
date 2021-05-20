@@ -43,5 +43,5 @@ Assets {
     Version: "1.4.0"
     Description: "v1.4 Additional bug fixes\r\nv1.3 Bug Fix & Enhancements\r\nv1.1 Bug Fix - Fixed combat so it isn\'t broken\r\nOriginal Mimic Model by Standardcombo\r\nAttack, animations, chest interactions & SFX by Dreadwoodgames\r\nInspiration and collaboration from Marious\r\nAnimation advice from WitcherSilver"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

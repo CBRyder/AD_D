@@ -2,7 +2,7 @@ Assets {
   Id: 10115903117664501436
   Name: "Custom Bricks Chunky Stone 01"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 17277151564205607926
     ParameterOverrides {

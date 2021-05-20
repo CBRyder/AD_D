@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Spice up your D&D games or other games with this.\r\nIt\'s a six armed variant of the classic Skelton Swordsman from the DND starter project.  \r\nExpands upon theme and variation to make things more interesting. \r\n\r\nBe certain to adjust the NPC\'s health, damage and other settings to your needs/liking.\r\n\r\nI may get around to creating some animation/motion to the arms if there\'s enough interest.\r\n\r\nPlease leave a review along with any feedback.  \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

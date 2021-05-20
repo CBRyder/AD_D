@@ -2,7 +2,7 @@ Assets {
   Id: 105282330001104751
   Name: "Custom Trim from Craftsman Roof 01 Eaves"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 6021194340568734479
     ParameterOverrides {

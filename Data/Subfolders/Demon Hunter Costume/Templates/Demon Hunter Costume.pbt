@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A simple Demon Hunter Costume complete with Warglaive.\r\n\r\nEntered into the Corestume2020 Contest for the Magical-est Category"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

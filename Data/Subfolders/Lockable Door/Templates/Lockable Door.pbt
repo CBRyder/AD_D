@@ -49,5 +49,5 @@ Assets {
     Version: "1.10.0"
     Description: "Lockable door"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

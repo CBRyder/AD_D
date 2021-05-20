@@ -49,5 +49,5 @@ Assets {
     Version: "1.2.0"
     Description: "This script allows  you to setup a basic leveling system, that is saved to the server.\r\n\r\nXP gains are currently set to +200 xp on player kill and can be changed inside of the server context script.\r\n\r\nIt requires  that  you enable presistant storage  to use."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

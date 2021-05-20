@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Wooden Lamp Post"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

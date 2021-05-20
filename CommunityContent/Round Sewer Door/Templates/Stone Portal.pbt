@@ -135,6 +135,6 @@ Assets {
   Marketplace {
     Description: "A round sewer opening frame"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

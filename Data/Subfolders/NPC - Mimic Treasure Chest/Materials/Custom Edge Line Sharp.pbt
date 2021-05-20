@@ -2,7 +2,7 @@ Assets {
   Id: 5084518248105504927
   Name: "Custom Edge Line Sharp"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 3110766469218200335
     ParameterOverrides {

@@ -2,7 +2,7 @@ Assets {
   Id: 2587232583251159694
   Name: "Custom Base Material from Humanoid 2 Kava_1"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 3064002986569843813
     ParameterOverrides {

@@ -2,7 +2,7 @@ Assets {
   Id: 14080987046481072279
   Name: "BarkBone"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 15419921641479462539
     ParameterOverrides {

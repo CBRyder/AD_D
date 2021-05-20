@@ -2283,6 +2283,6 @@ Assets {
   Marketplace {
     Description: "ATTRIBUTIONS: \r\n- Costume Models customisd from Mergelandia pack\r\n- Scripts: Dungeon Framework / NPC AI Kit / Combat Dependencies \r\n- RPGMod Custom: projectiles, skins, balance, etc\r\n\r\nBALANCE = PRE-ALPHA for RPGMod Levels 1-50  (minimal playtesting)\r\n\r\nContent:\r\n2 x Light ranged attack -- waterball\r\n3 x Melee\r\n4 x heavy ranged attacks -- water boulder / spikes"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

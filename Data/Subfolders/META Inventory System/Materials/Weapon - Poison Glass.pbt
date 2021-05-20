@@ -2,7 +2,7 @@ Assets {
   Id: 10548737589234591987
   Name: "Weapon - Poison Glass"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 16845241941935487831
     ParameterOverrides {

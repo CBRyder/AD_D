@@ -2,7 +2,7 @@ Assets {
   Id: 12860661873332337790
   Name: "Wagon Metal"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 9691585235102710834
     ParameterOverrides {

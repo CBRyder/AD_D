@@ -2,7 +2,7 @@ Assets {
   Id: 9043535329482408048
   Name: "Plillar Trim"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 7980884533482195323
     ParameterOverrides {

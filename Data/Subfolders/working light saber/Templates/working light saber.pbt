@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "a working light saber"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

@@ -2,7 +2,7 @@ Assets {
   Id: 4180314541982765324
   Name: "Custom - Water for Wheel"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 2105530983867805765
     ParameterOverrides {

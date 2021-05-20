@@ -2,7 +2,7 @@ Assets {
   Id: 16209964111442698517
   Name: "Weapon - Vines"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 7903226198415776080
     ParameterOverrides {

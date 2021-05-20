@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "This is just a quick reskin of Estlogic\'s Voxel MK1 Suv CC"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

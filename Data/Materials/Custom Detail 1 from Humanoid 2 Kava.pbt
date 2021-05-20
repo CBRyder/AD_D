@@ -2,7 +2,7 @@ Assets {
   Id: 8121301698895815283
   Name: "Joker Hair"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 4952343712239511267
     ParameterOverrides {

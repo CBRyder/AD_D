@@ -3561,6 +3561,6 @@ Assets {
   Marketplace {
     Description: "A perfect lighting for the road, works in most medieval and fantasy games"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

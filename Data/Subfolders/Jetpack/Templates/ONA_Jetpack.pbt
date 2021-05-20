@@ -3775,6 +3775,6 @@ Assets {
   Marketplace {
     Description: "Mark 1 prototype for a device that will propell players.\r\n\r\nStandard controls (WASD) allow you to run around.\r\nPressing CTRL+WASD will fire the thrusters.\r\n\r\nJumping is disabled when the jetpack is equiped (Change the player settings to suit your needs).\r\n\r\nThis model includes:\r\nAdjustable thrust rates\r\nFuel burn/regen rates\r\nFuel limiter to auto-shut down engine on fuel == bingo\r\nAnimated Engine cowlings (independant; based on thrust)\r\nTimeline scaling for the cowling extension and retraction animations\r\nSounds for various start/stop and thust modes\r\nVFX to show thrust positions and fuel levels\r\n"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

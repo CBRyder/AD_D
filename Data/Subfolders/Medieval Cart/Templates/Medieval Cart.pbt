@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A decorative cart for medieval settings. Can be filled with cabbage for example."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

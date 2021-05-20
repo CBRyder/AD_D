@@ -1903,6 +1903,6 @@ Assets {
   Marketplace {
     Description: "This script is a WIP.\r\n\r\nAllows you to interact with an NPC and sell resources.\r\n\r\nCurrently allows 12 resources to be sold all with dynamic pricing using tables.\r\n\r\nPublishing early for @Eskil to take a look at.\r\n\r\n-- In the future:\r\n\r\nWill be using JSON to make the data easier to change and be adding custom parameters to allow modifications inside of the editor."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

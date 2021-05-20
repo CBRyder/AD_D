@@ -2,7 +2,7 @@ Assets {
   Id: 12977926775471179299
   Name: "Dark Gray Plastic Matte"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 132672053610873933
     ParameterOverrides {

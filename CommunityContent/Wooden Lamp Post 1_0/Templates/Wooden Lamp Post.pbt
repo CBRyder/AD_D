@@ -727,6 +727,6 @@ Assets {
   Marketplace {
     Description: "Wooden Lamp Post"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

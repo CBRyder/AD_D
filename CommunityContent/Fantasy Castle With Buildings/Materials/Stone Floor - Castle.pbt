@@ -2,7 +2,7 @@ Assets {
   Id: 14306518599470456856
   Name: "Stone Floor - Castle"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 10958230901237435029
     ParameterOverrides {

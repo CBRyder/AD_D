@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "The opening of a sewer pipe.\r\n\r\n(does not contain background hills.)"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

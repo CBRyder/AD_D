@@ -2,7 +2,7 @@ Assets {
   Id: 13446174869732687653
   Name: "gold ore glow"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 15844380065948034721
     ParameterOverrides {

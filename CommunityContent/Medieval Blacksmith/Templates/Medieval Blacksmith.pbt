@@ -7090,6 +7090,6 @@ Assets {
   Marketplace {
     Description: "A basic blacksmith building, with a working furnace. See screenshots for inspiration"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

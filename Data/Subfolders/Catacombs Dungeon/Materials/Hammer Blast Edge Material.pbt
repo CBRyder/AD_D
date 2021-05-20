@@ -2,7 +2,7 @@ Assets {
   Id: 15687397761411180167
   Name: "Hammer Blast Edge Material"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 2721411165435899975
     ParameterOverrides {

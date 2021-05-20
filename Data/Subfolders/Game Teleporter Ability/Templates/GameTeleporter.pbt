@@ -625,6 +625,6 @@ Assets {
   Marketplace {
     Description: "v1.0.1\r\nFixed equipment geo bug\r\nv1.0.0\r\n\r\nThis equipment has the ability to teleport to a different Core Game. If you move the ability to a different equipment be sure to move the accompanying script as well.\r\n\r\nCorehaven is set as the default game but can be changed in the scripts custom properties."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

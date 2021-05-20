@@ -54527,6 +54527,6 @@ Assets {
   Marketplace {
     Description: "I have decided to release my tavern to the public\r\n\r\n- Contains a 4 level high building\r\n- Ground level has interior, you can walk into this building\r\n"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

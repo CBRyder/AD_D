@@ -2210,6 +2210,6 @@ Assets {
   Marketplace {
     Description: "A decorative cart for medieval settings. Can be filled with cabbage for example."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

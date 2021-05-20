@@ -26704,6 +26704,6 @@ Assets {
   Marketplace {
     Description: "This is just a quick reskin of Estlogic\'s Voxel MK1 Suv CC"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

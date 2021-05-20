@@ -2,7 +2,7 @@ Assets {
   Id: 17777900554413266230
   Name: "Custom Trim from Craftsman Roof 01"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 1092836157557797455
     ParameterOverrides {

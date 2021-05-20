@@ -2,7 +2,7 @@ Assets {
   Id: 5395729796010336779
   Name: "cave cc leafy bush tall"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 16606342384453700798
     ParameterOverrides {

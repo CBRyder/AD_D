@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A perfect lighting for the road, works in most medieval and fantasy games"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

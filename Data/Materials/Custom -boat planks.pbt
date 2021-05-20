@@ -2,7 +2,7 @@ Assets {
   Id: 6463066855443728152
   Name: "Custom -boat planks"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 3605030238014728915
     ParameterOverrides {

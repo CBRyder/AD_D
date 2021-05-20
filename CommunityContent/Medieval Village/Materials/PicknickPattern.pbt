@@ -2,7 +2,7 @@ Assets {
   Id: 12244175129336328098
   Name: "PicknickPattern"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 12621867444381312619
     ParameterOverrides {

@@ -2,7 +2,7 @@ Assets {
   Id: 16926402407319319558
   Name: "Custom Detail 1 from Fantasy Shield 02"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 7728469636250437342
     ParameterOverrides {

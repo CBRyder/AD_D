@@ -342,5 +342,5 @@ Assets {
       AssetId: "Fantasy_Weapon_-_Sword_03__Prop_"
     }
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

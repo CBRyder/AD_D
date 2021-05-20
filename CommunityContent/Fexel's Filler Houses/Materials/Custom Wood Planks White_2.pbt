@@ -2,7 +2,7 @@ Assets {
   Id: 690147594464339209
   Name: "Custom Wood Planks White_2"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 2352186918021370913
     ParameterOverrides {

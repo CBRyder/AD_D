@@ -2,7 +2,7 @@ Assets {
   Id: 9219485867077318840
   Name: "_RPGMod_Snow 01"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 1523214900353875295
     ParameterOverrides {

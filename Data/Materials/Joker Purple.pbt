@@ -2,7 +2,7 @@ Assets {
   Id: 9264617524264716440
   Name: "Joker Purple"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 12610424900416358656
     ParameterOverrides {

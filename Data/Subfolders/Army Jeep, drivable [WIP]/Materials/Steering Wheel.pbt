@@ -2,7 +2,7 @@ Assets {
   Id: 2025439565532123066
   Name: "Steering Wheel"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 6128085492118388174
     ParameterOverrides {

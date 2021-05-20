@@ -2,7 +2,7 @@ Assets {
   Id: 5026366603338961206
   Name: "Weapon - Plasma Green"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 12789658363081938200
     ParameterOverrides {

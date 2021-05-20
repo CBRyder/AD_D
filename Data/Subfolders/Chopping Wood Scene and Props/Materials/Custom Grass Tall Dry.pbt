@@ -2,7 +2,7 @@ Assets {
   Id: 10584453696443218533
   Name: "Custom Grass Tall Dry"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 12584590181071424389
     ParameterOverrides {

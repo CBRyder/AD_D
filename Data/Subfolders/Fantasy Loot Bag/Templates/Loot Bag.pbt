@@ -1892,6 +1892,6 @@ Assets {
   Marketplace {
     Description: "A fully functional loot pickup. Comes with low and high pickup animations and effects. Grants gold resources by default, but the custom property can be changed to grant any resource type. Easy to use, just drop into a level or spawn as a reward."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

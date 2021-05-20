@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A round sewer opening frame"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

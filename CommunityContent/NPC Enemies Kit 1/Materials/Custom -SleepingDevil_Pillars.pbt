@@ -2,7 +2,7 @@ Assets {
   Id: 9950466328828827454
   Name: "Custom -SleepingDevil_Pillars"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 8363341854360369298
     ParameterOverrides {

@@ -2,7 +2,7 @@ Assets {
   Id: 14979661566652969391
   Name: "Orc Custom Base Material from Fantasy Human Guy 1"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 9953683037136053573
     ParameterOverrides {

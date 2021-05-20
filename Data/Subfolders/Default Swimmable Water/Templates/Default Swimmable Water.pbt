@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "The default water texture. Get up and running quickly and customize it to your liking.\r\n\r\n@LuckofBuck"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

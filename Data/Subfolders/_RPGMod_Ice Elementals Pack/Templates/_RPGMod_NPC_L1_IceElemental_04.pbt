@@ -3926,6 +3926,6 @@ Assets {
   Marketplace {
     Description: "ATTRIBUTIONS: \r\n- Costume Models from Mergelandia pack\r\n- Scripts: Dungeon Framework / NPC AI Kit / Combat Dependencies \r\n- RPGMod Custom: projectiles, skins, balance, etc\r\n\r\nBALANCE: Pre-alpha for RPGMod L1-50 (on CC). Minimal playtesting. Recommend you customise HP + damage to suit your game,\r\n\r\nRPGMod NPC Pack: 9 x Ice Elementals -- brought to you by the FAEDED REALMS GameDev Team\r\n\r\n2 x Light Ranged\r\n3 x Melee\r\n4 x Boss-type Ranged\r\n\r\nAny questions find us in the Core Discord Channels. \r\n\r\n"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

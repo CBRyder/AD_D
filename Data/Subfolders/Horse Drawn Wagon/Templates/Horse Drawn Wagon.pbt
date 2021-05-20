@@ -40,5 +40,5 @@ Assets {
     Version: "1.0.0"
     Description: "Horses by LittleCreator"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

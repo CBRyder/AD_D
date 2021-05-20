@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "It\'s a Kill Zone. If you enter the Zone (Trigger) you die."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

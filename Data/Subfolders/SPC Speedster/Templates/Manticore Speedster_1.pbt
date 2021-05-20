@@ -16765,6 +16765,6 @@ Assets {
   Marketplace {
     Description: "This is a better version of the two seater car (imo anyway) now with a proper name. A bit slicker, better organized. I\'ve left the prototype in as well for comparison reasons and removed the previous template.\r\n\r\nAdded a simple interior."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

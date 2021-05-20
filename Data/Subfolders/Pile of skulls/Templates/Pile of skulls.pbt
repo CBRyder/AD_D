@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "a perfect decoration for a gothic map ! \r\nmade of 8 differents assets (around 30 skulls)"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "a speedometer UI that shows the speed of the player\r\nworks if the player is running or using any kind of vehicle\r\n\r\njust drag and drop it anywhere in the viewport for it to work"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

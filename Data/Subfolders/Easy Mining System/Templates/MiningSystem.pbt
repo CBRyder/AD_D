@@ -6935,6 +6935,6 @@ Assets {
   Marketplace {
     Description: "This is a small easy to use mining system. In the kit you will be able to mine copper ore and chop down trees. For more information checkout the readme file."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

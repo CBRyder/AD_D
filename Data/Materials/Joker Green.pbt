@@ -2,7 +2,7 @@ Assets {
   Id: 13092788596278793632
   Name: "Joker Green"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 146543795538828479
     ParameterOverrides {

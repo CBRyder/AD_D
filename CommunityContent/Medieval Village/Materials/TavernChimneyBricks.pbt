@@ -2,7 +2,7 @@ Assets {
   Id: 13872547069357478247
   Name: "TavernChimneyBricks"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 7362232965091765999
     ParameterOverrides {

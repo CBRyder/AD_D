@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "Basic chain hung lantern.\r\nUse and modify as you see fit."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

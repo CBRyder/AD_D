@@ -2,7 +2,7 @@ Assets {
   Id: 5978792861028065217
   Name: "Custom Base Material from Urban Damaged Rebar - Single 4m"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 1714857522875673815
     ParameterOverrides {

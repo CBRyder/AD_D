@@ -2,7 +2,7 @@ Assets {
   Id: 14843997464895936986
   Name: "Water Elemental Bodies"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 12510968351439123370
     ParameterOverrides {

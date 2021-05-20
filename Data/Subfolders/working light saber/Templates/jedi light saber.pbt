@@ -2244,6 +2244,6 @@ Assets {
   Marketplace {
     Description: "a working light saber"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

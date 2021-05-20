@@ -49,5 +49,5 @@ Assets {
     Version: "1.13.0"
     Description: "(Work in progress)\r\n\r\nA world-space, customizable shop that trades resources for equipment. Currently it works in conjunction with the Basic Inventory system and includes a copy of that, plus a spawner and resource pickups for everything to be functional. See the README for more info."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

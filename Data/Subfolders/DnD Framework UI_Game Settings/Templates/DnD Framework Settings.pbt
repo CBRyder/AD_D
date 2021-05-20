@@ -8765,6 +8765,6 @@ Assets {
   Marketplace {
     Description: "The Game and UI folders from the DnD framework.\r\n\r\nno map or navmesh"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
   DirectlyPublished: true
 }

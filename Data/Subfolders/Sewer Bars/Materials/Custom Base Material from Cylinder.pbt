@@ -2,7 +2,7 @@ Assets {
   Id: 7751862536688841054
   Name: "Custom Base Material from Cylinder"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 9557344958879277691
     ParameterOverrides {

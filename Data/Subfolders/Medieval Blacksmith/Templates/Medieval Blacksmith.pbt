@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "A basic blacksmith building, with a working furnace. See screenshots for inspiration"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

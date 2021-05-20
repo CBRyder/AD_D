@@ -2,7 +2,7 @@ Assets {
   Id: 13645470778275460391
   Name: "Custom Base Material from Fantasy Castle Door 01"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 16026948832579514758
     ParameterOverrides {

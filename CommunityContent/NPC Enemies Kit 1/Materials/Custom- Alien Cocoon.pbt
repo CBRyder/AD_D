@@ -2,7 +2,7 @@ Assets {
   Id: 3887637561966084773
   Name: "Custom- Alien Cocoon"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 13542265519619239198
     ParameterOverrides {

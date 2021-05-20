@@ -2,7 +2,7 @@ Assets {
   Id: 5022533155766714473
   Name: "_RPGMod_Ice Elemental Body"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 12510968351439123370
     ParameterOverrides {

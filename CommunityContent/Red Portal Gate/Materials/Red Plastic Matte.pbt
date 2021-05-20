@@ -2,7 +2,7 @@ Assets {
   Id: 16601759181220327091
   Name: "Red Plastic Matte"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 132672053610873933
     ParameterOverrides {

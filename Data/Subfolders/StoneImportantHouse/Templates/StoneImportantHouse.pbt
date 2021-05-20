@@ -51,5 +51,5 @@ Assets {
     Version: "1.1.0"
     Description: "Big building made of stone and wood. Made from sniper alley house set."
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

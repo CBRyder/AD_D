@@ -2,7 +2,7 @@ Assets {
   Id: 8862768384262226190
   Name: "Helmet Feather Material"
   PlatformAssetType: 13
-  SerializationVersion: 84
+  SerializationVersion: 85
   CustomMaterialAsset {
     BaseMaterialId: 12782940202352343062
     ParameterOverrides {

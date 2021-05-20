@@ -43,5 +43,5 @@ Assets {
     Version: "1.0.0"
     Description: "fits nicely in a dungeon!"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

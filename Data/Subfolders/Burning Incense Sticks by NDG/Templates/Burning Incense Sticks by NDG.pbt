@@ -43,5 +43,5 @@ Assets {
     Version: "1.1.0"
     Description: "SImple incense sticks for use in games or scenes. \r\nIncludes a smoke vfx that can be adjusted to your preference. \r\n\r\nEnjoy,\r\nNDG \r\n"
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }

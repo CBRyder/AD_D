@@ -154,5 +154,5 @@ Assets {
       AssetId: "Loot_Spawner"
     }
   }
-  SerializationVersion: 84
+  SerializationVersion: 85
 }
