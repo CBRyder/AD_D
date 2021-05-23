@@ -1,7 +1,7 @@
 Name: "Left Lower leg_6"
-RootId: 243008290586890001
+RootId: 9445926706034976
 Objects {
-  Id: 1130558524736276705
+  Id: 1012776719971331688
   Name: "Wedge - Concave"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.0421367958
     }
   }
-  ParentId: 243008290586890001
+  ParentId: 9445926706034976
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -52,7 +52,7 @@ Objects {
   }
 }
 Objects {
-  Id: 15091365930128409152
+  Id: 11532491028386553775
   Name: "Wedge Convex - Large"
   Transform {
     Location {
@@ -67,7 +67,7 @@ Objects {
       Z: 0.01986
     }
   }
-  ParentId: 243008290586890001
+  ParentId: 9445926706034976
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -109,7 +109,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9531088278479021997
+  Id: 6265188748352447696
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -125,7 +125,7 @@ Objects {
       Z: 0.156424031
     }
   }
-  ParentId: 243008290586890001
+  ParentId: 9445926706034976
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

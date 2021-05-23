@@ -1,7 +1,7 @@
 Name: "Front side_6"
-RootId: 14520362039740660699
+RootId: 7700871539189461
 Objects {
-  Id: 10431565563258098980
+  Id: 14650370218118488848
   Name: "Cylinder"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.0750289932
     }
   }
-  ParentId: 14520362039740660699
+  ParentId: 7700871539189461
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -62,7 +62,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1513956925684831113
+  Id: 6167637661080169387
   Name: "Cylinder"
   Transform {
     Location {
@@ -81,7 +81,7 @@ Objects {
       Z: 0.0750289932
     }
   }
-  ParentId: 14520362039740660699
+  ParentId: 7700871539189461
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -123,7 +123,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12555686007334081983
+  Id: 13433242286088984407
   Name: "Arch"
   Transform {
     Location {
@@ -142,7 +142,7 @@ Objects {
       Z: 0.050000228
     }
   }
-  ParentId: 14520362039740660699
+  ParentId: 7700871539189461
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

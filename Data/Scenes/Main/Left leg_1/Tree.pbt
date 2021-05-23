@@ -1,7 +1,7 @@
 Name: "Left leg_1"
-RootId: 8287474939655344000
+RootId: 15741569963387019658
 Objects {
-  Id: 15561343911825327901
+  Id: 3658672580705356828
   Name: "Right Lower leg"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8287474939655344000
+  ParentId: 15741569963387019658
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -31,14 +31,14 @@ Objects {
     FilePartitionName: "Right Lower leg_3"
   }
   InstanceHistory {
-    SelfId: 15561343911825327901
-    SubobjectId: 10377558987666258100
+    SelfId: 114377501452963124
+    SubobjectId: 5072980104409100957
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 4188396361696517761
+  Id: 11100827122652771370
   Name: "Left Lower leg"
   Transform {
     Location {
@@ -52,7 +52,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8287474939655344000
+  ParentId: 15741569963387019658
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -67,8 +67,8 @@ Objects {
     FilePartitionName: "Left Lower leg_3"
   }
   InstanceHistory {
-    SelfId: 4188396361696517761
-    SubobjectId: 9065936752870334760
+    SelfId: 6392931281111709461
+    SubobjectId: 2254262843206420668
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

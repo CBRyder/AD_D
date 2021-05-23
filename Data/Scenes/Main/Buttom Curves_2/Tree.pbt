@@ -1,7 +1,7 @@
 Name: "Buttom Curves_2"
-RootId: 17452274670780442885
+RootId: 1877931090310293259
 Objects {
-  Id: 1176234791057849662
+  Id: 8265110221790915941
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.376534462
     }
   }
-  ParentId: 17452274670780442885
+  ParentId: 1877931090310293259
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -59,7 +59,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11034023112392840773
+  Id: 9236869029057596137
   Name: "Pipe - Quarter"
   Transform {
     Location {
@@ -78,7 +78,7 @@ Objects {
       Z: 0.0554596484
     }
   }
-  ParentId: 17452274670780442885
+  ParentId: 1877931090310293259
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -120,7 +120,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17646880368301241451
+  Id: 5369116147829087621
   Name: "Pipe - Quarter"
   Transform {
     Location {
@@ -138,7 +138,7 @@ Objects {
       Z: 0.0554596484
     }
   }
-  ParentId: 17452274670780442885
+  ParentId: 1877931090310293259
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

@@ -1,7 +1,7 @@
 Name: "Medieval Table_1"
-RootId: 14407899340032143843
+RootId: 11500048595110708757
 Objects {
-  Id: 1688481982270035165
+  Id: 11852821439393933634
   Name: "Buttom"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14407899340032143843
+  ParentId: 11500048595110708757
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -39,7 +39,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2817089343452388877
+  Id: 5251169263578360448
   Name: "Top"
   Transform {
     Location {
@@ -53,7 +53,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14407899340032143843
+  ParentId: 11500048595110708757
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

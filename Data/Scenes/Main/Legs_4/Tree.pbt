@@ -1,7 +1,7 @@
 Name: "Legs_4"
-RootId: 4837408903477384374
+RootId: 4130743877982850902
 Objects {
-  Id: 9971678681128141592
+  Id: 16829632947781618208
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.588297
     }
   }
-  ParentId: 4837408903477384374
+  ParentId: 4130743877982850902
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -59,7 +59,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17687922511176802380
+  Id: 14666996780491148289
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -74,7 +74,7 @@ Objects {
       Z: 0.588297
     }
   }
-  ParentId: 4837408903477384374
+  ParentId: 4130743877982850902
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -116,7 +116,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3808033406084657430
+  Id: 2511566573301736176
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -131,7 +131,7 @@ Objects {
       Z: 1.59995008
     }
   }
-  ParentId: 4837408903477384374
+  ParentId: 4130743877982850902
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -173,7 +173,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16855360752495836268
+  Id: 12162254780493225493
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -187,7 +187,7 @@ Objects {
       Z: 1.59995008
     }
   }
-  ParentId: 4837408903477384374
+  ParentId: 4130743877982850902
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

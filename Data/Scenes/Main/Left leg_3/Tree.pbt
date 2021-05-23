@@ -1,7 +1,7 @@
 Name: "Left leg_3"
-RootId: 3173675324617433248
+RootId: 3866006916864421192
 Objects {
-  Id: 114377501452963124
+  Id: 2852265147437474895
   Name: "Right Lower leg"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3173675324617433248
+  ParentId: 3866006916864421192
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -38,7 +38,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6392931281111709461
+  Id: 9897231825332461613
   Name: "Left Lower leg"
   Transform {
     Location {
@@ -52,7 +52,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3173675324617433248
+  ParentId: 3866006916864421192
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

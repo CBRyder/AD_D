@@ -21,9 +21,9 @@ Objects {
   ChildIds: 11876389117872336258
   ChildIds: 140809781045263113
   ChildIds: 13819972639892425532
-  ChildIds: 7774602414469388131
-  ChildIds: 3244572846690291390
   ChildIds: 13124090468971234193
+  ChildIds: 3983274340095485110
+  ChildIds: 16937857428989740137
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -36,6 +36,92 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 16937857428989740137
+  Name: "Fexel\'s Magnificent Tavern"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2039194516275807009
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fexel\'s Magnificent Tavern"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 5512
+            Y: -13676
+            Z: 1829
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -66
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11812682715914979869
+    }
+  }
+}
+Objects {
+  Id: 3983274340095485110
+  Name: "Blacksmith Dialouge"
+  Transform {
+    Location {
+      X: -24449
+      Y: -15714
+      Z: 1820
+    }
+    Rotation {
+      Yaw: 163
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Blacksmith Dialouge"
+  }
+  InstanceHistory {
+    SelfId: 3983274340095485110
+    SubobjectId: 14859362854836943051
+    InstanceId: 12925714101655593249
+    TemplateId: 942893291683102714
+    WasRoot: true
   }
 }
 Objects {
@@ -88,107 +174,6 @@ Objects {
   }
 }
 Objects {
-  Id: 3244572846690291390
-  Name: "MiningSystem"
-  Transform {
-    Location {
-      X: -12139
-      Y: -25070
-      Z: 1734
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "MiningSystem"
-  }
-  InstanceHistory {
-    SelfId: 3244572846690291390
-    SubobjectId: 16243201084122659118
-    InstanceId: 3207890667127470211
-    TemplateId: 14162444874053094672
-    WasRoot: true
-  }
-}
-Objects {
-  Id: 7774602414469388131
-  Name: "ClientContext"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 7371424777895378806
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  NetworkContext {
-  }
-}
-Objects {
-  Id: 7371424777895378806
-  Name: "Map Saved Location"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7774602414469388131
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5198740663743474071
-    }
-  }
-}
-Objects {
   Id: 13819972639892425532
   Name: "The Carlos Blade"
   Transform {
@@ -217,8 +202,8 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -24062
-            Y: -16207
+            X: -24428
+            Y: -17481
             Z: 1905.00098
           }
         }

@@ -52,14 +52,16 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
-      Z: 152.487534
+      X: 92.9040833
+      Y: -22.8436184
+      Z: 152.997925
     }
     Rotation {
     }
     Scale {
-      X: 1.56526732
-      Y: 1.56526732
-      Z: 1.56526732
+      X: 5.5
+      Y: 2.25
+      Z: 2.25
     }
   }
   ParentId: 14165932137659397912

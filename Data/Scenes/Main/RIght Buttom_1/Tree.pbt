@@ -1,7 +1,7 @@
 Name: "RIght Buttom_1"
-RootId: 9893379941384993777
+RootId: 6209331538862868141
 Objects {
-  Id: 7944425826895463098
+  Id: 12879315855155432389
   Name: "Pipe - Half"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.079733938
     }
   }
-  ParentId: 9893379941384993777
+  ParentId: 6209331538862868141
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -62,7 +62,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5545276465299782437
+  Id: 4426584649185216178
   Name: "Pipe - Half"
   Transform {
     Location {
@@ -81,7 +81,7 @@ Objects {
       Z: 0.079733938
     }
   }
-  ParentId: 9893379941384993777
+  ParentId: 6209331538862868141
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -123,7 +123,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9672842040819409328
+  Id: 3131188403428581610
   Name: "Pipe - Half"
   Transform {
     Location {
@@ -142,7 +142,7 @@ Objects {
       Z: 0.0797804072
     }
   }
-  ParentId: 9893379941384993777
+  ParentId: 6209331538862868141
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -184,7 +184,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14481607853646993631
+  Id: 5527138381138024761
   Name: "Pipe - Half"
   Transform {
     Location {
@@ -202,7 +202,7 @@ Objects {
       Z: 0.0797804072
     }
   }
-  ParentId: 9893379941384993777
+  ParentId: 6209331538862868141
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -244,7 +244,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4168080006391659102
+  Id: 13492274658114588736
   Name: "Top carves"
   Transform {
     Location {
@@ -260,7 +260,7 @@ Objects {
       Z: 0.636012912
     }
   }
-  ParentId: 9893379941384993777
+  ParentId: 6209331538862868141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -282,7 +282,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3131665520561708101
+  Id: 10411647591934981367
   Name: "Left leg"
   Transform {
     Location {
@@ -296,7 +296,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9893379941384993777
+  ParentId: 6209331538862868141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

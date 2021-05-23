@@ -8,15 +8,6 @@ Assets {
   }
 }
 Assets {
-  Id: 16187129339560596756
-  Name: "Wood Raw White"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_wood_raw_white_001_uv"
-  }
-}
-Assets {
   Id: 14299001924079497417
   Name: "Humanoid 2 Peasant Shirt"
   PlatformAssetType: 26
@@ -32,15 +23,6 @@ Assets {
   PrimaryAsset {
     AssetType: "SkinnedMeshAssetRef"
     AssetId: "npc_human_gal_lower_fantasy_000_ref"
-  }
-}
-Assets {
-  Id: 8382367383165310872
-  Name: "Humanoid 2 Drahkzen Hair"
-  PlatformAssetType: 26
-  PrimaryAsset {
-    AssetType: "SkinnedMeshAssetRef"
-    AssetId: "npc_human_guy_hair_fantasy_004_ref"
   }
 }
 Assets {

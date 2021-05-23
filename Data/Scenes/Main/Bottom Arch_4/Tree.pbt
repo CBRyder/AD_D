@@ -1,7 +1,7 @@
 Name: "Bottom Arch_4"
-RootId: 8893461305518028410
+RootId: 11004923863213931251
 Objects {
-  Id: 508739919768756541
+  Id: 6094501583862917579
   Name: "Back side"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8893461305518028410
+  ParentId: 11004923863213931251
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -39,7 +39,7 @@ Objects {
   }
 }
 Objects {
-  Id: 270332811431314458
+  Id: 7072506624429562442
   Name: "Front side"
   Transform {
     Location {
@@ -55,7 +55,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8893461305518028410
+  ParentId: 11004923863213931251
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -77,7 +77,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11831634648714241942
+  Id: 3899527249569983418
   Name: "Left side"
   Transform {
     Location {
@@ -92,7 +92,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8893461305518028410
+  ParentId: 11004923863213931251
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -114,7 +114,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5846299636305965161
+  Id: 14979523065774620604
   Name: "Right side"
   Transform {
     Location {
@@ -129,7 +129,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8893461305518028410
+  ParentId: 11004923863213931251
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

@@ -1,7 +1,7 @@
 Name: "Leather_6"
-RootId: 9052142741240622524
+RootId: 11011187985831528515
 Objects {
-  Id: 11121973418982499936
+  Id: 13842926197971179435
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.530326
     }
   }
-  ParentId: 9052142741240622524
+  ParentId: 11011187985831528515
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -63,7 +63,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8307425689833664323
+  Id: 2950146037799548583
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -79,7 +79,7 @@ Objects {
       Z: 0.0318535119
     }
   }
-  ParentId: 9052142741240622524
+  ParentId: 11011187985831528515
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

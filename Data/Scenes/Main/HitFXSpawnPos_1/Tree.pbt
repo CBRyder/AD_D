@@ -1,2 +1,0 @@
-Name: "HitFXSpawnPos_1"
-RootId: 6928005543532155130

@@ -1,7 +1,7 @@
 Name: "Top Cross_2"
-RootId: 7089930158636457368
+RootId: 11522349560204850410
 Objects {
-  Id: 172922232758284749
+  Id: 16895276734351501243
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.037411958
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -52,14 +52,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 172922232758284749
-    SubobjectId: 5014431524810395236
+    SelfId: 10928640198352331769
+    SubobjectId: 15013546942381907024
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 2298854676640681573
+  Id: 6457495741111591750
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -75,7 +75,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -110,14 +110,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 2298854676640681573
-    SubobjectId: 6347732534446715340
+    SelfId: 10744899477855151270
+    SubobjectId: 15198817618277243663
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 1484361139656114029
+  Id: 8301200735872925417
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -133,7 +133,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -168,14 +168,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 1484361139656114029
-    SubobjectId: 6010339207255654596
+    SelfId: 3201123686798528786
+    SubobjectId: 7754121268097199803
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 8541323838383584828
+  Id: 9322832787227589448
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -191,7 +191,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -226,14 +226,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 8541323838383584828
-    SubobjectId: 3564706836968294805
+    SelfId: 2098018090684930096
+    SubobjectId: 6551938575789025177
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 2954884565137491345
+  Id: 11458712006758638386
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -249,7 +249,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -284,14 +284,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 2954884565137491345
-    SubobjectId: 7994270759642282552
+    SelfId: 10455848412521210663
+    SubobjectId: 15486229328947289230
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 8989433918316191180
+  Id: 6991959744809276675
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -307,7 +307,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -342,14 +342,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 8989433918316191180
-    SubobjectId: 4265018493115474533
+    SelfId: 6546144506292316407
+    SubobjectId: 2100949581669242718
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 6393295012457620375
+  Id: 5660194680534994688
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -365,7 +365,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -400,14 +400,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 6393295012457620375
-    SubobjectId: 2254344965844573246
+    SelfId: 14063828276196234249
+    SubobjectId: 9573597759597865888
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 16620419269114886822
+  Id: 16456600298091335921
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -423,7 +423,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -458,14 +458,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 16620419269114886822
-    SubobjectId: 11625785674211083535
+    SelfId: 3736245800567528263
+    SubobjectId: 8370308240169526510
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 502121761964097344
+  Id: 9793403049013237474
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -481,7 +481,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -516,14 +516,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 502121761964097344
-    SubobjectId: 4685824063423627497
+    SelfId: 10573513437353460658
+    SubobjectId: 15369707246456863771
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 14533759823307621510
+  Id: 385209924071667274
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -539,7 +539,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -574,14 +574,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 14533759823307621510
-    SubobjectId: 10250976376808241967
+    SelfId: 3387983265537170058
+    SubobjectId: 7562680574297810211
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 13388856164602229813
+  Id: 9692457157248284785
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -597,7 +597,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -632,14 +632,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 13388856164602229813
-    SubobjectId: 18320155664365718428
+    SelfId: 9893204904230517564
+    SubobjectId: 14896562092017763477
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 15554275668765702386
+  Id: 4440662907362566011
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -655,7 +655,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -690,14 +690,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 15554275668765702386
-    SubobjectId: 10388505208246028123
+    SelfId: 17220694039802447659
+    SubobjectId: 12181305434293385346
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 13102686243678241827
+  Id: 11504366932848555922
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -713,7 +713,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -748,14 +748,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 13102686243678241827
-    SubobjectId: 17448799325984258954
+    SelfId: 14068583054544365602
+    SubobjectId: 9569344925485062027
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 2306935520555301048
+  Id: 13737375560449940356
   Name: "Sign Font 1: +"
   Transform {
     Location {
@@ -771,7 +771,7 @@ Objects {
       Z: 0.1
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font_Faces:id"
@@ -818,14 +818,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 2306935520555301048
-    SubobjectId: 7490436844046698257
+    SelfId: 6075899137519829293
+    SubobjectId: 1414534006924639876
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 16313675964279816151
+  Id: 14115450483010946069
   Name: "Sign Font 1: +"
   Transform {
     Location {
@@ -841,7 +841,7 @@ Objects {
       Z: 0.1
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font_Faces:id"
@@ -888,14 +888,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 16313675964279816151
-    SubobjectId: 11931531739315486846
+    SelfId: 7058459054948424472
+    SubobjectId: 2739365193898009777
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 11105315027062719335
+  Id: 13368497322864808693
   Name: "Sign Font 1: +"
   Transform {
     Location {
@@ -911,7 +911,7 @@ Objects {
       Z: 0.1
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font_Faces:id"
@@ -958,14 +958,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 11105315027062719335
-    SubobjectId: 15991860133070814414
+    SelfId: 6470497624959320752
+    SubobjectId: 2178425500722969881
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 4611646946359573157
+  Id: 12010005060903725900
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -981,7 +981,7 @@ Objects {
       Z: 0.0657682791
     }
   }
-  ParentId: 7089930158636457368
+  ParentId: 11522349560204850410
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1016,8 +1016,8 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 4611646946359573157
-    SubobjectId: 8651235987664258316
+    SelfId: 1045461646483235546
+    SubobjectId: 5292495825856273779
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

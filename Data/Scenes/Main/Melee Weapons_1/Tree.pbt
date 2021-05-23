@@ -2,7 +2,7 @@ Name: "Melee Weapons_1"
 RootId: 8563061152925913555
 Objects {
   Id: 15754469216626653651
-  Name: "Example GreatSword"
+  Name: "GreatSword"
   Transform {
     Location {
     }
@@ -526,7 +526,7 @@ Objects {
 }
 Objects {
   Id: 14392421123655936564
-  Name: "Example Sword"
+  Name: "Advanced Sword"
   Transform {
     Location {
     }
@@ -902,11 +902,11 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
-      Int: 38
+      Int: 30
     }
     Overrides {
       Name: "cs:Max"
-      Int: 45
+      Int: 50
     }
     Overrides {
       Name: "cs:Likelihood"
@@ -1139,11 +1139,11 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
-      Int: 3
+      Int: 0
     }
     Overrides {
       Name: "cs:Max"
-      Int: 6
+      Int: 10
     }
     Overrides {
       Name: "cs:Likelihood"
@@ -1199,11 +1199,11 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
-      Int: 17
+      Int: 15
     }
     Overrides {
       Name: "cs:Max"
-      Int: 25
+      Int: 30
     }
     Overrides {
       Name: "cs:Likelihood"
@@ -1243,7 +1243,7 @@ Objects {
 }
 Objects {
   Id: 6063752388986616970
-  Name: "Basic Blade"
+  Name: "Rusty Sword"
   Transform {
     Location {
     }
@@ -1435,11 +1435,11 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
-      Int: 8
+      Int: 4
     }
     Overrides {
       Name: "cs:Max"
-      Int: 14
+      Int: 10
     }
     Overrides {
       Name: "cs:Likelihood"
@@ -1479,7 +1479,7 @@ Objects {
 }
 Objects {
   Id: 348026945344313914
-  Name: "Basic Dagger"
+  Name: "Rusty Dagger"
   Transform {
     Location {
     }
@@ -1671,11 +1671,11 @@ Objects {
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
-      Int: 5
+      Int: 1
     }
     Overrides {
       Name: "cs:Max"
-      Int: 10
+      Int: 8
     }
     Overrides {
       Name: "cs:Likelihood"

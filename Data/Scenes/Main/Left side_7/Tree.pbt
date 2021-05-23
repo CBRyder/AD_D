@@ -1,7 +1,7 @@
 Name: "Left side_7"
-RootId: 7243689509094510407
+RootId: 6069190622872898199
 Objects {
-  Id: 18406210018914413322
+  Id: 2564540056187520364
   Name: "Cylinder"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.0750289932
     }
   }
-  ParentId: 7243689509094510407
+  ParentId: 6069190622872898199
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -60,7 +60,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8783227420276659188
+  Id: 17227302564350524795
   Name: "Cylinder"
   Transform {
     Location {
@@ -77,7 +77,7 @@ Objects {
       Z: 0.0750289932
     }
   }
-  ParentId: 7243689509094510407
+  ParentId: 6069190622872898199
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -119,7 +119,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11049229119241346753
+  Id: 8279901972119469039
   Name: "Arch"
   Transform {
     Location {
@@ -138,7 +138,7 @@ Objects {
       Z: 0.0499997549
     }
   }
-  ParentId: 7243689509094510407
+  ParentId: 6069190622872898199
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

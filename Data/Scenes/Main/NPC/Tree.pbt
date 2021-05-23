@@ -132,10 +132,11 @@ Objects {
   Name: "Humanoid 2 Rig"
   Transform {
     Location {
-      X: 5
-      Y: 10
+      X: 203
+      Y: -579
     }
     Rotation {
+      Yaw: 36
     }
     Scale {
       X: 1
@@ -245,101 +246,13 @@ Objects {
   }
 }
 Objects {
-  Id: 1815599717132890109
-  Name: "Humanoid 2 Rig"
-  Transform {
-    Location {
-      X: 20
-      Y: -95
-      Z: 15
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 1413916443376582455
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:0:Shared_Detail1:color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:0:Shared_Detail2:color"
-      Color {
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:3:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 16187129339560596756
-      }
-    }
-    Overrides {
-      Name: "ma:3:Shared_BaseMaterial:smart"
-      Bool: true
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 3221654669710226491
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    AnimatedMesh {
-      AnimationStance: "unarmed_idle_relaxed"
-      AnimationStancePlaybackRate: 1
-      AnimationStanceShouldLoop: true
-      AnimationPlaybackRateMultiplier: 1
-      PlayOnStartAnimation {
-        PlaybackRate: 1
-      }
-      SkinnedMeshes {
-        Id: 2366727397500226361
-      }
-      SkinnedMeshes {
-        Id: 14299001924079497417
-      }
-      SkinnedMeshes {
-        Id: 6144129807424298596
-      }
-      SkinnedMeshes {
-        Id: 8382367383165310872
-      }
-    }
-  }
-}
-Objects {
   Id: 3233398254772925059
   Name: "Humanoid 1 Rig"
   Transform {
     Location {
       X: -30
       Y: 90
-      Z: 5
+      Z: -46.9998779
     }
     Rotation {
     }

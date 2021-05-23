@@ -1,7 +1,7 @@
 Name: "Medieval Chair_1"
-RootId: 9797920887996497608
+RootId: 7783575295010233054
 Objects {
-  Id: 8536192145654958920
+  Id: 16511950949416695345
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.0694172233
     }
   }
-  ParentId: 9797920887996497608
+  ParentId: 7783575295010233054
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -52,14 +52,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 8536192145654958920
-    SubobjectId: 3568580136485090529
+    SelfId: 5345162511359729551
+    SubobjectId: 999049002578075686
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 16169519546153830629
+  Id: 12011411317145452028
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -75,7 +75,7 @@ Objects {
       Z: 0.546403646
     }
   }
-  ParentId: 9797920887996497608
+  ParentId: 7783575295010233054
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -110,14 +110,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 16169519546153830629
-    SubobjectId: 12075607892958852940
+    SelfId: 3054744543416195243
+    SubobjectId: 7895972088012973826
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 1107418798692855062
+  Id: 10624652550152263681
   Name: "Top Cross"
   Transform {
     Location {
@@ -131,7 +131,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9797920887996497608
+  ParentId: 7783575295010233054
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -146,14 +146,14 @@ Objects {
     FilePartitionName: "Top Cross_1"
   }
   InstanceHistory {
-    SelfId: 1107418798692855062
-    SubobjectId: 5237359511201010367
+    SelfId: 7771366203500122455
+    SubobjectId: 3182339999900299006
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 5568029185471131909
+  Id: 8462677737948180003
   Name: "Leather"
   Transform {
     Location {
@@ -169,7 +169,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9797920887996497608
+  ParentId: 7783575295010233054
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -184,14 +184,14 @@ Objects {
     FilePartitionName: "Leather_1"
   }
   InstanceHistory {
-    SelfId: 5568029185471131909
-    SubobjectId: 771553931976806060
+    SelfId: 13700377078177029137
+    SubobjectId: 18001175098977838008
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 5514991803098999863
+  Id: 14029061426255734485
   Name: "Bottom Arch"
   Transform {
     Location {
@@ -204,7 +204,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9797920887996497608
+  ParentId: 7783575295010233054
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -219,14 +219,14 @@ Objects {
     FilePartitionName: "Bottom Arch_1"
   }
   InstanceHistory {
-    SelfId: 5514991803098999863
-    SubobjectId: 826884348008666014
+    SelfId: 13602714610315022503
+    SubobjectId: 18101671023343365902
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 15581339063975292424
+  Id: 1038157203405085532
   Name: "Legs"
   Transform {
     Location {
@@ -239,7 +239,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9797920887996497608
+  ParentId: 7783575295010233054
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -254,8 +254,8 @@ Objects {
     FilePartitionName: "Legs_1"
   }
   InstanceHistory {
-    SelfId: 15581339063975292424
-    SubobjectId: 11514728357512155553
+    SelfId: 4173468648040440786
+    SubobjectId: 9087035490559138939
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

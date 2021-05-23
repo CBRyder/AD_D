@@ -1,7 +1,7 @@
 Name: "Top carves"
-RootId: 10950011318100867688
+RootId: 14878957374263966036
 Objects {
-  Id: 664256805388606653
+  Id: 18211720910437082815
   Name: "Right Lower leg"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10950011318100867688
+  ParentId: 14878957374263966036
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -31,14 +31,14 @@ Objects {
     FilePartitionName: "Right Lower leg"
   }
   InstanceHistory {
-    SelfId: 664256805388606653
-    SubobjectId: 5676623735924843284
+    SelfId: 3155946451217147448
+    SubobjectId: 7799299618230557073
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 17252685815841768987
+  Id: 7318743607100231077
   Name: "Left Lower leg"
   Transform {
     Location {
@@ -52,7 +52,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10950011318100867688
+  ParentId: 14878957374263966036
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -67,8 +67,8 @@ Objects {
     FilePartitionName: "Left Lower leg"
   }
   InstanceHistory {
-    SelfId: 17252685815841768987
-    SubobjectId: 12149967884719782322
+    SelfId: 2318155542301536456
+    SubobjectId: 7483644555493330785
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

@@ -1,7 +1,7 @@
 Name: "Medieval Table"
-RootId: 12456645768511433146
+RootId: 12681676633733218594
 Objects {
-  Id: 14970989741739049075
+  Id: 2405530746288150861
   Name: "Buttom"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12456645768511433146
+  ParentId: 12681676633733218594
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -32,14 +32,14 @@ Objects {
     FilePartitionName: "Buttom"
   }
   InstanceHistory {
-    SelfId: 14970989741739049075
-    SubobjectId: 9814226375883931610
+    SelfId: 1688481982270035165
+    SubobjectId: 5809133719596919668
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 1730292413749258095
+  Id: 6268541451344220194
   Name: "Top"
   Transform {
     Location {
@@ -53,7 +53,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12456645768511433146
+  ParentId: 12681676633733218594
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -68,8 +68,8 @@ Objects {
     FilePartitionName: "Top_1"
   }
   InstanceHistory {
-    SelfId: 1730292413749258095
-    SubobjectId: 6914075418074601670
+    SelfId: 2817089343452388877
+    SubobjectId: 6983058720927228324
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

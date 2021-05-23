@@ -1,7 +1,7 @@
 Name: "Left Lower leg_3"
-RootId: 4188396361696517761
+RootId: 11100827122652771370
 Objects {
-  Id: 17737494713911958783
+  Id: 8416604751982240249
   Name: "Wedge - Concave"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.0421367958
     }
   }
-  ParentId: 4188396361696517761
+  ParentId: 11100827122652771370
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -45,14 +45,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 17737494713911958783
-    SubobjectId: 12815199768776827734
+    SelfId: 1155663718254004775
+    SubobjectId: 6339167472697832846
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 1176038090867848327
+  Id: 15592217130151738153
   Name: "Wedge Convex - Large"
   Transform {
     Location {
@@ -67,7 +67,7 @@ Objects {
       Z: 0.01986
     }
   }
-  ParentId: 4188396361696517761
+  ParentId: 11100827122652771370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -102,14 +102,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 1176038090867848327
-    SubobjectId: 6314787009995639598
+    SelfId: 12700749047677964709
+    SubobjectId: 17848502863973772812
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 17526165296561045633
+  Id: 3236199785840958362
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -125,7 +125,7 @@ Objects {
       Z: 0.156424031
     }
   }
-  ParentId: 4188396361696517761
+  ParentId: 11100827122652771370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -160,8 +160,8 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 17526165296561045633
-    SubobjectId: 13027210885356584744
+    SelfId: 132883695026015658
+    SubobjectId: 5055457954551869955
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

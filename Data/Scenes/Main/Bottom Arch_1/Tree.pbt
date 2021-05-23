@@ -1,7 +1,7 @@
 Name: "Bottom Arch_1"
-RootId: 5514991803098999863
+RootId: 14029061426255734485
 Objects {
-  Id: 13502839127811625448
+  Id: 14738950032674475551
   Name: "Back side"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5514991803098999863
+  ParentId: 14029061426255734485
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -32,14 +32,14 @@ Objects {
     FilePartitionName: "Back side_1"
   }
   InstanceHistory {
-    SelfId: 13502839127811625448
-    SubobjectId: 18199953848225640001
+    SelfId: 6879914303028485797
+    SubobjectId: 1768468412686622988
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 15219978837947766397
+  Id: 1500919104716098594
   Name: "Front side"
   Transform {
     Location {
@@ -55,7 +55,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5514991803098999863
+  ParentId: 14029061426255734485
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -70,14 +70,14 @@ Objects {
     FilePartitionName: "Front side_1"
   }
   InstanceHistory {
-    SelfId: 15219978837947766397
-    SubobjectId: 10721024661339892180
+    SelfId: 6157524000536979901
+    SubobjectId: 1334026780163036692
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 9832834444756908893
+  Id: 8371787557640961471
   Name: "Left side"
   Transform {
     Location {
@@ -92,7 +92,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5514991803098999863
+  ParentId: 14029061426255734485
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -107,14 +107,14 @@ Objects {
     FilePartitionName: "Left side_1"
   }
   InstanceHistory {
-    SelfId: 9832834444756908893
-    SubobjectId: 14953569145428296948
+    SelfId: 9741956367911606944
+    SubobjectId: 13889911102012318985
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 9286531304019280412
+  Id: 5351130524168012936
   Name: "Right side"
   Transform {
     Location {
@@ -129,7 +129,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5514991803098999863
+  ParentId: 14029061426255734485
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -144,8 +144,8 @@ Objects {
     FilePartitionName: "Right side_1"
   }
   InstanceHistory {
-    SelfId: 9286531304019280412
-    SubobjectId: 14344213549362347445
+    SelfId: 14853762297081451501
+    SubobjectId: 9931469765600767044
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

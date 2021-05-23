@@ -1,7 +1,7 @@
 Name: "Top carves_3"
-RootId: 1616718294526441112
+RootId: 4777548101455441463
 Objects {
-  Id: 16459527327092498334
+  Id: 3803061873160924804
   Name: "Right Lower leg"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1616718294526441112
+  ParentId: 4777548101455441463
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -38,7 +38,7 @@ Objects {
   }
 }
 Objects {
-  Id: 243008290586890001
+  Id: 9445926706034976
   Name: "Left Lower leg"
   Transform {
     Location {
@@ -52,7 +52,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1616718294526441112
+  ParentId: 4777548101455441463
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

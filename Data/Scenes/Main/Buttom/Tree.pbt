@@ -1,7 +1,7 @@
 Name: "Buttom"
-RootId: 14970989741739049075
+RootId: 2405530746288150861
 Objects {
-  Id: 752538926622485629
+  Id: 14769899094908897215
   Name: "Buttom Curves"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14970989741739049075
+  ParentId: 2405530746288150861
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -32,14 +32,14 @@ Objects {
     FilePartitionName: "Buttom Curves"
   }
   InstanceHistory {
-    SelfId: 752538926622485629
-    SubobjectId: 5584761604701393876
+    SelfId: 17452274670780442885
+    SubobjectId: 13097152048193951404
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 514618016948294122
+  Id: 12986394680916068791
   Name: "Buttom Curves"
   Transform {
     Location {
@@ -56,7 +56,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14970989741739049075
+  ParentId: 2405530746288150861
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -71,14 +71,14 @@ Objects {
     FilePartitionName: "Buttom Curves_1"
   }
   InstanceHistory {
-    SelfId: 514618016948294122
-    SubobjectId: 4671582333725519427
+    SelfId: 7138704970164538673
+    SubobjectId: 2657483752991765144
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 11462925307564504293
+  Id: 4902942713679692273
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -94,7 +94,7 @@ Objects {
       Z: 0.0830723643
     }
   }
-  ParentId: 14970989741739049075
+  ParentId: 2405530746288150861
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -129,14 +129,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 11462925307564504293
-    SubobjectId: 15628894681314397004
+    SelfId: 3221870517711771406
+    SubobjectId: 7730115501892348071
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 458691749713453670
+  Id: 4344339566982231332
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -152,7 +152,7 @@ Objects {
       Z: 0.91991508
     }
   }
-  ParentId: 14970989741739049075
+  ParentId: 2405530746288150861
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -187,14 +187,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 458691749713453670
-    SubobjectId: 4732465768323194319
+    SelfId: 14570205640213333848
+    SubobjectId: 10215085246211438833
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 4663471495504972009
+  Id: 13192376731344011118
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -210,7 +210,7 @@ Objects {
       Z: 0.155433655
     }
   }
-  ParentId: 14970989741739049075
+  ParentId: 2405530746288150861
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -245,14 +245,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 4663471495504972009
-    SubobjectId: 524523810048767808
+    SelfId: 115115397614758539
+    SubobjectId: 5073439007447864610
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 17161759555718165301
+  Id: 7580549108328114158
   Name: "RIght Buttom"
   Transform {
     Location {
@@ -267,7 +267,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14970989741739049075
+  ParentId: 2405530746288150861
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -282,14 +282,14 @@ Objects {
     FilePartitionName: "RIght Buttom"
   }
   InstanceHistory {
-    SelfId: 17161759555718165301
-    SubobjectId: 12239183302739889308
+    SelfId: 9893379941384993777
+    SubobjectId: 14897020940359631960
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 1740078650352390966
+  Id: 4124365817613431859
   Name: "Left Buttom"
   Transform {
     Location {
@@ -304,7 +304,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14970989741739049075
+  ParentId: 2405530746288150861
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -319,8 +319,8 @@ Objects {
     FilePartitionName: "Left Buttom_1"
   }
   InstanceHistory {
-    SelfId: 1740078650352390966
-    SubobjectId: 6905849386202688671
+    SelfId: 4885617898367555415
+    SubobjectId: 305596794420996350
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

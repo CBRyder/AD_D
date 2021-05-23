@@ -1,2 +1,0 @@
-Name: "MinedGeo_2"
-RootId: 17290918489425149597

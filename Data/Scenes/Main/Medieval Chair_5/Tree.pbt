@@ -1,7 +1,7 @@
 Name: "Medieval Chair_5"
-RootId: 14651793472827272711
+RootId: 5732675196845447626
 Objects {
-  Id: 5345162511359729551
+  Id: 5303039793092226987
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.0694172233
     }
   }
-  ParentId: 14651793472827272711
+  ParentId: 5732675196845447626
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -59,7 +59,7 @@ Objects {
   }
 }
 Objects {
-  Id: 3054744543416195243
+  Id: 15976969879008564207
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -75,7 +75,7 @@ Objects {
       Z: 0.546403646
     }
   }
-  ParentId: 14651793472827272711
+  ParentId: 5732675196845447626
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -117,7 +117,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7771366203500122455
+  Id: 9410551483480333567
   Name: "Top Cross"
   Transform {
     Location {
@@ -131,7 +131,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14651793472827272711
+  ParentId: 5732675196845447626
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -153,7 +153,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13700377078177029137
+  Id: 1474299753085599646
   Name: "Leather"
   Transform {
     Location {
@@ -169,7 +169,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14651793472827272711
+  ParentId: 5732675196845447626
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -191,7 +191,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13602714610315022503
+  Id: 7367227133019306634
   Name: "Bottom Arch"
   Transform {
     Location {
@@ -204,7 +204,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14651793472827272711
+  ParentId: 5732675196845447626
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -226,7 +226,7 @@ Objects {
   }
 }
 Objects {
-  Id: 4173468648040440786
+  Id: 2203101174912597342
   Name: "Legs"
   Transform {
     Location {
@@ -239,7 +239,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14651793472827272711
+  ParentId: 5732675196845447626
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

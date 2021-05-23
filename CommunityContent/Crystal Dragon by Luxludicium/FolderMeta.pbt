@@ -1,0 +1,107 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "74d3a0c715504773b3800d5f10466e29"
+  OwnerAccountId: "ae760112444d4911920145e902e5ec74"
+  OwnerName: "DreadwoodGames"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 162151367198570398
+  value: 7681546094949539885
+}
+AssetIdsOriginalToNew {
+  key: 751166268809164600
+  value: 1653566852036661454
+}
+AssetIdsOriginalToNew {
+  key: 774159141582510303
+  value: 11878756945990582196
+}
+AssetIdsOriginalToNew {
+  key: 991656350626600451
+  value: 7037388289413205855
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 13753076147574977510
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 13461684675364086322
+}
+AssetIdsOriginalToNew {
+  key: 2038077216541919415
+  value: 17595762649243927674
+}
+AssetIdsOriginalToNew {
+  key: 2414969148474538263
+  value: 5788473900064436514
+}
+AssetIdsOriginalToNew {
+  key: 4650651136767163825
+  value: 14962856802806883352
+}
+AssetIdsOriginalToNew {
+  key: 5927220524009298293
+  value: 811008276838374426
+}
+AssetIdsOriginalToNew {
+  key: 7505859660345592888
+  value: 16936960523363311502
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 505158747437454490
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 14232929502387210191
+}
+AssetIdsOriginalToNew {
+  key: 11271269196469755384
+  value: 15905098995957505585
+}
+AssetIdsOriginalToNew {
+  key: 12615279591363660836
+  value: 3815861001312839051
+}
+AssetIdsOriginalToNew {
+  key: 13601141109603760738
+  value: 9841490638548026558
+}
+AssetIdsOriginalToNew {
+  key: 13645484765276120961
+  value: 12097162714265176138
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 1363790232605166043
+}
+AssetIdsOriginalToNew {
+  key: 15636749404113921442
+  value: 14346088000251067663
+}
+AssetIdsOriginalToNew {
+  key: 16644080627649549755
+  value: 7968504948630718229
+}
+AssetIdsOriginalToNew {
+  key: 16939716360229028410
+  value: 17108527638217846669
+}
+AssetIdsOriginalToNew {
+  key: 17367449922255341506
+  value: 16214632644332053543
+}
+AssetIdsOriginalToNew {
+  key: 17371980235452026733
+  value: 14769112101734542122
+}
+AssetIdsOriginalToNew {
+  key: 17571324147636770434
+  value: 14282119277284642148
+}
+AssetIdsOriginalToNew {
+  key: 17876034834621974685
+  value: 10144334384985222389
+}

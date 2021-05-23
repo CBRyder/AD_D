@@ -96,10 +96,10 @@ Module.titles = {
 		extraWidth = 4,
 		extraHeight = 4,
 		playerMUIDs = {
-			"1fbcc8954dfd48659225491a61f91f80" --CBRiyder
-			"479f5405502c47d799960c7aa4734b6a" --ColeTheMole.io
-			"bb99f32a7b40415fac4a1703aecd07a5" --DragonDiceGaming
-			"723ebf8d55364a1cbb1efe56e998677f" --M3rtman
+			"1fbcc8954dfd48659225491a61f91f80", --CBRiyder
+			"479f5405502c47d799960c7aa4734b6a", --ColeTheMole.io
+			"bb99f32a7b40415fac4a1703aecd07a5", --DragonDiceGaming
+			"723ebf8d55364a1cbb1efe56e998677f", --M3rtman
 			-- INSERT MUID HERE, SEE 1. ABOVE
 		},
 	},

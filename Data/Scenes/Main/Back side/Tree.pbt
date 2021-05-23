@@ -1,7 +1,7 @@
 Name: "Back side"
-RootId: 4135822524614094798
+RootId: 12262569955973195741
 Objects {
-  Id: 6281755280697715660
+  Id: 8356430785331938223
   Name: "Cylinder"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.0750289932
     }
   }
-  ParentId: 4135822524614094798
+  ParentId: 12262569955973195741
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -55,14 +55,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 6281755280697715660
-    SubobjectId: 1215345285075620965
+    SelfId: 8431241398845361540
+    SubobjectId: 3670794731429163565
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 6918466458103416093
+  Id: 6238533178002397127
   Name: "Cylinder"
   Transform {
     Location {
@@ -81,7 +81,7 @@ Objects {
       Z: 0.0750289932
     }
   }
-  ParentId: 4135822524614094798
+  ParentId: 12262569955973195741
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -116,14 +116,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 6918466458103416093
-    SubobjectId: 2878879518078974644
+    SelfId: 10978304857380725286
+    SubobjectId: 16116772451871137167
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 423293406825944789
+  Id: 2373111492474855205
   Name: "Arch"
   Transform {
     Location {
@@ -142,7 +142,7 @@ Objects {
       Z: 0.050000228
     }
   }
-  ParentId: 4135822524614094798
+  ParentId: 12262569955973195741
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -177,8 +177,8 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 423293406825944789
-    SubobjectId: 4769125234004142460
+    SelfId: 1756444322293522944
+    SubobjectId: 6886186296055012777
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }

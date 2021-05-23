@@ -1,7 +1,7 @@
 Name: "Leather_1"
-RootId: 5568029185471131909
+RootId: 8462677737948180003
 Objects {
-  Id: 3202481699021910511
+  Id: 765145514173052847
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.530326
     }
   }
-  ParentId: 5568029185471131909
+  ParentId: 8462677737948180003
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -56,14 +56,14 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 3202481699021910511
-    SubobjectId: 7746474066682891846
+    SelfId: 15486335274840842046
+    SubobjectId: 10455672630336184471
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
 }
 Objects {
-  Id: 12349918242565720170
+  Id: 16587196424901780936
   Name: "Cube - Bottom-Aligned"
   Transform {
     Location {
@@ -79,7 +79,7 @@ Objects {
       Z: 0.0318535119
     }
   }
-  ParentId: 5568029185471131909
+  ParentId: 8462677737948180003
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -118,8 +118,8 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 12349918242565720170
-    SubobjectId: 17047030624872052675
+    SelfId: 12152760722098582549
+    SubobjectId: 17246471278945782716
     InstanceId: 13513965103144272189
     TemplateId: 9587311956131380779
   }
