@@ -8,15 +8,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14299001924079497417
-  Name: "Humanoid 2 Peasant Shirt"
-  PlatformAssetType: 26
-  PrimaryAsset {
-    AssetType: "SkinnedMeshAssetRef"
-    AssetId: "npc_human_guy_upper_fantasy_000_ref_temp"
-  }
-}
-Assets {
   Id: 11591328871175683934
   Name: "Humanoid 1 Peasant Pants"
   PlatformAssetType: 26
@@ -32,15 +23,6 @@ Assets {
   PrimaryAsset {
     AssetType: "SkinnedMeshAssetRef"
     AssetId: "npc_human_gal_head_basic_008_ref"
-  }
-}
-Assets {
-  Id: 6144129807424298596
-  Name: "Humanoid 2 Peasant Pants"
-  PlatformAssetType: 26
-  PrimaryAsset {
-    AssetType: "SkinnedMeshAssetRef"
-    AssetId: "npc_human_guy_lower_fantasy_000_ref"
   }
 }
 Assets {

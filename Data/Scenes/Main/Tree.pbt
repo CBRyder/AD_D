@@ -19,11 +19,8 @@ Objects {
   ChildIds: 4609731691398216693
   ChildIds: 13462680805344793706
   ChildIds: 11876389117872336258
-  ChildIds: 140809781045263113
   ChildIds: 13819972639892425532
-  ChildIds: 13124090468971234193
-  ChildIds: 3983274340095485110
-  ChildIds: 16937857428989740137
+  ChildIds: 1574758978159420411
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -39,8 +36,8 @@ Objects {
   }
 }
 Objects {
-  Id: 16937857428989740137
-  Name: "Fexel\'s Magnificent Tavern"
+  Id: 1574758978159420411
+  Name: "GamerTitan Toggle UI Tutorial"
   Transform {
     Scale {
       X: 1
@@ -57,119 +54,27 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 2039194516275807009
+      key: 8292921659242584521
       value {
         Overrides {
-          Name: "Name"
-          String: "Fexel\'s Magnificent Tavern"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 5512
-            Y: -13676
-            Z: 1829
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -66
+          Name: "cs:ParentPanel"
+          ObjectReference {
+            SelfId: 6933708403022024021
           }
         }
       }
     }
-    TemplateAsset {
-      Id: 11812682715914979869
-    }
-  }
-}
-Objects {
-  Id: 3983274340095485110
-  Name: "Blacksmith Dialouge"
-  Transform {
-    Location {
-      X: -24449
-      Y: -15714
-      Z: 1820
-    }
-    Rotation {
-      Yaw: 163
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Blacksmith Dialouge"
-  }
-  InstanceHistory {
-    SelfId: 3983274340095485110
-    SubobjectId: 14859362854836943051
-    InstanceId: 12925714101655593249
-    TemplateId: 942893291683102714
-    WasRoot: true
-  }
-}
-Objects {
-  Id: 13124090468971234193
-  Name: "PlayerNameplates (PlayerTitles)"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
     ParameterOverrideMap {
-      key: 5332119631449535659
+      key: 16571302801970376218
       value {
         Overrides {
           Name: "Name"
-          String: "PlayerNameplates (PlayerTitles)"
-        }
-        Overrides {
-          Name: "cs:FriendlyHealthColor"
-          Color {
-            R: 0.0794700682
-            G: 0.6
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "cs:NeutralHealthColor"
-          Color {
-            R: 1
-            G: 1
-            B: 1
-            A: 1
-          }
+          String: "GamerTitan Toggle UI Tutorial"
         }
       }
     }
     TemplateAsset {
-      Id: 2210881581489882578
+      Id: 8770823276856094063
     }
   }
 }
@@ -202,14 +107,15 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -24428
-            Y: -17481
+            X: -24439
+            Y: -17493
             Z: 1905.00098
           }
         }
         Overrides {
           Name: "Rotation"
           Rotator {
+            Yaw: -19
           }
         }
         Overrides {
@@ -224,198 +130,6 @@ Objects {
     }
     TemplateAsset {
       Id: 16489684002796806589
-    }
-  }
-}
-Objects {
-  Id: 140809781045263113
-  Name: "Anvil"
-  Transform {
-    Location {
-      X: 4056
-      Y: -16846
-      Z: 2009
-    }
-    Rotation {
-      Yaw: 90
-    }
-    Scale {
-      X: 2.25
-      Y: 2.25
-      Z: 2.25
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 16374716549255327287
-  ChildIds: 14644760775955541908
-  ChildIds: 9860307660604031209
-  ChildIds: 7123489274700753241
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 140809781045263113
-    SubobjectId: 17547206796125997689
-    InstanceId: 6877965785842610723
-    TemplateId: 8879211831487355462
-    WasRoot: true
-  }
-}
-Objects {
-  Id: 7123489274700753241
-  Name: "Bottom"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 140809781045263113
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Bottom"
-  }
-  InstanceHistory {
-    SelfId: 7123489274700753241
-    SubobjectId: 10424643344392296489
-    InstanceId: 6877965785842610723
-    TemplateId: 8879211831487355462
-  }
-}
-Objects {
-  Id: 9860307660604031209
-  Name: "Top"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 140809781045263113
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Top"
-  }
-  InstanceHistory {
-    SelfId: 9860307660604031209
-    SubobjectId: 8837940092794220953
-    InstanceId: 6877965785842610723
-    TemplateId: 8879211831487355462
-  }
-}
-Objects {
-  Id: 14644760775955541908
-  Name: "Middle"
-  Transform {
-    Location {
-      X: -0.126983643
-      Y: 0.0300292969
-      Z: 0.00550842285
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.2
-      Y: 0.4
-      Z: 0.2
-    }
-  }
-  ParentId: 140809781045263113
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Middle_1"
-  }
-  InstanceHistory {
-    SelfId: 14644760775955541908
-    SubobjectId: 4128910763908931300
-    InstanceId: 6877965785842610723
-    TemplateId: 8879211831487355462
-  }
-}
-Objects {
-  Id: 16374716549255327287
-  Name: "Trigger"
-  Transform {
-    Location {
-      X: -8.88888931
-      Y: 5.33333254
-      Z: -3.11111116
-    }
-    Rotation {
-      Yaw: -89.9999924
-    }
-    Scale {
-      X: 1.11111116
-      Y: 0.444444448
-      Z: 0.666666687
-    }
-  }
-  ParentId: 140809781045263113
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
     }
   }
 }

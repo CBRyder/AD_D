@@ -17,15 +17,6 @@ Assets {
   }
 }
 Assets {
-  Id: 16187129339560596756
-  Name: "Wood Raw White"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_wood_raw_white_001_uv"
-  }
-}
-Assets {
   Id: 15431234632665265779
   Name: "UI Pop Single 02 SFX"
   PlatformAssetType: 7
@@ -68,15 +59,6 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "UI_Basic_Shape_001"
-  }
-}
-Assets {
-  Id: 8382367383165310872
-  Name: "Humanoid 2 Drahkzen Hair"
-  PlatformAssetType: 26
-  PrimaryAsset {
-    AssetType: "SkinnedMeshAssetRef"
-    AssetId: "npc_human_guy_hair_fantasy_004_ref"
   }
 }
 Assets {

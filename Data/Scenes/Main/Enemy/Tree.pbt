@@ -18,7 +18,6 @@ Objects {
     }
   }
   ParentId: 9911861251438641304
-  ChildIds: 18252234923760529090
   ChildIds: 16139287119613878967
   ChildIds: 17298780746561451202
   ChildIds: 16817202621545581562
@@ -16046,60 +16045,6 @@ Objects {
     SubobjectId: 7346622351100135660
     InstanceId: 11302815000756631098
     TemplateId: 13409534523439845929
-  }
-}
-Objects {
-  Id: 18252234923760529090
-  Name: "NPCHealthBar"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10528695264258508653
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 14705474953321211921
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPCHealthBar"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 16012
-            Y: 8116
-            Z: -1456
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.8
-            Y: 0.8
-            Z: 0.8
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 12301283292669245366
-    }
   }
 }
 Objects {
