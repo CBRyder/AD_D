@@ -1,6 +1,41 @@
 Name: "Human\'s Town"
 RootId: 5776508778438937419
 Objects {
+  Id: 13123145023125912613
+  Name: "Human Town Wall"
+  Transform {
+    Location {
+      X: 9045
+      Y: 7847
+      Z: -1500
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5776508778438937419
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Human Town Wall"
+  }
+}
+Objects {
   Id: 16937857428989740137
   Name: "Fexel\'s Magnificent Tavern"
   Transform {
@@ -21976,7 +22011,7 @@ Objects {
     Location {
       X: -669.167969
       Y: 1565.22656
-      Z: 160
+      Z: 23
     }
     Rotation {
       Yaw: -78.1164856
@@ -22113,12 +22148,6 @@ Objects {
     }
   }
   ParentId: 8625859458758801371
-  ChildIds: 2987863905945340712
-  ChildIds: 2838482806754556321
-  ChildIds: 17624189635144590464
-  ChildIds: 18146517994818834510
-  ChildIds: 3719363384655718066
-  ChildIds: 14430422953520776223
   ChildIds: 9927080702314132238
   ChildIds: 17980489639617241619
   ChildIds: 9835215237402535054
@@ -23032,347 +23061,6 @@ Objects {
   InstanceHistory {
     SelfId: 9927080702314132238
     SubobjectId: 17199715720301927008
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 14430422953520776223
-  Name: "Decal Stains Round 01"
-  Transform {
-    Location {
-      X: 303.212402
-      Y: 547.735352
-      Z: 108.473969
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.507501125
-      Y: 0.112625673
-      Z: 0.143594921
-    }
-  }
-  ParentId: 10058787721726771793
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4742847245962031676
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  InstanceHistory {
-    SelfId: 14430422953520776223
-    SubobjectId: 12625437090266623345
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 3719363384655718066
-  Name: "Decal Stains Round 01"
-  Transform {
-    Location {
-      X: 138.379883
-      Y: 547.735352
-      Z: 108.473969
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.143594921
-      Y: 0.112625673
-      Z: 0.143594921
-    }
-  }
-  ParentId: 10058787721726771793
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4742847245962031676
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  InstanceHistory {
-    SelfId: 3719363384655718066
-    SubobjectId: 6118259212563927004
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 18146517994818834510
-  Name: "Decal Stains Round 01"
-  Transform {
-    Location {
-      X: 36.284668
-      Y: 547.735352
-      Z: 108.473969
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.143594921
-      Y: 0.143594921
-      Z: 0.143594921
-    }
-  }
-  ParentId: 10058787721726771793
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4742847245962031676
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  InstanceHistory {
-    SelfId: 18146517994818834510
-    SubobjectId: 11286259142558546208
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 17624189635144590464
-  Name: "Decal Stains Round 01"
-  Transform {
-    Location {
-      X: -127.7854
-      Y: 279.105347
-      Z: 14.3695068
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.347314745
-      Y: 0.347314745
-      Z: 0.0260308
-    }
-  }
-  ParentId: 10058787721726771793
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4742847245962031676
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  InstanceHistory {
-    SelfId: 17624189635144590464
-    SubobjectId: 10655527734760426990
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 2838482806754556321
-  Name: "Decal Stains Round 01"
-  Transform {
-    Location {
-      X: -451.957031
-      Y: 321.1698
-      Z: 14.3695068
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.4920156
-      Y: 0.4920156
-      Z: 0.0368759446
-    }
-  }
-  ParentId: 10058787721726771793
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4742847245962031676
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  InstanceHistory {
-    SelfId: 2838482806754556321
-    SubobjectId: 4616726242844299471
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:medium"
-  }
-}
-Objects {
-  Id: 2987863905945340712
-  Name: "Decal Stains Round 01"
-  Transform {
-    Location {
-      X: 123.664063
-      Y: 317.136719
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.647043109
-      Y: 0.647043109
-      Z: 0.135013089
-    }
-  }
-  ParentId: 10058787721726771793
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 4742847245962031676
-    }
-    TeamSettings {
-    }
-    DecalBP {
-    }
-  }
-  InstanceHistory {
-    SelfId: 2987863905945340712
-    SubobjectId: 5621265807218090566
     InstanceId: 6079271732411480348
     TemplateId: 10616661052018824086
   }
@@ -46458,7 +46146,6 @@ Objects {
   ParentId: 5995263704104562635
   ChildIds: 11567634182348528565
   ChildIds: 4736684995766742319
-  ChildIds: 15034316201577701936
   ChildIds: 4072104288928441638
   ChildIds: 4752465632123595654
   ChildIds: 9983734034371717548
@@ -59083,406 +58770,6 @@ Objects {
   }
 }
 Objects {
-  Id: 15034316201577701936
-  Name: "Doors"
-  Transform {
-    Location {
-      X: 8.89331055
-      Y: 1177.95349
-      Z: 27.8685493
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10437029566141553051
-  ChildIds: 12497572627402287935
-  ChildIds: 8945857493115252987
-  ChildIds: 12675477317531028810
-  ChildIds: 10236766487318642148
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 15034316201577701936
-    SubobjectId: 13245411900745681758
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-}
-Objects {
-  Id: 10236766487318642148
-  Name: "Fantasy Castle Door 02"
-  Transform {
-    Location {
-      X: -380.524658
-      Y: -2568.00146
-    }
-    Rotation {
-      Yaw: -0.0955810547
-    }
-    Scale {
-      X: 1.9479686
-      Y: 1.00000167
-      Z: 1.66252637
-    }
-  }
-  ParentId: 15034316201577701936
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 8221347909026897831
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.614
-        G: 0.614
-        B: 0.614
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 8221347909026897831
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.614
-        G: 0.614
-        B: 0.614
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.439657241
-        G: 0.270497859
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11761871474221141479
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 10236766487318642148
-    SubobjectId: 16818118856787481738
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-}
-Objects {
-  Id: 12675477317531028810
-  Name: "Fantasy Castle Door 02"
-  Transform {
-    Location {
-      X: 322.451416
-      Y: -2568.00146
-    }
-    Rotation {
-    }
-    Scale {
-      X: -1.95644271
-      Y: 1
-      Z: 1.66252637
-    }
-  }
-  ParentId: 15034316201577701936
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 8221347909026897831
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.614
-        G: 0.614
-        B: 0.614
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 8221347909026897831
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.614
-        G: 0.614
-        B: 0.614
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.439657241
-        G: 0.270497859
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11761871474221141479
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 12675477317531028810
-    SubobjectId: 14455972518527804452
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-}
-Objects {
-  Id: 8945857493115252987
-  Name: "Fantasy Castle Door 02"
-  Transform {
-    Location {
-      X: 294.925293
-      Y: 7.27514648
-      Z: 1.64263916
-    }
-    Rotation {
-    }
-    Scale {
-      X: -1.63439679
-      Y: 1
-      Z: 1.66252637
-    }
-  }
-  ParentId: 15034316201577701936
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 8221347909026897831
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.614
-        G: 0.614
-        B: 0.614
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 8221347909026897831
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.614
-        G: 0.614
-        B: 0.614
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.439657241
-        G: 0.270497859
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11761871474221141479
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 8945857493115252987
-    SubobjectId: 1969103152791378325
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-}
-Objects {
-  Id: 12497572627402287935
-  Name: "Fantasy Castle Door 02"
-  Transform {
-    Location {
-      X: -293.765381
-      Y: 7.27514648
-      Z: 1.64263916
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1.63058043
-      Y: 1.00000203
-      Z: 1.66252637
-    }
-  }
-  ParentId: 15034316201577701936
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_Detail1:id"
-      AssetReference {
-        Id: 8221347909026897831
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail1:color"
-      Color {
-        R: 0.614
-        G: 0.614
-        B: 0.614
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:id"
-      AssetReference {
-        Id: 8221347909026897831
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_Detail2:color"
-      Color {
-        R: 0.614
-        G: 0.614
-        B: 0.614
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:color"
-      Color {
-        R: 0.439657241
-        G: 0.270497859
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 11761871474221141479
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 12497572627402287935
-    SubobjectId: 14557310796639535697
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
-}
-Objects {
   Id: 4736684995766742319
   Name: "Roof"
   Transform {
@@ -67338,7 +66625,7 @@ Objects {
     Location {
       X: -1104.45313
       Y: -99.6875
-      Z: 210
+      Z: 49
     }
     Rotation {
       Yaw: -65.8871155
@@ -86231,9 +85518,9 @@ Objects {
   Name: "Medieval-Home01"
   Transform {
     Location {
-      X: -492.509277
-      Y: -1164.62134
-      Z: 88.3392944
+      X: -492.509766
+      Y: -1164.62109
+      Z: 93
     }
     Rotation {
       Yaw: -39.7849426

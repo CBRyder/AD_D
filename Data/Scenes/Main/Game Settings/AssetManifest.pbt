@@ -1,10 +1,10 @@
 Assets {
-  Id: 17920990576702056904
-  Name: "Icon Chest"
+  Id: 14389042040364033147
+  Name: "Sword"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
-    AssetId: "Icon_Chest"
+    AssetId: "UI_Fantasy_icon_Sword"
   }
 }
 Assets {
@@ -53,11 +53,20 @@ Assets {
   }
 }
 Assets {
-  Id: 1726011146984449435
-  Name: "Crosshair 001"
+  Id: 5087920810925155500
+  Name: "Alert Triangle"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
-    AssetId: "Crosshair_001"
+    AssetId: "UI_Scifi_Icon_029"
+  }
+}
+Assets {
+  Id: 2102099864348384110
+  Name: "Barrel"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Fantasy_Icon_Barrel"
   }
 }

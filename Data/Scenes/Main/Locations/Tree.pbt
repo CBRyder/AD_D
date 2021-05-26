@@ -1,6 +1,125 @@
 Name: "Locations"
 RootId: 7280092074026533836
 Objects {
+  Id: 1193118944767188984
+  Name: "Named Location"
+  Transform {
+    Location {
+      X: 6370
+      Y: -15056
+      Z: 1820
+    }
+    Rotation {
+      Yaw: 24.9999142
+    }
+    Scale {
+      X: 1.75
+      Y: 1.75
+      Z: 1.75
+    }
+  }
+  ParentId: 7280092074026533836
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6914351225150253899
+      value {
+        Overrides {
+          Name: "Collidable"
+          Enum {
+            Value: "mc:ecollisionsetting:forceon"
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 837.499695
+            Y: 584.499817
+            Z: 16.7499943
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -9965.24609
+            Y: 10182.8184
+            Z: 889.999939
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -77
+          }
+        }
+        Overrides {
+          Name: "CoreProxy.IndicatorVisibility"
+          Enum {
+            Value: "mc:eindicatorvisibility:alwaysvisible"
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12084009895330886478
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Orc Town Location"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -53838
+            Y: 64067
+            Z: -1420
+          }
+        }
+        Overrides {
+          Name: "cs:Name"
+          String: "Orc Town"
+        }
+        Overrides {
+          Name: "cs:BackgroundColor"
+          Color {
+            A: 0.5
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -61
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.75
+            Y: 1.75
+            Z: 1.75
+          }
+        }
+        Overrides {
+          Name: "cs:TextColor"
+          Color {
+            R: 0.98
+            G: 4.67300424e-07
+            A: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5821941171976085942
+    }
+  }
+}
+Objects {
   Id: 16622069589781787147
   Name: "Named Location"
   Transform {
@@ -38,17 +157,17 @@ Objects {
         Overrides {
           Name: "Scale"
           Vector {
-            X: 87.9999771
-            Y: 173.999954
-            Z: 16.7499943
+            X: 538.249817
+            Y: 494.999634
+            Z: 155.249924
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 5843.26807
-            Y: 1301.62744
-            Z: 889.999939
+            X: 23079.0391
+            Y: -18127.5176
+            Z: 7775.99463
           }
         }
         Overrides {
@@ -77,7 +196,7 @@ Objects {
           Vector {
             X: 19930
             Y: 9804
-            Z: -1420
+            Z: -1562
           }
         }
         Overrides {
@@ -316,8 +435,8 @@ Objects {
         Overrides {
           Name: "cs:TextColor"
           Color {
-            R: 0.809999943
-            G: 3.86238071e-07
+            R: 0.0125828506
+            B: 0.950000048
             A: 1
           }
         }
