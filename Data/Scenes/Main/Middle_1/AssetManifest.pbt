@@ -16,12 +16,3 @@ Assets {
     AssetId: "mi_metal_iron_001"
   }
 }
-Assets {
-  Id: 1746011019631953219
-  Name: "Wedge"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_wedge_001"
-  }
-}

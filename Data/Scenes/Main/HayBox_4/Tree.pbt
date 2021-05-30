@@ -1,7 +1,7 @@
 Name: "HayBox_4"
-RootId: 1087528730297507952
+RootId: 2658272844975531681
 Objects {
-  Id: 8154247697976052933
+  Id: 6546559971144206868
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.461456
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -74,15 +74,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8154247697976052933
-    SubobjectId: 1611175996738053547
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 2570739232998478047
+  Id: 603096668677051918
   Name: "Cube - bottom aligned"
   Transform {
     Location {
@@ -100,7 +94,7 @@ Objects {
       Z: 0.113896497
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -133,15 +127,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2570739232998478047
-    SubobjectId: 4960891642045610417
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 14138048467027258827
+  Id: 17277999099225123610
   Name: "Cube - bottom aligned"
   Transform {
     Location {
@@ -159,7 +147,7 @@ Objects {
       Z: 0.113892533
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -192,15 +180,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14138048467027258827
-    SubobjectId: 11763904912922477733
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 6828247188983184256
+  Id: 8444660706797272401
   Name: "Cube - bottom aligned"
   Transform {
     Location {
@@ -218,7 +200,7 @@ Objects {
       Z: 0.0616535954
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -251,15 +233,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6828247188983184256
-    SubobjectId: 4158924414630171374
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 1040281727996549895
+  Id: 2710157862561062358
   Name: "Cube - bottom aligned"
   Transform {
     Location {
@@ -277,7 +253,7 @@ Objects {
       Z: 0.0616557449
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -310,15 +286,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1040281727996549895
-    SubobjectId: 7573484075962184297
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 11964553630706743269
+  Id: 10230237359331209524
   Name: "Cube - bottom aligned"
   Transform {
     Location {
@@ -335,7 +305,7 @@ Objects {
       Z: 0.11389254
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -368,15 +338,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11964553630706743269
-    SubobjectId: 13942892926783676043
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 2174499889196473740
+  Id: 3881778175357868893
   Name: "Cube - bottom aligned"
   Transform {
     Location {
@@ -393,7 +357,7 @@ Objects {
       Z: 0.113896504
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -426,15 +390,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2174499889196473740
-    SubobjectId: 8743977530541962466
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 9888869353706342311
+  Id: 11731853696442990966
   Name: "Cube - bottom aligned"
   Transform {
     Location {
@@ -452,7 +410,7 @@ Objects {
       Z: 0.0616575517
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -485,15 +443,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9888869353706342311
-    SubobjectId: 17170513804458733257
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 3054769854971704831
+  Id: 114560797775475502
   Name: "Cube - bottom aligned"
   Transform {
     Location {
@@ -512,7 +464,7 @@ Objects {
       Z: 0.0616554022
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -545,15 +497,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3054769854971704831
-    SubobjectId: 5553221893625289873
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 8055875677415438849
+  Id: 4917790815535840464
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -570,7 +516,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1087528730297507952
+  ParentId: 2658272844975531681
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -625,11 +571,5 @@ Objects {
       }
       BoundsScale: 1
     }
-  }
-  InstanceHistory {
-    SelfId: 8055875677415438849
-    SubobjectId: 628675612454916975
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
   }
 }

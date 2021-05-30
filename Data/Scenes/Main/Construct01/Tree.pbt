@@ -1,7 +1,7 @@
 Name: "Construct01"
-RootId: 1378749081211528773
+RootId: 4094322314248528020
 Objects {
-  Id: 16957266068513897423
+  Id: 13882336138623024414
   Name: "Rope"
   Transform {
     Location {
@@ -18,23 +18,23 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1378749081211528773
-  ChildIds: 14171165537177865909
-  ChildIds: 594710483201065969
-  ChildIds: 7465577458369805733
-  ChildIds: 15409542688272755915
-  ChildIds: 17542740096930069707
-  ChildIds: 16958041795602421441
-  ChildIds: 15957259599823306847
-  ChildIds: 6496414426407827850
-  ChildIds: 5358871196704755224
-  ChildIds: 7287282275568305378
-  ChildIds: 3315360314511557439
-  ChildIds: 12041038421946753745
-  ChildIds: 18173068349695190691
-  ChildIds: 13923402831184328638
-  ChildIds: 3703166710018306408
-  ChildIds: 12834377389754283608
+  ParentId: 4094322314248528020
+  ChildIds: 17247009171950389348
+  ChildIds: 2572521339665106208
+  ChildIds: 5505852490164534132
+  ChildIds: 18314461697718905370
+  ChildIds: 15602700722615613978
+  ChildIds: 13881406480376352784
+  ChildIds: 17762244760457070222
+  ChildIds: 8202284242340527963
+  ChildIds: 7038335094135163081
+  ChildIds: 5679628543265374771
+  ChildIds: 428191799289103854
+  ChildIds: 10153897703089120256
+  ChildIds: 15546441232804126834
+  ChildIds: 16918446639953719663
+  ChildIds: 1772151126277109689
+  ChildIds: 11092197327449141385
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -47,15 +47,9 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 16957266068513897423
-    SubobjectId: 10097623114034959009
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 12834377389754283608
+  Id: 11092197327449141385
   Name: "Chain Ceiling Anchor"
   Transform {
     Location {
@@ -74,7 +68,7 @@ Objects {
       Z: 0.240841657
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -116,15 +110,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12834377389754283608
-    SubobjectId: 15377935793423523638
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 3703166710018306408
+  Id: 1772151126277109689
   Name: "crane_rope"
   Transform {
     Location {
@@ -143,7 +131,7 @@ Objects {
       Z: 0.281847954
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -219,15 +207,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3703166710018306408
-    SubobjectId: 6057890829206067206
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 13923402831184328638
+  Id: 16918446639953719663
   Name: "crane_rope"
   Transform {
     Location {
@@ -246,7 +228,7 @@ Objects {
       Z: 0.406951755
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -322,15 +304,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13923402831184328638
-    SubobjectId: 11983062691317358288
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 18173068349695190691
+  Id: 15546441232804126834
   Name: "crane_rope"
   Transform {
     Location {
@@ -349,7 +325,7 @@ Objects {
       Z: 1.04883146
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -395,15 +371,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18173068349695190691
-    SubobjectId: 11188644056637116365
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 12041038421946753745
+  Id: 10153897703089120256
   Name: "crane_rope"
   Transform {
     Location {
@@ -421,7 +391,7 @@ Objects {
       Z: 0.993350565
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -467,15 +437,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12041038421946753745
-    SubobjectId: 13866554366311959487
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 3315360314511557439
+  Id: 428191799289103854
   Name: "crane_rope"
   Transform {
     Location {
@@ -493,7 +457,7 @@ Objects {
       Z: 1.05710626
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -539,15 +503,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3315360314511557439
-    SubobjectId: 5293769979466771025
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 7287282275568305378
+  Id: 5679628543265374771
   Name: "crane_rope"
   Transform {
     Location {
@@ -566,7 +524,7 @@ Objects {
       Z: 1.06380129
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -612,15 +570,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7287282275568305378
-    SubobjectId: 167787136037301644
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 5358871196704755224
+  Id: 7038335094135163081
   Name: "crane_rope"
   Transform {
     Location {
@@ -639,7 +591,7 @@ Objects {
       Z: 1.12207544
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -685,15 +637,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5358871196704755224
-    SubobjectId: 3254750035337095030
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 6496414426407827850
+  Id: 8202284242340527963
   Name: "crane_rope"
   Transform {
     Location {
@@ -711,7 +657,7 @@ Objects {
       Z: 0.281847954
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -787,15 +733,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6496414426407827850
-    SubobjectId: 4418699308084170980
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 15957259599823306847
+  Id: 17762244760457070222
   Name: "crane_rope"
   Transform {
     Location {
@@ -814,7 +754,7 @@ Objects {
       Z: 3.51456666
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -890,15 +830,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15957259599823306847
-    SubobjectId: 13404447605236492593
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 16958041795602421441
+  Id: 13881406480376352784
   Name: "crane_rope"
   Transform {
     Location {
@@ -917,7 +851,7 @@ Objects {
       Z: 0.538780034
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -993,15 +927,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16958041795602421441
-    SubobjectId: 10097818265293291439
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 17542740096930069707
+  Id: 15602700722615613978
   Name: "crane_rope"
   Transform {
     Location {
@@ -1020,7 +948,7 @@ Objects {
       Z: 0.875883281
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1096,15 +1024,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17542740096930069707
-    SubobjectId: 10665065085318813093
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 15409542688272755915
+  Id: 18314461697718905370
   Name: "Chain Ceiling Anchor"
   Transform {
     Location {
@@ -1123,7 +1045,7 @@ Objects {
       Z: 0.240841657
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1165,15 +1087,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15409542688272755915
-    SubobjectId: 12874674723986523557
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 7465577458369805733
+  Id: 5505852490164534132
   Name: "Chain Ceiling Anchor"
   Transform {
     Location {
@@ -1191,7 +1107,7 @@ Objects {
       Z: 0.400392205
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1248,15 +1164,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7465577458369805733
-    SubobjectId: 67191399129699531
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 594710483201065969
+  Id: 2572521339665106208
   Name: "Chain Ceiling Anchor"
   Transform {
     Location {
@@ -1274,7 +1184,7 @@ Objects {
       Z: 0.132554516
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1341,15 +1251,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 594710483201065969
-    SubobjectId: 8013433246941145759
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 14171165537177865909
+  Id: 17247009171950389348
   Name: "crane_rope"
   Transform {
     Location {
@@ -1367,7 +1271,7 @@ Objects {
       Z: 2.49360108
     }
   }
-  ParentId: 16957266068513897423
+  ParentId: 13882336138623024414
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1443,15 +1347,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14171165537177865909
-    SubobjectId: 11808349046775703515
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 8917694521743735032
+  Id: 5778605837803339305
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1470,7 +1368,7 @@ Objects {
       Z: 1.04277396
     }
   }
-  ParentId: 1378749081211528773
+  ParentId: 4094322314248528020
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1505,15 +1403,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8917694521743735032
-    SubobjectId: 2069328124686274966
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 9120857712576844908
+  Id: 6152043861808583357
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1532,7 +1424,7 @@ Objects {
       Z: 1.24611616
     }
   }
-  ParentId: 1378749081211528773
+  ParentId: 4094322314248528020
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1568,15 +1460,9 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9120857712576844908
-    SubobjectId: 1866305400670502146
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
-  }
 }
 Objects {
-  Id: 3283777530232811048
+  Id: 459906799908219129
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1593,7 +1479,7 @@ Objects {
       Z: 1.04277396
     }
   }
-  ParentId: 1378749081211528773
+  ParentId: 4094322314248528020
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -1627,11 +1513,5 @@ Objects {
       }
       BoundsScale: 1
     }
-  }
-  InstanceHistory {
-    SelfId: 3283777530232811048
-    SubobjectId: 5397541474612168518
-    InstanceId: 6079271732411480348
-    TemplateId: 10616661052018824086
   }
 }

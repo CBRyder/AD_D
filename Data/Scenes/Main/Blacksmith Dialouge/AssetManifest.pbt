@@ -17,15 +17,6 @@ Assets {
   }
 }
 Assets {
-  Id: 15431234632665265779
-  Name: "UI Pop Single 02 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_ui_pop_single_02_Cue_ref"
-  }
-}
-Assets {
   Id: 14299001924079497417
   Name: "Humanoid 2 Peasant Shirt"
   PlatformAssetType: 26
@@ -59,15 +50,6 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "UI_Basic_Shape_001"
-  }
-}
-Assets {
-  Id: 7871110820329172543
-  Name: "Magic Star Collect 03 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_magic_star_collect_03_Cue_ref"
   }
 }
 Assets {
@@ -140,14 +122,5 @@ Assets {
   PrimaryAsset {
     AssetType: "SkinnedMeshAssetRef"
     AssetId: "npc_human_guy_head_basic_002_ref"
-  }
-}
-Assets {
-  Id: 481891369288056637
-  Name: "Clunky Click 01 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_ui_chunky_click_01_Cue_ref"
   }
 }

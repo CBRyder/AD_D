@@ -34,7 +34,7 @@ Objects {
     Overrides {
       Name: "cs:PrintSound"
       ObjectReference {
-        SelfId: 12088367711233794763
+        SelfId: 841534158063459245
       }
     }
     Overrides {
@@ -85,9 +85,6 @@ Objects {
   }
   ParentId: 8602817209169741723
   ChildIds: 6415780948527728409
-  ChildIds: 12088367711233794763
-  ChildIds: 4815485990481005433
-  ChildIds: 2186707303547363613
   ChildIds: 14242279501803876330
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2901,123 +2898,6 @@ Objects {
   InstanceHistory {
     SelfId: 822208694097026387
     SubobjectId: 17445101430934683950
-    InstanceId: 12925714101655593249
-    TemplateId: 942893291683102714
-  }
-}
-Objects {
-  Id: 2186707303547363613
-  Name: "Reward Sound"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17783299362437256817
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  AudioInstance {
-    AudioAsset {
-      Id: 7871110820329172543
-    }
-    Volume: 1
-    Falloff: -1
-    Radius: -1
-  }
-  InstanceHistory {
-    SelfId: 13920059417695155136
-    SubobjectId: 4061575510561238973
-    InstanceId: 12925714101655593249
-    TemplateId: 942893291683102714
-  }
-}
-Objects {
-  Id: 4815485990481005433
-  Name: "Click Sound"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17783299362437256817
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  AudioInstance {
-    AudioAsset {
-      Id: 481891369288056637
-    }
-    Volume: 1
-    Falloff: -1
-    Radius: -1
-  }
-  InstanceHistory {
-    SelfId: 9649882286072222005
-    SubobjectId: 8978811988017286472
-    InstanceId: 12925714101655593249
-    TemplateId: 942893291683102714
-  }
-}
-Objects {
-  Id: 12088367711233794763
-  Name: "Print Text Sound"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17783299362437256817
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  AudioInstance {
-    AudioAsset {
-      Id: 15431234632665265779
-    }
-    Volume: 0.2
-    Falloff: -1
-    Radius: -1
-  }
-  InstanceHistory {
-    SelfId: 8646220153817906137
-    SubobjectId: 10272123929275590564
     InstanceId: 12925714101655593249
     TemplateId: 942893291683102714
   }

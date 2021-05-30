@@ -64,7 +64,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Roof"
+    FilePartitionName: "Roof_2"
   }
   InstanceHistory {
     SelfId: 17752353467806505358
@@ -2568,7 +2568,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Walls"
+    FilePartitionName: "Walls_2"
   }
   InstanceHistory {
     SelfId: 3060608691716381314

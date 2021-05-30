@@ -7214,7 +7214,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Cart"
+    FilePartitionName: "Cart_2"
   }
 }
 Objects {
@@ -7261,12 +7261,12 @@ Objects {
   Name: "Horse Drawn Wagon With Horses"
   Transform {
     Location {
-      X: 7810
-      Y: -11500
+      X: 4811.0542
+      Y: -7070.34082
       Z: 1914.99805
     }
     Rotation {
-      Yaw: 39.9999847
+      Yaw: 10
     }
     Scale {
       X: 1
@@ -14470,7 +14470,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Cart_1"
+    FilePartitionName: "Cart_3"
   }
 }
 Objects {

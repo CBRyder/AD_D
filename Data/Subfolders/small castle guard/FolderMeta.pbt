@@ -25,3 +25,4 @@ AssetIdsOriginalToNew {
   key: 16638936355464385269
   value: 17236423598344202114
 }
+HasDirtyManifestAssets: true

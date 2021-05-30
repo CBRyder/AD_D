@@ -30,6 +30,18 @@ Assets {
           Id: 2354717027850780617
         }
       }
+      Overrides {
+        Name: "cmp:Material4"
+        AssetReference {
+          Id: 2428343606484865560
+        }
+      }
+      Overrides {
+        Name: "cmp:Material4_Sides"
+        AssetReference {
+          Id: 6274637327520755656
+        }
+      }
     }
     Assets {
       Id: 13983480147824470557
@@ -74,6 +86,24 @@ Assets {
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "mi_grass_003_uv"
+      }
+    }
+    Assets {
+      Id: 2428343606484865560
+      Name: "Dirt 01"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "dirt_001"
+      }
+    }
+    Assets {
+      Id: 6274637327520755656
+      Name: "Grass Clumps"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_grass_002_uv"
       }
     }
   }

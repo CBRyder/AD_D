@@ -5,8 +5,8 @@ Objects {
   Name: "Blacksmith Dialouge"
   Transform {
     Location {
-      X: 28233
-      Y: -1079
+      X: 25514.6055
+      Y: 2716.05176
       Z: -54.9998779
     }
     Rotation {

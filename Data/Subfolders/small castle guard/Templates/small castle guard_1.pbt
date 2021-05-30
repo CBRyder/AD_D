@@ -7,12 +7,8 @@ Assets {
       RootId: 3715714288178100667
       Objects {
         Id: 3715714288178100667
-        Name: "Group"
+        Name: "small castle guard"
         Transform {
-          Location {
-          }
-          Rotation {
-          }
           Scale {
             X: 1
             Y: 1
@@ -13441,12 +13437,12 @@ Assets {
         Name: "Castle Tower - 4xTiles High"
         Transform {
           Location {
-            X: 1390
-            Y: -1455
+            X: 1389.99927
+            Y: -1455.00049
             Z: 3200
           }
           Rotation {
-            Yaw: -89.9999924
+            Yaw: 107
           }
           Scale {
             X: 1
@@ -13631,11 +13627,12 @@ Assets {
         Name: "Fantasy Castle Wall 02 - Curved Window 01"
         Transform {
           Location {
-            Y: -400
+            X: -8.41107178
+            Y: 396.499481
             Z: 1200
           }
           Rotation {
-            Yaw: -179.999985
+            Yaw: 1
           }
           Scale {
             X: 1
@@ -14091,11 +14088,12 @@ Assets {
         Name: "Fantasy Castle Wall 02 - Curved Doorway"
         Transform {
           Location {
-            Y: 400
+            X: 9.3999939
+            Y: -403.817627
             Z: 1200
           }
           Rotation {
-            Yaw: 6.83018834e-06
+            Yaw: 180
           }
           Scale {
             X: 1

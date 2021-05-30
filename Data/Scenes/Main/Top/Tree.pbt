@@ -61,7 +61,7 @@ Objects {
   }
   Folder {
     IsFilePartition: true
-    FilePartitionName: "Middle"
+    FilePartitionName: "Middle_1"
   }
   InstanceHistory {
     SelfId: 17095674983830224076
